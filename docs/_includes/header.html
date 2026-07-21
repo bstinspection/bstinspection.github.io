@@ -1,6 +1,15 @@
+{% assign lang_prefix = '' %}
+{% if page.lang and page.lang != 'en' %}
+  {% assign lang_prefix = '/' | append: page.lang %}
+{% endif %}
+{% assign base_path = page.url %}
+{% if page.lang and page.lang != 'en' %}
+  {% assign lang_slash = page.lang | prepend: '/' %}
+  {% assign base_path = page.url | remove_first: lang_slash %}
+{% endif %}
 <header class="site-header">
   <div class="container header-inner">
-    <a href="{{ '/' | relative_url }}" class="logo">
+    <a href="{{ lang_prefix }}/" class="logo">
       <img src="{{ '/images/logo_透明.jpg' | relative_url }}?v={{ site.cache_buster }}" alt="{{ site.data.i18n[page.lang].misc.logo_alt }}" class="logo-img">
       <span class="logo-text">{{ site.title }}</span>
     </a>
@@ -9,24 +18,24 @@
     </button>
     <nav class="main-nav">
       <ul class="nav-list">
-        <li><a href="{{ '/' | relative_url }}">{{ site.data.i18n[page.lang].nav.home }}</a></li>
-        <li><a href="{{ '/about/' | relative_url }}">{{ site.data.i18n[page.lang].nav.about }}</a></li>
+        <li><a href="{{ lang_prefix }}/">{{ site.data.i18n[page.lang].nav.home }}</a></li>
+        <li><a href="{{ lang_prefix }}/about/">{{ site.data.i18n[page.lang].nav.about }}</a></li>
         <li class="dropdown">
-          <a href="{{ '/services/' | relative_url }}">{{ site.data.i18n[page.lang].nav.services }} <span class="arrow">&#9662;</span></a>
+          <a href="{{ lang_prefix }}/services/">{{ site.data.i18n[page.lang].nav.services }} <span class="arrow">&#9662;</span></a>
           <ul class="dropdown-menu">
-            <li><a href="{{ '/services/' | relative_url }}#fa">{{ site.data.i18n[page.lang].services.fa }}</a></li>
-            <li><a href="{{ '/services/' | relative_url }}#sca">{{ site.data.i18n[page.lang].services.sca }}</a></li>
-            <li><a href="{{ '/services/' | relative_url }}#ipc">{{ site.data.i18n[page.lang].services.ipc }}</a></li>
-            <li><a href="{{ '/services/' | relative_url }}#ipqc">{{ site.data.i18n[page.lang].services.ipqc }}</a></li>
-            <li><a href="{{ '/services/' | relative_url }}#dupro">{{ site.data.i18n[page.lang].services.dupro }}</a></li>
-            <li><a href="{{ '/services/' | relative_url }}#fri">{{ site.data.i18n[page.lang].services.fri }}</a></li>
-            <li><a href="{{ '/services/' | relative_url }}#ls">{{ site.data.i18n[page.lang].services.ls }}</a></li>
-            <li><a href="{{ '/services/' | relative_url }}#ta">{{ site.data.i18n[page.lang].services.ta }}</a></li>
+            <li><a href="{{ lang_prefix }}/services/#fa">{{ site.data.i18n[page.lang].services.fa }}</a></li>
+            <li><a href="{{ lang_prefix }}/services/#sca">{{ site.data.i18n[page.lang].services.sca }}</a></li>
+            <li><a href="{{ lang_prefix }}/services/#ipc">{{ site.data.i18n[page.lang].services.ipc }}</a></li>
+            <li><a href="{{ lang_prefix }}/services/#ipqc">{{ site.data.i18n[page.lang].services.ipqc }}</a></li>
+            <li><a href="{{ lang_prefix }}/services/#dupro">{{ site.data.i18n[page.lang].services.dupro }}</a></li>
+            <li><a href="{{ lang_prefix }}/services/#fri">{{ site.data.i18n[page.lang].services.fri }}</a></li>
+            <li><a href="{{ lang_prefix }}/services/#ls">{{ site.data.i18n[page.lang].services.ls }}</a></li>
+            <li><a href="{{ lang_prefix }}/services/#ta">{{ site.data.i18n[page.lang].services.ta }}</a></li>
           </ul>
         </li>
-        <li><a href="{{ '/news/' | relative_url }}">{{ site.data.i18n[page.lang].nav.news }}</a></li>
-        <li><a href="{{ '/pricing/' | relative_url }}">{{ site.data.i18n[page.lang].nav.pricing }}</a></li>
-        <li><a href="{{ '/contact/' | relative_url }}">{{ site.data.i18n[page.lang].nav.contact }}</a></li>
+        <li><a href="{{ lang_prefix }}/news/">{{ site.data.i18n[page.lang].nav.news }}</a></li>
+        <li><a href="{{ lang_prefix }}/pricing/">{{ site.data.i18n[page.lang].nav.pricing }}</a></li>
+        <li><a href="{{ lang_prefix }}/contact/">{{ site.data.i18n[page.lang].nav.contact }}</a></li>
       </ul>
       <div class="lang-switcher">
         <div class="lang-dropdown">
@@ -35,13 +44,13 @@
             <span class="lang-arrow">&#9662;</span>
           </button>
           <ul class="lang-dropdown-menu">
-            <li><a class="lang-option {% if page.lang == 'en' %}active{% endif %}" href="{{ '/' | relative_url }}">English</a></li>
-            <li><a class="lang-option {% if page.lang == 'zh' %}active{% endif %}" href="{{ '/zh/' | relative_url }}">中文</a></li>
-            <li><a class="lang-option {% if page.lang == 'fr' %}active{% endif %}" href="{{ '/fr/' | relative_url }}">Français</a></li>
-            <li><a class="lang-option {% if page.lang == 'ru' %}active{% endif %}" href="{{ '/ru/' | relative_url }}">Русский</a></li>
-            <li><a class="lang-option {% if page.lang == 'es' %}active{% endif %}" href="{{ '/es/' | relative_url }}">Español</a></li>
-            <li><a class="lang-option {% if page.lang == 'pt-BR' %}active{% endif %}" href="{{ '/pt-BR/' | relative_url }}">Português</a></li>
-            <li><a class="lang-option {% if page.lang == 'ar' %}active{% endif %}" href="{{ '/ar/' | relative_url }}">العربية</a></li>
+            <li><a class="lang-option {% if page.lang == 'en' %}active{% endif %}" href="{{ base_path }}">English</a></li>
+            <li><a class="lang-option {% if page.lang == 'zh' %}active{% endif %}" href="/zh{{ base_path }}">中文</a></li>
+            <li><a class="lang-option {% if page.lang == 'fr' %}active{% endif %}" href="/fr{{ base_path }}">Français</a></li>
+            <li><a class="lang-option {% if page.lang == 'ru' %}active{% endif %}" href="/ru{{ base_path }}">Русский</a></li>
+            <li><a class="lang-option {% if page.lang == 'es' %}active{% endif %}" href="/es{{ base_path }}">Español</a></li>
+            <li><a class="lang-option {% if page.lang == 'pt-BR' %}active{% endif %}" href="/pt-BR{{ base_path }}">Português</a></li>
+            <li><a class="lang-option {% if page.lang == 'ar' %}active{% endif %}" href="/ar{{ base_path }}">العربية</a></li>
           </ul>
         </div>
       </div>
