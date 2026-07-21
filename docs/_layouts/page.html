@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<main class="page-content">
+  <div class="container page-layout">
+    <article class="content-area">
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+    </article>
+    {% if page.sidebar != false %}
+    <aside class="sidebar">
+      <div class="sidebar-widget">
+        <h3>Quick Links</h3>
+        <ul class="sidebar-nav">
+          <li><a href="{{ '/about/' | relative_url }}">About Us</a></li>
+          <li><a href="{{ '/services/' | relative_url }}">Our Services</a></li>
+          <li><a href="{{ '/production-scope/' | relative_url }}">Production Scope</a></li>
+          <li><a href="{{ '/quality-standard/' | relative_url }}">Quality Standards</a></li>
+          <li><a href="{{ '/pricing/' | relative_url }}">Pricing</a></li>
+          <li><a href="{{ '/order-procedure/' | relative_url }}">Order Procedure</a></li>
+          <li><a href="{{ '/terms/' | relative_url }}">Terms &amp; Conditions</a></li>
+          <li><a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a></li>
+          <li><a href="{{ '/quality-link/' | relative_url }}">Quality Links</a></li>
+          <li><a href="{{ '/reference-reports/' | relative_url }}">Reference Reports</a></li>
+        </ul>
+      </div>
+    </aside>
+    {% endif %}
+  </div>
+</main>

@@ -1,0 +1,42 @@
+title: Brightsky Technology Services
+tagline: Professional Quality Assurance Services in China
+description: BST provides purchase consultations and quality assurance services to the importers, retailers, distributors who are sourcing from China.
+url: "https://bstinspection.github.io"
+baseurl: ""
+
+lang: en
+default_lang: en
+available_langs:
+  - en
+  - zh
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+timezone: Asia/Shanghai
+
+permalink: /news/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      lang: en
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      lang: en
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+cache_buster: 2

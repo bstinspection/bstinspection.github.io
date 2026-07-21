@@ -1,0 +1,44 @@
+<div class="footer-wave">
+  <svg viewBox="0 0 1440 60" preserveAspectRatio="none">
+    <path fill="#0A1628" d="M0,30 C360,60 720,0 1080,30 C1260,45 1350,35 1440,30 L1440,60 L0,60 Z"/>
+  </svg>
+</div>
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div class="footer-col footer-about">
+      <h3>{{ site.title }}</h3>
+      <p>{{ site.data.i18n[page.lang].footer.about }}</p>
+    </div>
+    <div class="footer-col footer-links">
+      <h3>{{ site.data.i18n[page.lang].footer.quick_links }}</h3>
+      <ul>
+        <li><a href="{{ '/about/' | relative_url }}"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.about }}</a></li>
+        <li><a href="{{ '/services/' | relative_url }}"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.services }}</a></li>
+        <li><a href="{{ '/news/' | relative_url }}"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.news }}</a></li>
+        <li><a href="{{ '/pricing/' | relative_url }}"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.pricing }}</a></li>
+        <li><a href="{{ '/order-procedure/' | relative_url }}"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.order }}</a></li>
+      </ul>
+    </div>
+    <div class="footer-col footer-services">
+      <h3>{{ site.data.i18n[page.lang].footer.services_title }}</h3>
+      <ul>
+        <li><a href="{{ '/services/' | relative_url }}#fa"><i class="fas fa-chevron-right"></i> Factory Audit</a></li>
+        <li><a href="{{ '/services/' | relative_url }}#sca"><i class="fas fa-chevron-right"></i> Social Compliance Audit</a></li>
+        <li><a href="{{ '/services/' | relative_url }}#ipc"><i class="fas fa-chevron-right"></i> Initial Production Check</a></li>
+        <li><a href="{{ '/services/' | relative_url }}#fri"><i class="fas fa-chevron-right"></i> Final Random Inspection</a></li>
+        <li><a href="{{ '/services/' | relative_url }}#ls"><i class="fas fa-chevron-right"></i> Loading Supervision</a></li>
+      </ul>
+    </div>
+    <div class="footer-col footer-contact">
+      <h3>{{ site.data.i18n[page.lang].footer.contact_title }}</h3>
+      <p><i class="fas fa-map-marker-alt"></i> {{ site.data.i18n[page.lang].footer.address }}</p>
+      <p><i class="fas fa-envelope"></i> <a href="mailto:{{ site.data.i18n[page.lang].footer.email }}">{{ site.data.i18n[page.lang].footer.email }}</a></p>
+      <p><i class="fas fa-phone"></i> {{ site.data.i18n[page.lang].footer.phone }}</p>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="container">
+      <p>{{ site.data.i18n[page.lang].footer.copyright | replace: '__YEAR__', '2025' }}</p>
+    </div>
+  </div>
+</footer>
