@@ -1,8 +1,7 @@
 ---
 layout: page
-title: News
-lang: en
-permalink: /news/
+title: Actualités
+lang: fr
 sidebar: false
 ---
 

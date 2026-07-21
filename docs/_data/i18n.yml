@@ -54,6 +54,33 @@ en:
   page:
     back_to_top: "Back to Top"
     home: "Home"
+  services:
+    fa: "Factory Audit (FA)"
+    sca: "Social Compliance Audit (SCA)"
+    ipc: "Initial Production Check (IPC)"
+    ipqc: "In-Process Quality Check (IPQC)"
+    dupro: "During Production Check (DUPRO)"
+    fri: "Final Random Inspection (FRI)"
+    ls: "Loading Supervision (L/S)"
+    ta: "Testing Arrangement (TA)"
+  service_cards:
+    fa_desc: "Audit manufacturers against quality standards."
+    sca_desc: "Social accountability and code of conduct audits."
+    ipc_desc: "Check components and materials before mass production."
+    ipqc_desc: "Early warning of quality issues during production."
+    dupro_desc: "Visual check at 20-30% production completion."
+    fri_desc: "Pre-shipment inspection on finished goods."
+    ls_desc: "Supervise container loading and sealing."
+    ta_desc: "Independent lab testing and CE certification."
+  index_services:
+    title: "Our Services"
+    subtitle: "BST provides comprehensive quality assurance services throughout your supply chain."
+  misc:
+    logo_alt: "BST Logo"
+    menu_toggle: "Toggle menu"
+    page_not_found: "Page Not Found"
+    not_found_msg: "Sorry, the page you are looking for could not be found."
+    back_home: "Back to Home"
 
 zh:
   nav:
@@ -111,6 +138,33 @@ zh:
   page:
     back_to_top: "返回顶部"
     home: "首页"
+  services:
+    fa: "工厂审核 (FA)"
+    sca: "社会责任审核 (SCA)"
+    ipc: "初期生产检查 (IPC)"
+    ipqc: "过程质量控制 (IPQC)"
+    dupro: "生产中期检查 (DUPRO)"
+    fri: "最终随机抽样检验 (FRI)"
+    ls: "装柜监督 (L/S)"
+    ta: "测试安排 (TA)"
+  service_cards:
+    fa_desc: "按照质量标准审核制造商。"
+    sca_desc: "社会责任及行为准则审核。"
+    ipc_desc: "在大规模生产前检查零部件和材料。"
+    ipqc_desc: "生产过程中质量问题的早期预警。"
+    dupro_desc: "在生产完成 20%-30% 时进行外观检查。"
+    fri_desc: "成品出货前检验。"
+    ls_desc: "监督集装箱装载和封箱。"
+    ta_desc: "独立实验室检测及 CE 认证。"
+  index_services:
+    title: "我们的服务"
+    subtitle: "BST 为您的供应链提供全面的质量保证服务。"
+  misc:
+    logo_alt: "BST 标志"
+    menu_toggle: "切换菜单"
+    page_not_found: "页面未找到"
+    not_found_msg: "抱歉，您访问的页面不存在。"
+    back_home: "返回首页"
 
 fr:
   nav:
@@ -168,6 +222,33 @@ fr:
   page:
     back_to_top: "Haut de page"
     home: "Accueil"
+  services:
+    fa: "Audit d'usine (FA)"
+    sca: "Audit de conformité sociale (SCA)"
+    ipc: "Contrôle de production initiale (IPC)"
+    ipqc: "Contrôle qualité en cours de production (IPQC)"
+    dupro: "Contrôle en cours de production (DUPRO)"
+    fri: "Inspection finale aléatoire (FRI)"
+    ls: "Supervision du chargement (L/S)"
+    ta: "Organisation de tests (TA)"
+  service_cards:
+    fa_desc: "Auditer les fabricants selon les normes de qualité."
+    sca_desc: "Audits de responsabilité sociale et de code de conduite."
+    ipc_desc: "Vérifier les composants et matériaux avant la production de masse."
+    ipqc_desc: "Alerte précoce des problèmes de qualité pendant la production."
+    dupro_desc: "Contrôle visuel à 20-30% d'achèvement de la production."
+    fri_desc: "Inspection pré-expédition des produits finis."
+    ls_desc: "Superviser le chargement et le scellement des conteneurs."
+    ta_desc: "Tests en laboratoire indépendant et certification CE."
+  index_services:
+    title: "Nos services"
+    subtitle: "BST fournit des services complets d'assurance qualité tout au long de votre chaîne d'approvisionnement."
+  misc:
+    logo_alt: "Logo BST"
+    menu_toggle: "Basculer le menu"
+    page_not_found: "Page non trouvée"
+    not_found_msg: "Désolé, la page que vous recherchez est introuvable."
+    back_home: "Retour à l'accueil"
 
 ru:
   nav:
@@ -225,6 +306,33 @@ ru:
   page:
     back_to_top: "Наверх"
     home: "Главная"
+  services:
+    fa: "Аудит фабрики (FA)"
+    sca: "Аудит социального соответствия (SCA)"
+    ipc: "Проверка начального производства (IPC)"
+    ipqc: "Контроль качества в процессе (IPQC)"
+    dupro: "Проверка во время производства (DUPRO)"
+    fri: "Финальная случайная инспекция (FRI)"
+    ls: "Наблюдение за погрузкой (L/S)"
+    ta: "Организация тестирования (TA)"
+  service_cards:
+    fa_desc: "Аудит производителей на соответствие стандартам качества."
+    sca_desc: "Аудиты социальной ответственности и кодекса поведения."
+    ipc_desc: "Проверка компонентов и материалов перед массовым производством."
+    ipqc_desc: "Раннее предупреждение о проблемах качества в процессе производства."
+    dupro_desc: "Визуальная проверка при 20-30% завершения производства."
+    fri_desc: "Предотгрузочная инспекция готовой продукции."
+    ls_desc: "Контроль загрузки и опломбирования контейнеров."
+    ta_desc: "Независимые лабораторные испытания и сертификация CE."
+  index_services:
+    title: "Наши услуги"
+    subtitle: "BST предоставляет комплексные услуги по обеспечению качества по всей вашей цепочке поставок."
+  misc:
+    logo_alt: "Логотип BST"
+    menu_toggle: "Переключить меню"
+    page_not_found: "Страница не найдена"
+    not_found_msg: "Извините, страница, которую вы ищете, не найдена."
+    back_home: "На главную"
 
 es:
   nav:
@@ -282,6 +390,33 @@ es:
   page:
     back_to_top: "Volver arriba"
     home: "Inicio"
+  services:
+    fa: "Auditoría de fábrica (FA)"
+    sca: "Auditoría de cumplimiento social (SCA)"
+    ipc: "Control de producción inicial (IPC)"
+    ipqc: "Control de calidad en proceso (IPQC)"
+    dupro: "Control durante la producción (DUPRO)"
+    fri: "Inspección final aleatoria (FRI)"
+    ls: "Supervisión de carga (L/S)"
+    ta: "Gestión de pruebas (TA)"
+  service_cards:
+    fa_desc: "Auditar fabricantes conforme a los estándares de calidad."
+    sca_desc: "Auditorías de responsabilidad social y código de conducta."
+    ipc_desc: "Verificar componentes y materiales antes de la producción en masa."
+    ipqc_desc: "Alerta temprana de problemas de calidad durante la producción."
+    dupro_desc: "Inspección visual al 20-30% de finalización de la producción."
+    fri_desc: "Inspección previa al envío de productos terminados."
+    ls_desc: "Supervisar la carga y sellado de contenedores."
+    ta_desc: "Pruebas de laboratorio independientes y certificación CE."
+  index_services:
+    title: "Nuestros servicios"
+    subtitle: "BST brinda servicios integrales de aseguramiento de calidad en toda su cadena de suministro."
+  misc:
+    logo_alt: "Logotipo de BST"
+    menu_toggle: "Alternar menú"
+    page_not_found: "Página no encontrada"
+    not_found_msg: "Lo sentimos, la página que busca no se pudo encontrar."
+    back_home: "Volver al inicio"
 
 pt-BR:
   nav:
@@ -339,6 +474,33 @@ pt-BR:
   page:
     back_to_top: "Voltar ao topo"
     home: "Início"
+  services:
+    fa: "Auditoria de fábrica (FA)"
+    sca: "Auditoria de conformidade social (SCA)"
+    ipc: "Verificação de produção inicial (IPC)"
+    ipqc: "Controle de qualidade em processo (IPQC)"
+    dupro: "Verificação durante a produção (DUPRO)"
+    fri: "Inspeção final aleatória (FRI)"
+    ls: "Supervisão de carregamento (L/S)"
+    ta: "Providência de testes (TA)"
+  service_cards:
+    fa_desc: "Auditar fabricantes conforme padrões de qualidade."
+    sca_desc: "Auditorias de responsabilidade social e código de conduta."
+    ipc_desc: "Verificar componentes e materiais antes da produção em massa."
+    ipqc_desc: "Alerta precoce de problemas de qualidade durante a produção."
+    dupro_desc: "Inspeção visual com 20-30% da produção concluída."
+    fri_desc: "Inspeção pré-embarque de produtos acabados."
+    ls_desc: "Supervisionar o carregamento e lacramento de contêineres."
+    ta_desc: "Testes laboratoriais independentes e certificação CE."
+  index_services:
+    title: "Nossos serviços"
+    subtitle: "A BST oferece serviços abrangentes de garantia de qualidade em toda a sua cadeia de suprimentos."
+  misc:
+    logo_alt: "Logotipo da BST"
+    menu_toggle: "Alternar menu"
+    page_not_found: "Página não encontrada"
+    not_found_msg: "Desculpe, a página que você procura não foi encontrada."
+    back_home: "Voltar ao início"
 
 ar:
   nav:
@@ -396,3 +558,30 @@ ar:
   page:
     back_to_top: "العودة إلى الأعلى"
     home: "الرئيسية"
+  services:
+    fa: "تدقيق المصنع (FA)"
+    sca: "تدقيق الامتثال الاجتماعي (SCA)"
+    ipc: "فحص الإنتاج الأولي (IPC)"
+    ipqc: "فحص الجودة أثناء العملية (IPQC)"
+    dupro: "الفحص أثناء الإنتاج (DUPRO)"
+    fri: "التفتيش العشوائي النهائي (FRI)"
+    ls: "الإشراف على التحميل (L/S)"
+    ta: "ترتيب الاختبارات (TA)"
+  service_cards:
+    fa_desc: "تدقيق المصنعين وفقاً لمعايير الجودة."
+    sca_desc: "تدقيق المسؤولية الاجتماعية ومدونات قواعد السلوك."
+    ipc_desc: "فحص المكونات والمواد قبل الإنتاج الضخم."
+    ipqc_desc: "إنذار مبكر لمشكلات الجودة أثناء الإنتاج."
+    dupro_desc: "فحص بصري عند إنجاز 20-30% من الإنتاج."
+    fri_desc: "تفتيش ما قبل الشحن للبضائع النهائية."
+    ls_desc: "الإشراف على تحميل وختم الحاويات."
+    ta_desc: "اختبارات معملية مستقلة وشهادة CE."
+  index_services:
+    title: "خدماتنا"
+    subtitle: "توفر BST خدمات شاملة لضمان الجودة عبر سلسلة التوريد الخاصة بك."
+  misc:
+    logo_alt: "شعار BST"
+    menu_toggle: "تبديل القائمة"
+    page_not_found: "الصفحة غير موجودة"
+    not_found_msg: "عذراً، الصفحة التي تبحث عنها غير موجودة."
+    back_home: "العودة إلى الرئيسية"

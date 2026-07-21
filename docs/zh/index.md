@@ -1,11 +1,12 @@
 ---
 layout: home
-title: Home
-lang: en
-permalink: /
+title: 首页
+lang: zh
 sidebar: false
 hero_image: /images/background.jpg?v={{ site.cache_buster }}
 ---
+
+{% include hero.html %}
 
 <section class="section animate-on-scroll">
   <div class="section-title">
