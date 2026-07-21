@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+{% assign lang_prefix = '' %}
+{% if page.lang and page.lang != 'en' %}
+  {% assign lang_prefix = '/' | append: page.lang %}
+{% endif %}
 <main class="page-content">
   <div class="container page-layout">
     <article class="content-area">
@@ -12,16 +16,16 @@ layout: default
       <div class="sidebar-widget">
         <h3>{{ site.data.i18n[page.lang].footer.quick_links }}</h3>
         <ul class="sidebar-nav">
-          <li><a href="{{ '/about/' | relative_url }}">{{ site.data.i18n[page.lang].nav.about }}</a></li>
-          <li><a href="{{ '/services/' | relative_url }}">{{ site.data.i18n[page.lang].nav.services }}</a></li>
-          <li><a href="{{ '/production-scope/' | relative_url }}">{{ site.data.i18n[page.lang].nav.production }}</a></li>
-          <li><a href="{{ '/quality-standard/' | relative_url }}">{{ site.data.i18n[page.lang].nav.quality }}</a></li>
-          <li><a href="{{ '/pricing/' | relative_url }}">{{ site.data.i18n[page.lang].nav.pricing }}</a></li>
-          <li><a href="{{ '/order-procedure/' | relative_url }}">{{ site.data.i18n[page.lang].nav.order }}</a></li>
-          <li><a href="{{ '/terms/' | relative_url }}">{{ site.data.i18n[page.lang].nav.terms }}</a></li>
-          <li><a href="{{ '/privacy/' | relative_url }}">{{ site.data.i18n[page.lang].nav.privacy }}</a></li>
-          <li><a href="{{ '/quality-link/' | relative_url }}">{{ site.data.i18n[page.lang].nav.links }}</a></li>
-          <li><a href="{{ '/reference-reports/' | relative_url }}">{{ site.data.i18n[page.lang].nav.reports }}</a></li>
+          <li><a href="{{ lang_prefix }}/about/">{{ site.data.i18n[page.lang].nav.about }}</a></li>
+          <li><a href="{{ lang_prefix }}/services/">{{ site.data.i18n[page.lang].nav.services }}</a></li>
+          <li><a href="{{ lang_prefix }}/production-scope/">{{ site.data.i18n[page.lang].nav.production }}</a></li>
+          <li><a href="{{ lang_prefix }}/quality-standard/">{{ site.data.i18n[page.lang].nav.quality }}</a></li>
+          <li><a href="{{ lang_prefix }}/pricing/">{{ site.data.i18n[page.lang].nav.pricing }}</a></li>
+          <li><a href="{{ lang_prefix }}/order-procedure/">{{ site.data.i18n[page.lang].nav.order }}</a></li>
+          <li><a href="{{ lang_prefix }}/terms/">{{ site.data.i18n[page.lang].nav.terms }}</a></li>
+          <li><a href="{{ lang_prefix }}/privacy/">{{ site.data.i18n[page.lang].nav.privacy }}</a></li>
+          <li><a href="{{ lang_prefix }}/quality-link/">{{ site.data.i18n[page.lang].nav.links }}</a></li>
+          <li><a href="{{ lang_prefix }}/reference-reports/">{{ site.data.i18n[page.lang].nav.reports }}</a></li>
         </ul>
       </div>
     </aside>

@@ -40,19 +40,6 @@
     }
   });
 
-  // === Language dropdown toggle (mobile only) ===
-  var langDropdown = document.querySelector('.lang-dropdown');
-  var langBtn = document.querySelector('.lang-dropdown-btn');
-  if (langBtn && window.innerWidth <= 768) {
-    langBtn.addEventListener('click', function(e) {
-      e.stopPropagation();
-      langDropdown.classList.toggle('open');
-    });
-    document.addEventListener('click', function() {
-      langDropdown.classList.remove('open');
-    });
-  }
-
   // === Smooth scroll for anchor links ===
   document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
     anchor.addEventListener('click', function(e) {

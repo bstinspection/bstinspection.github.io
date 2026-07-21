@@ -282,7 +282,6 @@ li { margin-bottom: 0.3em; }
   transition: transform 0.2s ease;
 }
 
-.lang-dropdown.open .lang-arrow,
 .lang-dropdown:hover .lang-arrow {
   transform: rotate(180deg);
 }
@@ -303,7 +302,6 @@ li { margin-bottom: 0.3em; }
   z-index: 100;
 }
 
-.lang-dropdown.open .lang-dropdown-menu,
 .lang-dropdown:hover .lang-dropdown-menu {
   display: block;
 }
