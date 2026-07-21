@@ -36,24 +36,19 @@
         <li><a href="{{ lang_prefix }}/news/">{{ site.data.i18n[page.lang].nav.news }}</a></li>
         <li><a href="{{ lang_prefix }}/pricing/">{{ site.data.i18n[page.lang].nav.pricing }}</a></li>
         <li><a href="{{ lang_prefix }}/contact/">{{ site.data.i18n[page.lang].nav.contact }}</a></li>
-      </ul>
-      <div class="lang-switcher">
-        <div class="lang-dropdown">
-          <button class="lang-dropdown-btn">
-            <span class="lang-current">{% if page.lang == 'en' %}English{% elsif page.lang == 'zh' %}中文{% elsif page.lang == 'fr' %}Français{% elsif page.lang == 'ru' %}Русский{% elsif page.lang == 'es' %}Español{% elsif page.lang == 'pt-BR' %}Português{% elsif page.lang == 'ar' %}العربية{% else %}English{% endif %}</span>
-            <span class="lang-arrow">&#9662;</span>
-          </button>
-          <ul class="lang-dropdown-menu">
-            <li><a class="lang-option {% if page.lang == 'en' %}active{% endif %}" href="{{ base_path }}">English</a></li>
-            <li><a class="lang-option {% if page.lang == 'zh' %}active{% endif %}" href="/zh{{ base_path }}">中文</a></li>
-            <li><a class="lang-option {% if page.lang == 'fr' %}active{% endif %}" href="/fr{{ base_path }}">Français</a></li>
-            <li><a class="lang-option {% if page.lang == 'ru' %}active{% endif %}" href="/ru{{ base_path }}">Русский</a></li>
-            <li><a class="lang-option {% if page.lang == 'es' %}active{% endif %}" href="/es{{ base_path }}">Español</a></li>
-            <li><a class="lang-option {% if page.lang == 'pt-BR' %}active{% endif %}" href="/pt-BR{{ base_path }}">Português</a></li>
-            <li><a class="lang-option {% if page.lang == 'ar' %}active{% endif %}" href="/ar{{ base_path }}">العربية</a></li>
+        <li class="dropdown">
+          <a href="#">{% if page.lang == 'en' %}English{% elsif page.lang == 'zh' %}中文{% elsif page.lang == 'fr' %}Français{% elsif page.lang == 'ru' %}Русский{% elsif page.lang == 'es' %}Español{% elsif page.lang == 'pt-BR' %}Português{% elsif page.lang == 'ar' %}العربية{% else %}English{% endif %} <span class="arrow">&#9662;</span></a>
+          <ul class="dropdown-menu">
+            <li><a class="{% if page.lang == 'en' %}active{% endif %}" href="{{ base_path }}">English</a></li>
+            <li><a class="{% if page.lang == 'zh' %}active{% endif %}" href="/zh{{ base_path }}">中文</a></li>
+            <li><a class="{% if page.lang == 'fr' %}active{% endif %}" href="/fr{{ base_path }}">Français</a></li>
+            <li><a class="{% if page.lang == 'ru' %}active{% endif %}" href="/ru{{ base_path }}">Русский</a></li>
+            <li><a class="{% if page.lang == 'es' %}active{% endif %}" href="/es{{ base_path }}">Español</a></li>
+            <li><a class="{% if page.lang == 'pt-BR' %}active{% endif %}" href="/pt-BR{{ base_path }}">Português</a></li>
+            <li><a class="{% if page.lang == 'ar' %}active{% endif %}" href="/ar{{ base_path }}">العربية</a></li>
           </ul>
-        </div>
-      </div>
+        </li>
+      </ul>
     </nav>
   </div>
 </header>
