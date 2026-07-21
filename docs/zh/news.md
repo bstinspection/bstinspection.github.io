@@ -1,8 +1,7 @@
 ---
 layout: page
-title: News
-lang: en
-permalink: /news/
+title: 新闻动态
+lang: zh
 sidebar: false
 ---
 
