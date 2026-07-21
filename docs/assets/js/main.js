@@ -40,23 +40,18 @@
     }
   });
 
-  // === Language switcher ===
-  var langRoutes = {
-    'en': '/',
-    'zh': '/zh/',
-    'fr': '/fr/',
-    'ru': '/ru/',
-    'es': '/es/',
-    'pt-BR': '/pt-BR/',
-    'ar': '/ar/'
-  };
-  var langBtns = document.querySelectorAll('.lang-btn');
-  langBtns.forEach(function(btn) {
-    btn.addEventListener('click', function() {
-      var lang = this.getAttribute('data-lang');
-      window.location.href = langRoutes[lang] || '/';
+  // === Language dropdown toggle ===
+  var langDropdown = document.querySelector('.lang-dropdown');
+  var langBtn = document.querySelector('.lang-dropdown-btn');
+  if (langBtn) {
+    langBtn.addEventListener('click', function(e) {
+      e.stopPropagation();
+      langDropdown.classList.toggle('open');
     });
-  });
+    document.addEventListener('click', function() {
+      langDropdown.classList.remove('open');
+    });
+  }
 
   // === Smooth scroll for anchor links ===
   document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
