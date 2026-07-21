@@ -41,12 +41,20 @@
   });
 
   // === Language switcher ===
+  var langRoutes = {
+    'en': '/',
+    'zh': '/zh/',
+    'fr': '/fr/',
+    'ru': '/ru/',
+    'es': '/es/',
+    'pt-BR': '/pt-BR/',
+    'ar': '/ar/'
+  };
   var langBtns = document.querySelectorAll('.lang-btn');
   langBtns.forEach(function(btn) {
     btn.addEventListener('click', function() {
       var lang = this.getAttribute('data-lang');
-      if (lang === 'zh') { window.location.href = '/zh/'; }
-      else { window.location.href = '/'; }
+      window.location.href = langRoutes[lang] || '/';
     });
   });
 

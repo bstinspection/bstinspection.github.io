@@ -9,6 +9,11 @@ default_lang: en
 available_langs:
   - en
   - zh
+  - fr
+  - ru
+  - es
+  - pt-BR
+  - ar
 
 markdown: kramdown
 kramdown:
