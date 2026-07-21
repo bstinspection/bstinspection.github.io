@@ -40,10 +40,10 @@
     }
   });
 
-  // === Language dropdown toggle ===
+  // === Language dropdown toggle (mobile only) ===
   var langDropdown = document.querySelector('.lang-dropdown');
   var langBtn = document.querySelector('.lang-dropdown-btn');
-  if (langBtn) {
+  if (langBtn && window.innerWidth <= 768) {
     langBtn.addEventListener('click', function(e) {
       e.stopPropagation();
       langDropdown.classList.toggle('open');

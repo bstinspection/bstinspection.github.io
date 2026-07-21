@@ -7,6 +7,10 @@ sidebar: false
 hero_image: /images/background.jpg?v={{ site.cache_buster }}
 ---
 
+{% assign lang_prefix = '' %}
+{% if page.lang and page.lang != 'en' %}
+  {% assign lang_prefix = '/' | append: page.lang %}
+{% endif %}
 <section class="section animate-on-scroll">
   <div class="section-title">
     <h2>{{ site.data.i18n[page.lang].index_services.title }}</h2>
@@ -14,42 +18,42 @@ hero_image: /images/background.jpg?v={{ site.cache_buster }}
   </div>
 
   <div class="services-grid">
-    <a href="{{ '/services/' | relative_url }}#fa" class="service-card">
+    <a href="{{ lang_prefix }}/services/#fa" class="service-card">
       <div class="service-icon-wrap"><i class="fas fa-building"></i></div>
       <h3>{{ site.data.i18n[page.lang].services.fa }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.fa_desc }}</p>
     </a>
-    <a href="{{ '/services/' | relative_url }}#sca" class="service-card">
+    <a href="{{ lang_prefix }}/services/#sca" class="service-card">
       <div class="service-icon-wrap"><i class="fas fa-handshake"></i></div>
       <h3>{{ site.data.i18n[page.lang].services.sca }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.sca_desc }}</p>
     </a>
-    <a href="{{ '/services/' | relative_url }}#ipc" class="service-card">
+    <a href="{{ lang_prefix }}/services/#ipc" class="service-card">
       <div class="service-icon-wrap"><i class="fas fa-microchip"></i></div>
       <h3>{{ site.data.i18n[page.lang].services.ipc }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.ipc_desc }}</p>
     </a>
-    <a href="{{ '/services/' | relative_url }}#ipqc" class="service-card">
+    <a href="{{ lang_prefix }}/services/#ipqc" class="service-card">
       <div class="service-icon-wrap"><i class="fas fa-cogs"></i></div>
       <h3>{{ site.data.i18n[page.lang].services.ipqc }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.ipqc_desc }}</p>
     </a>
-    <a href="{{ '/services/' | relative_url }}#dupro" class="service-card">
+    <a href="{{ lang_prefix }}/services/#dupro" class="service-card">
       <div class="service-icon-wrap"><i class="fas fa-clipboard-check"></i></div>
       <h3>{{ site.data.i18n[page.lang].services.dupro }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.dupro_desc }}</p>
     </a>
-    <a href="{{ '/services/' | relative_url }}#fri" class="service-card">
+    <a href="{{ lang_prefix }}/services/#fri" class="service-card">
       <div class="service-icon-wrap"><i class="fas fa-check-double"></i></div>
       <h3>{{ site.data.i18n[page.lang].services.fri }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.fri_desc }}</p>
     </a>
-    <a href="{{ '/services/' | relative_url }}#ls" class="service-card">
+    <a href="{{ lang_prefix }}/services/#ls" class="service-card">
       <div class="service-icon-wrap"><i class="fas fa-ship"></i></div>
       <h3>{{ site.data.i18n[page.lang].services.ls }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.ls_desc }}</p>
     </a>
-    <a href="{{ '/services/' | relative_url }}#ta" class="service-card">
+    <a href="{{ lang_prefix }}/services/#ta" class="service-card">
       <div class="service-icon-wrap"><i class="fas fa-flask"></i></div>
       <h3>{{ site.data.i18n[page.lang].services.ta }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.ta_desc }}</p>
@@ -130,7 +134,7 @@ hero_image: /images/background.jpg?v={{ site.cache_buster }}
       </li>
       {% endfor %}
     </ul>
-    <p class="text-center mt-2"><a href="{{ '/news/' | relative_url }}" class="btn btn-primary"><i class="fas fa-newspaper"></i> {{ site.data.i18n[page.lang].news.read_more }}</a></p>
+    <p class="text-center mt-2"><a href="{{ lang_prefix }}/news/" class="btn btn-primary"><i class="fas fa-newspaper"></i> {{ site.data.i18n[page.lang].news.read_more }}</a></p>
   </div>
 </section>
 
@@ -138,6 +142,6 @@ hero_image: /images/background.jpg?v={{ site.cache_buster }}
   <div class="container cta-content">
     <h2>{{ site.data.i18n[page.lang].cta.title }}</h2>
     <p>{{ site.data.i18n[page.lang].cta.desc }}</p>
-    <a href="{{ '/contact/' | relative_url }}" class="btn"><i class="fas fa-paper-plane"></i> {{ site.data.i18n[page.lang].cta.button }}</a>
+    <a href="{{ lang_prefix }}/contact/" class="btn"><i class="fas fa-paper-plane"></i> {{ site.data.i18n[page.lang].cta.button }}</a>
   </div>
 </section>

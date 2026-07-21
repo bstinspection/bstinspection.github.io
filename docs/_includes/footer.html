@@ -1,3 +1,7 @@
+{% assign lang_prefix = '' %}
+{% if page.lang and page.lang != 'en' %}
+  {% assign lang_prefix = '/' | append: page.lang %}
+{% endif %}
 <div class="footer-wave">
   <svg viewBox="0 0 1440 60" preserveAspectRatio="none">
     <path fill="#0A1628" d="M0,30 C360,60 720,0 1080,30 C1260,45 1350,35 1440,30 L1440,60 L0,60 Z"/>
@@ -12,21 +16,21 @@
     <div class="footer-col footer-links">
       <h3>{{ site.data.i18n[page.lang].footer.quick_links }}</h3>
       <ul>
-        <li><a href="{{ '/about/' | relative_url }}"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.about }}</a></li>
-        <li><a href="{{ '/services/' | relative_url }}"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.services }}</a></li>
-        <li><a href="{{ '/news/' | relative_url }}"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.news }}</a></li>
-        <li><a href="{{ '/pricing/' | relative_url }}"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.pricing }}</a></li>
-        <li><a href="{{ '/order-procedure/' | relative_url }}"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.order }}</a></li>
+        <li><a href="{{ lang_prefix }}/about/"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.about }}</a></li>
+        <li><a href="{{ lang_prefix }}/services/"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.services }}</a></li>
+        <li><a href="{{ lang_prefix }}/news/"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.news }}</a></li>
+        <li><a href="{{ lang_prefix }}/pricing/"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.pricing }}</a></li>
+        <li><a href="{{ lang_prefix }}/order-procedure/"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.order }}</a></li>
       </ul>
     </div>
     <div class="footer-col footer-services">
       <h3>{{ site.data.i18n[page.lang].footer.services_title }}</h3>
       <ul>
-        <li><a href="{{ '/services/' | relative_url }}#fa"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.fa }}</a></li>
-        <li><a href="{{ '/services/' | relative_url }}#sca"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.sca }}</a></li>
-        <li><a href="{{ '/services/' | relative_url }}#ipc"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.ipc }}</a></li>
-        <li><a href="{{ '/services/' | relative_url }}#fri"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.fri }}</a></li>
-        <li><a href="{{ '/services/' | relative_url }}#ls"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.ls }}</a></li>
+        <li><a href="{{ lang_prefix }}/services/#fa"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.fa }}</a></li>
+        <li><a href="{{ lang_prefix }}/services/#sca"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.sca }}</a></li>
+        <li><a href="{{ lang_prefix }}/services/#ipc"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.ipc }}</a></li>
+        <li><a href="{{ lang_prefix }}/services/#fri"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.fri }}</a></li>
+        <li><a href="{{ lang_prefix }}/services/#ls"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.ls }}</a></li>
       </ul>
     </div>
     <div class="footer-col footer-contact">
