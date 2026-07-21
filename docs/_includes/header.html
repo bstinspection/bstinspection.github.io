@@ -1,10 +1,10 @@
 <header class="site-header">
   <div class="container header-inner">
     <a href="{{ '/' | relative_url }}" class="logo">
-      <img src="{{ '/images/logo_透明.jpg' | relative_url }}?v={{ site.cache_buster }}" alt="BST Logo" class="logo-img">
+      <img src="{{ '/images/logo_透明.jpg' | relative_url }}?v={{ site.cache_buster }}" alt="{{ site.data.i18n[page.lang].misc.logo_alt }}" class="logo-img">
       <span class="logo-text">{{ site.title }}</span>
     </a>
-    <button class="menu-toggle" aria-label="Toggle menu">
+    <button class="menu-toggle" aria-label="{{ site.data.i18n[page.lang].misc.menu_toggle }}">
       <span></span><span></span><span></span>
     </button>
     <nav class="main-nav">
@@ -14,14 +14,14 @@
         <li class="dropdown">
           <a href="{{ '/services/' | relative_url }}">{{ site.data.i18n[page.lang].nav.services }} <span class="arrow">&#9662;</span></a>
           <ul class="dropdown-menu">
-            <li><a href="{{ '/services/' | relative_url }}#fa">Factory Audit (FA)</a></li>
-            <li><a href="{{ '/services/' | relative_url }}#sca">Social Compliance Audit (SCA)</a></li>
-            <li><a href="{{ '/services/' | relative_url }}#ipc">Initial Production Check (IPC)</a></li>
-            <li><a href="{{ '/services/' | relative_url }}#ipqc">In-Process Quality Check (IPQC)</a></li>
-            <li><a href="{{ '/services/' | relative_url }}#dupro">During Production Check (DUPRO)</a></li>
-            <li><a href="{{ '/services/' | relative_url }}#fri">Final Random Inspection (FRI)</a></li>
-            <li><a href="{{ '/services/' | relative_url }}#ls">Loading Supervision (L/S)</a></li>
-            <li><a href="{{ '/services/' | relative_url }}#ta">Testing Arrangement (TA)</a></li>
+            <li><a href="{{ '/services/' | relative_url }}#fa">{{ site.data.i18n[page.lang].services.fa }}</a></li>
+            <li><a href="{{ '/services/' | relative_url }}#sca">{{ site.data.i18n[page.lang].services.sca }}</a></li>
+            <li><a href="{{ '/services/' | relative_url }}#ipc">{{ site.data.i18n[page.lang].services.ipc }}</a></li>
+            <li><a href="{{ '/services/' | relative_url }}#ipqc">{{ site.data.i18n[page.lang].services.ipqc }}</a></li>
+            <li><a href="{{ '/services/' | relative_url }}#dupro">{{ site.data.i18n[page.lang].services.dupro }}</a></li>
+            <li><a href="{{ '/services/' | relative_url }}#fri">{{ site.data.i18n[page.lang].services.fri }}</a></li>
+            <li><a href="{{ '/services/' | relative_url }}#ls">{{ site.data.i18n[page.lang].services.ls }}</a></li>
+            <li><a href="{{ '/services/' | relative_url }}#ta">{{ site.data.i18n[page.lang].services.ta }}</a></li>
           </ul>
         </li>
         <li><a href="{{ '/news/' | relative_url }}">{{ site.data.i18n[page.lang].nav.news }}</a></li>
@@ -29,19 +29,21 @@
         <li><a href="{{ '/contact/' | relative_url }}">{{ site.data.i18n[page.lang].nav.contact }}</a></li>
       </ul>
       <div class="lang-switcher">
-        <button class="lang-btn {% if page.lang == 'en' %}active{% endif %}" data-lang="en">EN</button>
-        <span class="lang-sep">|</span>
-        <button class="lang-btn {% if page.lang == 'zh' %}active{% endif %}" data-lang="zh">中文</button>
-        <span class="lang-sep">|</span>
-        <button class="lang-btn {% if page.lang == 'fr' %}active{% endif %}" data-lang="fr">FR</button>
-        <span class="lang-sep">|</span>
-        <button class="lang-btn {% if page.lang == 'ru' %}active{% endif %}" data-lang="ru">RU</button>
-        <span class="lang-sep">|</span>
-        <button class="lang-btn {% if page.lang == 'es' %}active{% endif %}" data-lang="es">ES</button>
-        <span class="lang-sep">|</span>
-        <button class="lang-btn {% if page.lang == 'pt-BR' %}active{% endif %}" data-lang="pt-BR">PT</button>
-        <span class="lang-sep">|</span>
-        <button class="lang-btn {% if page.lang == 'ar' %}active{% endif %}" data-lang="ar">AR</button>
+        <div class="lang-dropdown">
+          <button class="lang-dropdown-btn">
+            <span class="lang-current">{% if page.lang == 'en' %}English{% elsif page.lang == 'zh' %}中文{% elsif page.lang == 'fr' %}Français{% elsif page.lang == 'ru' %}Русский{% elsif page.lang == 'es' %}Español{% elsif page.lang == 'pt-BR' %}Português{% elsif page.lang == 'ar' %}العربية{% else %}English{% endif %}</span>
+            <span class="lang-arrow">&#9662;</span>
+          </button>
+          <ul class="lang-dropdown-menu">
+            <li><a class="lang-option {% if page.lang == 'en' %}active{% endif %}" href="{{ '/' | relative_url }}">English</a></li>
+            <li><a class="lang-option {% if page.lang == 'zh' %}active{% endif %}" href="{{ '/zh/' | relative_url }}">中文</a></li>
+            <li><a class="lang-option {% if page.lang == 'fr' %}active{% endif %}" href="{{ '/fr/' | relative_url }}">Français</a></li>
+            <li><a class="lang-option {% if page.lang == 'ru' %}active{% endif %}" href="{{ '/ru/' | relative_url }}">Русский</a></li>
+            <li><a class="lang-option {% if page.lang == 'es' %}active{% endif %}" href="{{ '/es/' | relative_url }}">Español</a></li>
+            <li><a class="lang-option {% if page.lang == 'pt-BR' %}active{% endif %}" href="{{ '/pt-BR/' | relative_url }}">Português</a></li>
+            <li><a class="lang-option {% if page.lang == 'ar' %}active{% endif %}" href="{{ '/ar/' | relative_url }}">العربية</a></li>
+          </ul>
+        </div>
       </div>
     </nav>
   </div>
