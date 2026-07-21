@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<main class="page-content">
+  <div class="container">
+    <article class="content-area post-full">
+      <p class="breadcrumb">
+        <a href="{{ '/' | relative_url }}">{{ site.data.i18n[page.lang].page.home }}</a> /
+        <a href="{{ '/news/' | relative_url }}">{{ site.data.i18n[page.lang].news.title }}</a> /
+        {{ page.title }}
+      </p>
+      <h1>{{ page.title }}</h1>
+      <p class="post-meta">{{ page.date | date: "%Y-%m-%d" }}</p>
+      {{ content }}
+      <p class="post-back"><a href="{{ '/news/' | relative_url }}">&larr; {{ site.data.i18n[page.lang].news.back }}</a></p>
+    </article>
+  </div>
+</main>

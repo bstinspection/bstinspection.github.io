@@ -1,0 +1,19 @@
+<section class="hero">
+  <div class="hero-overlay"></div>
+  {% if page.hero_image %}
+  <div class="hero-bg" style="background-image: url('{{ page.hero_image | relative_url }}')"></div>
+  {% endif %}
+  <div class="container hero-content">
+    <h1 class="hero-title">{{ site.data.i18n[page.lang].hero.title }}</h1>
+    <p class="hero-subtitle">{{ site.data.i18n[page.lang].hero.subtitle }}</p>
+    <div class="hero-actions">
+      <a href="{{ '/services/' | relative_url }}" class="btn btn-primary"><i class="fas fa-search"></i> {{ site.data.i18n[page.lang].hero.cta }}</a>
+      <a href="{{ '/contact/' | relative_url }}" class="btn btn-secondary"><i class="fas fa-envelope"></i> {{ site.data.i18n[page.lang].hero.cta2 }}</a>
+    </div>
+  </div>
+  <div class="hero-wave">
+    <svg viewBox="0 0 1440 80" preserveAspectRatio="none">
+      <path fill="#ffffff" d="M0,40 C360,0 720,80 1080,40 C1260,20 1350,30 1440,40 L1440,80 L0,80 Z"/>
+    </svg>
+  </div>
+</section>
