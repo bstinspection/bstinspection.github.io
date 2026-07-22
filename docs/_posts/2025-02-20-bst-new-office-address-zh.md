@@ -10,7 +10,7 @@ BST 很高兴地宣布，为适应团队扩展和更好地服务客户，我们�
 
 **新办公地址**
 
-Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, China（广州市黄埔区港湾路21号3栋2803房）
+Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China（中国广东省广州市黄埔区茅岗路环村大街21号3栋2803房）
 
 新办公室为我们的运营团队、验货员培训和客户会议提供了更好的设施条件。黄埔区的战略位置确保我们能够便捷地到达珠三角的主要交通枢纽和制造业集群。
 
