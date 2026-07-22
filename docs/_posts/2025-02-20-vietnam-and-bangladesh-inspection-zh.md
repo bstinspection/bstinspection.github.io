@@ -3,6 +3,7 @@ layout: post
 title: "BST 服务覆盖扩展至越南和孟加拉"
 date: 2025-02-20 00:00:00 +0800
 lang: zh
+permalink: /zh/news/vietnam-and-bangladesh-inspection/
 ---
 
 BST 已将服务覆盖范围扩展至越南和孟加拉——亚洲增长最快的两个制造业中心。这一战略性扩展使我们能够更好地支持正在将供应链多元化至中国以外的客户。

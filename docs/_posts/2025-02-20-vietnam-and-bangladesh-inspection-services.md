@@ -3,6 +3,7 @@ layout: post
 title: "BST Expands Service Coverage to Vietnam and Bangladesh"
 date: 2025-02-20 00:00:00 +0800
 lang: en
+permalink: /news/vietnam-and-bangladesh-inspection/
 ---
 
 BST has expanded our service coverage to Vietnam and Bangladesh, two of Asia's fastest-growing manufacturing hubs. This strategic expansion allows us to support clients who are diversifying their supply chains beyond China.

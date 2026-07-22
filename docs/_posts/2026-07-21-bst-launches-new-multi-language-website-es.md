@@ -3,6 +3,7 @@ layout: post
 title: "BST lanza su nuevo sitio web multilingüe"
 date: 2026-07-21 00:00:00 +0800
 lang: es
+permalink: /es/news/bst-launches-new-multi-language-website/
 ---
 
 BST se enorgullece en anunciar el lanzamiento de nuestro nuevo sitio web, diseñado para ofrecer una experiencia más moderna, accesible y fácil de usar para nuestros clientes globales.

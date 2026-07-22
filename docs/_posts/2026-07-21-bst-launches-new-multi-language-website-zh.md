@@ -3,6 +3,7 @@ layout: post
 title: "BST 全新多语言网站正式上线"
 date: 2026-07-21 00:00:00 +0800
 lang: zh
+permalink: /zh/news/bst-launches-new-multi-language-website/
 ---
 
 BST 自豪地宣布我们的全新网站正式上线。新网站以现代化、易访问、友好的用户体验，服务于全球客户。

@@ -3,6 +3,7 @@ layout: post
 title: "Brightsky и Guangzhou BST — стратегическое слияние для усиления контроля качества"
 date: 2021-12-16 00:00:00 +0800
 lang: ru
+permalink: /ru/news/brightsky-and-guangzhou-bst/
 ---
 
 Brightsky Technology Services Co., Ltd. (Гонконг) и Guangzhou BST Technology Services Co., Ltd. официально объединились, создав единую и более мощную платформу для обеспечения качества.

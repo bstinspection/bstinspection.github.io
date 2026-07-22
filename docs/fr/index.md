@@ -109,12 +109,12 @@ hero_image: /images/background.jpg?v={{ site.cache_buster }}
       </div>
       <div class="stat-item">
         <div class="stat-icon"><i class="fas fa-clipboard-list"></i></div>
-        <div class="stat-number" data-target="5000">0+</div>
+        <div class="stat-number" data-target="3000">0+</div>
         <div class="stat-label">{{ site.data.i18n[page.lang].stats.projects }}</div>
       </div>
       <div class="stat-item">
         <div class="stat-icon"><i class="fas fa-star"></i></div>
-        <div class="stat-number" data-target="98">0+</div>
+        <div class="stat-number" data-target="99">0+</div>
         <div class="stat-label">{{ site.data.i18n[page.lang].stats.satisfaction }}</div>
       </div>
     </div>
