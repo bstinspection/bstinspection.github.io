@@ -3,6 +3,7 @@ layout: post
 title: "Brightsky و Guangzhou BST — اندماج استراتيجي لتعزيز ضمان الجودة"
 date: 2021-12-16 00:00:00 +0800
 lang: ar
+permalink: /ar/news/brightsky-and-guangzhou-bst/
 ---
 
 أعلنت Brightsky Technology Services Co., Ltd. (هونغ كونغ) و Guangzhou BST Technology Services Co., Ltd. عن اندماجهما رسميًا، ليشكّلا منصة موحدة وأكثر قوة لخدمات ضمان الجودة.

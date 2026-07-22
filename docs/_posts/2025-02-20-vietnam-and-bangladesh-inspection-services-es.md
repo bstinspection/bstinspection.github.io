@@ -3,6 +3,7 @@ layout: post
 title: "BST amplía su cobertura de servicios a Vietnam y Bangladés"
 date: 2025-02-20 00:00:00 +0800
 lang: es
+permalink: /es/news/vietnam-and-bangladesh-inspection/
 ---
 
 BST ha ampliado su cobertura de servicios a Vietnam y Bangladés, dos de los centros de fabricación de más rápido crecimiento en Asia. Esta expansión estratégica nos permite apoyar a los clientes que están diversificando sus cadenas de suministro más allá de China.

@@ -3,6 +3,7 @@ layout: post
 title: "Brightsky 与广州 BST 战略合并 — 打造更强品质保证服务平台"
 date: 2021-12-16 00:00:00 +0800
 lang: zh
+permalink: /zh/news/brightsky-and-guangzhou-bst/
 ---
 
 Brightsky Technology Services Co., Ltd.（香港）与广州睿翔技术服务有限公司已正式完成合并，组建为统一、更强大的品质保证服务平台。

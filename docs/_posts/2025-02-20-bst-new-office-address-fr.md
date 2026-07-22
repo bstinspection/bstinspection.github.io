@@ -3,6 +3,7 @@ layout: post
 title: "Nouvelle adresse BST et coordonnées mises à jour"
 date: 2025-02-20 00:00:00 +0800
 lang: fr
+permalink: /fr/news/bst-new-office-address/
 ---
 
 BST a le plaisir d'annoncer que nous avons déménagé notre bureau de Guangzhou dans de nouveaux locaux plus spacieux pour accueillir notre équipe grandissante et mieux servir nos clients.

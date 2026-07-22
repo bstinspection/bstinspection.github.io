@@ -3,6 +3,7 @@ layout: post
 title: "BST 新办公地址及更新联系方式"
 date: 2025-02-20 00:00:00 +0800
 lang: zh
+permalink: /zh/news/bst-new-office-address/
 ---
 
 BST 很高兴地宣布，为适应团队扩展和更好地服务客户，我们已将广州办公室搬迁至新的更大办公场所。
