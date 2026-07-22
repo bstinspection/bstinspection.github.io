@@ -10,7 +10,7 @@ BST рада сообщить, что мы переехали в новый, б�
 
 **Новый адрес офиса**
 
-Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, China
+Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China
 
 Новый офис предоставляет улучшенные условия для нашей операционной команды, обучения инспекторов и встреч с клиентами. Стратегическое расположение в районе Хуанпу обеспечивает удобный доступ к крупным транспортным узлам и производственным кластерам дельты Жемчужной реки.
 
