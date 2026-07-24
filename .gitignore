@@ -9,3 +9,5 @@ vendor/
 __pycache__/
 output/
 *.log
+node_modules/
+.env
