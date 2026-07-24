@@ -16,28 +16,28 @@
     <div class="footer-col footer-links">
       <h3>{{ site.data.i18n[page.lang].footer.quick_links }}</h3>
       <ul>
-        <li><a href="{{ lang_prefix }}/about/"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.about }}</a></li>
-        <li><a href="{{ lang_prefix }}/services/"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.services }}</a></li>
-        <li><a href="{{ lang_prefix }}/news/"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.news }}</a></li>
-        <li><a href="{{ lang_prefix }}/pricing/"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.pricing }}</a></li>
-        <li><a href="{{ lang_prefix }}/order-procedure/"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].nav.order }}</a></li>
+        <li><a href="{{ lang_prefix }}/about/">{% include icon.html name="chevron-right" %} {{ site.data.i18n[page.lang].nav.about }}</a></li>
+        <li><a href="{{ lang_prefix }}/services/">{% include icon.html name="chevron-right" %} {{ site.data.i18n[page.lang].nav.services }}</a></li>
+        <li><a href="{{ lang_prefix }}/news/">{% include icon.html name="chevron-right" %} {{ site.data.i18n[page.lang].nav.news }}</a></li>
+        <li><a href="{{ lang_prefix }}/pricing/">{% include icon.html name="chevron-right" %} {{ site.data.i18n[page.lang].nav.pricing }}</a></li>
+        <li><a href="{{ lang_prefix }}/order-procedure/">{% include icon.html name="chevron-right" %} {{ site.data.i18n[page.lang].nav.order }}</a></li>
       </ul>
     </div>
     <div class="footer-col footer-services">
       <h3>{{ site.data.i18n[page.lang].footer.services_title }}</h3>
       <ul>
-        <li><a href="{{ lang_prefix }}/services/#fa"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.fa }}</a></li>
-        <li><a href="{{ lang_prefix }}/services/#sca"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.sca }}</a></li>
-        <li><a href="{{ lang_prefix }}/services/#ipc"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.ipc }}</a></li>
-        <li><a href="{{ lang_prefix }}/services/#fri"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.fri }}</a></li>
-        <li><a href="{{ lang_prefix }}/services/#ls"><i class="fas fa-chevron-right"></i> {{ site.data.i18n[page.lang].services.ls }}</a></li>
+        <li><a href="{{ lang_prefix }}/services/#fa">{% include icon.html name="chevron-right" %} {{ site.data.i18n[page.lang].services.fa }}</a></li>
+        <li><a href="{{ lang_prefix }}/services/#sca">{% include icon.html name="chevron-right" %} {{ site.data.i18n[page.lang].services.sca }}</a></li>
+        <li><a href="{{ lang_prefix }}/services/#ipc">{% include icon.html name="chevron-right" %} {{ site.data.i18n[page.lang].services.ipc }}</a></li>
+        <li><a href="{{ lang_prefix }}/services/#fri">{% include icon.html name="chevron-right" %} {{ site.data.i18n[page.lang].services.fri }}</a></li>
+        <li><a href="{{ lang_prefix }}/services/#ls">{% include icon.html name="chevron-right" %} {{ site.data.i18n[page.lang].services.ls }}</a></li>
       </ul>
     </div>
     <div class="footer-col footer-contact">
       <h3>{{ site.data.i18n[page.lang].footer.contact_title }}</h3>
-      <p><i class="fas fa-map-marker-alt"></i> {{ site.data.i18n[page.lang].footer.address }}</p>
-      <p><i class="fas fa-envelope"></i> <a href="mailto:{{ site.data.i18n[page.lang].footer.email }}">{{ site.data.i18n[page.lang].footer.email }}</a></p>
-      <p><i class="fas fa-phone"></i> {{ site.data.i18n[page.lang].footer.phone }}</p>
+      <p>{% include icon.html name="map-marker-alt" %} {{ site.data.i18n[page.lang].footer.address }}</p>
+      <p>{% include icon.html name="envelope" %} <a href="mailto:{{ site.data.i18n[page.lang].footer.email }}">{{ site.data.i18n[page.lang].footer.email }}</a></p>
+      <p>{% include icon.html name="phone" %} {{ site.data.i18n[page.lang].footer.phone }}</p>
     </div>
   </div>
   <div class="footer-bottom">

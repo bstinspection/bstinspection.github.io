@@ -56,6 +56,13 @@ p { margin-bottom: 1em; color: var(--text-light); }
 a { color: var(--navy-lighter); text-decoration: none; transition: var(--transition); }
 a:hover { color: var(--orange); }
 img { max-width: 100%; height: auto; }
+
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+  display: inline-block;
+}
 ul, ol { margin-bottom: 1em; padding-left: 1.5em; }
 li { margin-bottom: 0.3em; }
 
@@ -898,8 +905,9 @@ li { margin-bottom: 0.3em; }
 
 .footer-col a:hover { color: var(--orange-light); padding-left: 4px; }
 
-.footer-contact i {
+.footer-contact .icon {
   width: 18px;
+  height: 18px;
   color: var(--orange-light);
 }
 
@@ -1124,10 +1132,9 @@ li { margin-bottom: 0.3em; }
   transform-origin: right;
 }
 
-[dir="rtl"] .fa-chevron-right,
-[dir="rtl"] .fa-arrow-right,
-[dir="rtl"] .fa-long-arrow-alt-right,
-[dir="rtl"] .fa-paper-plane {
+[dir="rtl"] .footer-col a .icon,
+[dir="rtl"] .cta-section .icon,
+[dir="rtl"] .hero-content .btn-secondary .icon {
   transform: scaleX(-1);
 }
 

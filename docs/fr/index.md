@@ -21,42 +21,42 @@ hero_image: /images/background.jpg?v={{ site.cache_buster }}
 
   <div class="services-grid">
     <a href="{{ lang_prefix }}/services/#fa" class="service-card">
-      <div class="service-icon-wrap"><i class="fas fa-building"></i></div>
+      <div class="service-icon-wrap">{% include icon.html name="building" %}</div>
       <h3>{{ site.data.i18n[page.lang].services.fa }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.fa_desc }}</p>
     </a>
     <a href="{{ lang_prefix }}/services/#sca" class="service-card">
-      <div class="service-icon-wrap"><i class="fas fa-handshake"></i></div>
+      <div class="service-icon-wrap">{% include icon.html name="handshake" %}</div>
       <h3>{{ site.data.i18n[page.lang].services.sca }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.sca_desc }}</p>
     </a>
     <a href="{{ lang_prefix }}/services/#ipc" class="service-card">
-      <div class="service-icon-wrap"><i class="fas fa-microchip"></i></div>
+      <div class="service-icon-wrap">{% include icon.html name="microchip" %}</div>
       <h3>{{ site.data.i18n[page.lang].services.ipc }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.ipc_desc }}</p>
     </a>
     <a href="{{ lang_prefix }}/services/#ipqc" class="service-card">
-      <div class="service-icon-wrap"><i class="fas fa-cogs"></i></div>
+      <div class="service-icon-wrap">{% include icon.html name="cogs" %}</div>
       <h3>{{ site.data.i18n[page.lang].services.ipqc }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.ipqc_desc }}</p>
     </a>
     <a href="{{ lang_prefix }}/services/#dupro" class="service-card">
-      <div class="service-icon-wrap"><i class="fas fa-clipboard-check"></i></div>
+      <div class="service-icon-wrap">{% include icon.html name="clipboard-check" %}</div>
       <h3>{{ site.data.i18n[page.lang].services.dupro }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.dupro_desc }}</p>
     </a>
     <a href="{{ lang_prefix }}/services/#fri" class="service-card">
-      <div class="service-icon-wrap"><i class="fas fa-check-double"></i></div>
+      <div class="service-icon-wrap">{% include icon.html name="check-double" %}</div>
       <h3>{{ site.data.i18n[page.lang].services.fri }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.fri_desc }}</p>
     </a>
     <a href="{{ lang_prefix }}/services/#ls" class="service-card">
-      <div class="service-icon-wrap"><i class="fas fa-ship"></i></div>
+      <div class="service-icon-wrap">{% include icon.html name="ship" %}</div>
       <h3>{{ site.data.i18n[page.lang].services.ls }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.ls_desc }}</p>
     </a>
     <a href="{{ lang_prefix }}/services/#ta" class="service-card">
-      <div class="service-icon-wrap"><i class="fas fa-flask"></i></div>
+      <div class="service-icon-wrap">{% include icon.html name="flask" %}</div>
       <h3>{{ site.data.i18n[page.lang].services.ta }}</h3>
       <p>{{ site.data.i18n[page.lang].service_cards.ta_desc }}</p>
     </a>
@@ -71,22 +71,22 @@ hero_image: /images/background.jpg?v={{ site.cache_buster }}
     </div>
     <div class="why-grid">
       <div class="why-card">
-        <div class="why-icon expertise"><i class="fas fa-users"></i></div>
+        <div class="why-icon expertise">{% include icon.html name="users" %}</div>
         <h3>{{ site.data.i18n[page.lang].why.expertise }}</h3>
         <p>{{ site.data.i18n[page.lang].why.expertise_desc }}</p>
       </div>
       <div class="why-card">
-        <div class="why-icon speed"><i class="fas fa-bolt"></i></div>
+        <div class="why-icon speed">{% include icon.html name="bolt" %}</div>
         <h3>{{ site.data.i18n[page.lang].why.speed }}</h3>
         <p>{{ site.data.i18n[page.lang].why.speed_desc }}</p>
       </div>
       <div class="why-card">
-        <div class="why-icon cost"><i class="fas fa-dollar-sign"></i></div>
+        <div class="why-icon cost">{% include icon.html name="dollar-sign" %}</div>
         <h3>{{ site.data.i18n[page.lang].why.cost }}</h3>
         <p>{{ site.data.i18n[page.lang].why.cost_desc }}</p>
       </div>
       <div class="why-card">
-        <div class="why-icon global"><i class="fas fa-globe-asia"></i></div>
+        <div class="why-icon global">{% include icon.html name="globe-asia" %}</div>
         <h3>{{ site.data.i18n[page.lang].why.global }}</h3>
         <p>{{ site.data.i18n[page.lang].why.global_desc }}</p>
       </div>
@@ -98,22 +98,22 @@ hero_image: /images/background.jpg?v={{ site.cache_buster }}
   <div class="container">
     <div class="stats-grid">
       <div class="stat-item">
-        <div class="stat-icon"><i class="fas fa-calendar-alt"></i></div>
+        <div class="stat-icon">{% include icon.html name="calendar-alt" %}</div>
         <div class="stat-number" data-target="15">0+</div>
         <div class="stat-label">{{ site.data.i18n[page.lang].stats.years }}</div>
       </div>
       <div class="stat-item">
-        <div class="stat-icon"><i class="fas fa-map-marked-alt"></i></div>
+        <div class="stat-icon">{% include icon.html name="map-marked-alt" %}</div>
         <div class="stat-number" data-target="3">0+</div>
         <div class="stat-label">{{ site.data.i18n[page.lang].stats.countries }}</div>
       </div>
       <div class="stat-item">
-        <div class="stat-icon"><i class="fas fa-clipboard-list"></i></div>
+        <div class="stat-icon">{% include icon.html name="clipboard-list" %}</div>
         <div class="stat-number" data-target="3000">0+</div>
         <div class="stat-label">{{ site.data.i18n[page.lang].stats.projects }}</div>
       </div>
       <div class="stat-item">
-        <div class="stat-icon"><i class="fas fa-star"></i></div>
+        <div class="stat-icon">{% include icon.html name="star" %}</div>
         <div class="stat-number" data-target="99">0+</div>
         <div class="stat-label">{{ site.data.i18n[page.lang].stats.satisfaction }}</div>
       </div>
@@ -136,7 +136,7 @@ hero_image: /images/background.jpg?v={{ site.cache_buster }}
       </li>
       {% endfor %}
     </ul>
-    <p class="text-center mt-2"><a href="{{ lang_prefix }}/news/" class="btn btn-primary"><i class="fas fa-newspaper"></i> {{ site.data.i18n[page.lang].news.read_more }}</a></p>
+    <p class="text-center mt-2"><a href="{{ lang_prefix }}/news/" class="btn btn-primary">{% include icon.html name="newspaper" %} {{ site.data.i18n[page.lang].news.read_more }}</a></p>
   </div>
 </section>
 
@@ -144,6 +144,6 @@ hero_image: /images/background.jpg?v={{ site.cache_buster }}
   <div class="container cta-content">
     <h2>{{ site.data.i18n[page.lang].cta.title }}</h2>
     <p>{{ site.data.i18n[page.lang].cta.desc }}</p>
-    <a href="{{ lang_prefix }}/contact/" class="btn"><i class="fas fa-paper-plane"></i> {{ site.data.i18n[page.lang].cta.button }}</a>
+    <a href="{{ lang_prefix }}/contact/" class="btn">{% include icon.html name="paper-plane" %} {{ site.data.i18n[page.lang].cta.button }}</a>
   </div>
 </section>

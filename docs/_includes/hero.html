@@ -7,15 +7,15 @@
   {% if page.hero_image %}
   <picture class="hero-bg">
     <source srcset="{{ '/images/background.webp' | relative_url }}?v={{ site.cache_buster }}" type="image/webp">
-    <img src="{{ page.hero_image | relative_url }}" alt="" class="hero-bg-img" fetchpriority="high">
+    <img src="{{ page.hero_image | relative_url }}" alt="" class="hero-bg-img" width="1920" height="1280" fetchpriority="high">
   </picture>
   {% endif %}
   <div class="container hero-content">
     <h1 class="hero-title">{{ site.data.i18n[page.lang].hero.title }}</h1>
     <p class="hero-subtitle">{{ site.data.i18n[page.lang].hero.subtitle }}</p>
     <div class="hero-actions">
-      <a href="{{ lang_prefix }}/services/" class="btn btn-primary"><i class="fas fa-search"></i> {{ site.data.i18n[page.lang].hero.cta }}</a>
-      <a href="{{ lang_prefix }}/contact/" class="btn btn-secondary"><i class="fas fa-envelope"></i> {{ site.data.i18n[page.lang].hero.cta2 }}</a>
+      <a href="{{ lang_prefix }}/services/" class="btn btn-primary">{% include icon.html name="search" %} {{ site.data.i18n[page.lang].hero.cta }}</a>
+      <a href="{{ lang_prefix }}/contact/" class="btn btn-secondary">{% include icon.html name="envelope" %} {{ site.data.i18n[page.lang].hero.cta2 }}</a>
     </div>
   </div>
   <div class="hero-wave">

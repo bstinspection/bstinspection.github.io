@@ -29,7 +29,7 @@ en:
     copyright: "© __YEAR__ Guangzhou BST Technology Services Co., Ltd. All Rights Reserved."
   news:
     title: "Latest News"
-    read_more: "Read More"
+    read_more: "View All News"
     back: "Back to News"
   why:
     title: "Why Choose BST?"
@@ -113,7 +113,7 @@ zh:
     copyright: "© __YEAR__ 广州睿翔技术服务有限公司 版权所有"
   news:
     title: "最新动态"
-    read_more: "了解更多"
+    read_more: "查看所有新闻"
     back: "返回新闻"
   why:
     title: "为什么选择 BST？"
@@ -197,7 +197,7 @@ fr:
     copyright: "© __YEAR__ Guangzhou BST Technology Services Co., Ltd. Tous droits réservés."
   news:
     title: "Dernières actualités"
-    read_more: "Lire la suite"
+    read_more: "Voir toutes les actualités"
     back: "Retour aux actualités"
   why:
     title: "Pourquoi choisir BST ?"
@@ -281,7 +281,7 @@ ru:
     copyright: "© __YEAR__ Guangzhou BST Technology Services Co., Ltd. Все права защищены."
   news:
     title: "Последние новости"
-    read_more: "Подробнее"
+    read_more: "Все новости"
     back: "Назад к новостям"
   why:
     title: "Почему выбирают BST?"
@@ -365,7 +365,7 @@ es:
     copyright: "© __YEAR__ Guangzhou BST Technology Services Co., Ltd. Todos los derechos reservados."
   news:
     title: "Últimas noticias"
-    read_more: "Leer más"
+    read_more: "Ver todas las noticias"
     back: "Volver a noticias"
   why:
     title: "¿Por qué elegir BST?"
@@ -449,7 +449,7 @@ pt-BR:
     copyright: "© __YEAR__ Guangzhou BST Technology Services Co., Ltd. Todos os direitos reservados."
   news:
     title: "Últimas notícias"
-    read_more: "Leia mais"
+    read_more: "Ver todas as notícias"
     back: "Voltar às notícias"
   why:
     title: "Por que escolher a BST?"
@@ -533,7 +533,7 @@ ar:
     copyright: "© __YEAR__ Guangzhou BST Technology Services Co., Ltd. جميع الحقوق محفوظة."
   news:
     title: "آخر الأخبار"
-    read_more: "اقرأ المزيد"
+    read_more: "عرض كل الأخبار"
     back: "العودة إلى الأخبار"
   why:
     title: "لماذا تختار BST؟"
