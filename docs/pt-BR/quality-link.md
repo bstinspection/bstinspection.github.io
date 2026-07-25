@@ -6,7 +6,7 @@ lang: pt-BR
 
 [**Ministério do Comércio da República Popular da China**](http://spanish.mofcom.gov.cn/)
 
-[**Administração Estatal para Regulação do Mercado**](https://www.samr.gov.cn)
+[**Administração Estatal para Regulação do Mercado da República Popular da China**](https://www.samr.gov.cn)
 
 [**British Standards Institution**](http://www.bsigroup.com/)
 
