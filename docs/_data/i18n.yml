@@ -26,6 +26,7 @@ en:
     address: "Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China"
     email: "jeffrey@bstinspection.com"
     phone: "0086-13798166270"
+    wechat_id: "JeffreyZengBST"
     copyright: "© __YEAR__ Guangzhou BST Technology Services Co., Ltd. All Rights Reserved."
   news:
     title: "Latest News"
@@ -110,6 +111,7 @@ zh:
     address: "中国广东省广州市黄埔区茅岗路环村大街21号3栋2803房"
     email: "jeffrey@bstinspection.com"
     phone: "0086-13798166270"
+    wechat_id: "JeffreyZengBST"
     copyright: "© __YEAR__ 广州睿翔技术服务有限公司 版权所有"
   news:
     title: "最新动态"
@@ -194,6 +196,7 @@ fr:
     address: "Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, Chine"
     email: "jeffrey@bstinspection.com"
     phone: "0086-13798166270"
+    wechat_id: "JeffreyZengBST"
     copyright: "© __YEAR__ Guangzhou BST Technology Services Co., Ltd. Tous droits réservés."
   news:
     title: "Dernières actualités"
@@ -278,6 +281,7 @@ ru:
     address: "Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China"
     email: "jeffrey@bstinspection.com"
     phone: "0086-13798166270"
+    wechat_id: "JeffreyZengBST"
     copyright: "© __YEAR__ Guangzhou BST Technology Services Co., Ltd. Все права защищены."
   news:
     title: "Последние новости"
@@ -362,6 +366,7 @@ es:
     address: "Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China"
     email: "jeffrey@bstinspection.com"
     phone: "0086-13798166270"
+    wechat_id: "JeffreyZengBST"
     copyright: "© __YEAR__ Guangzhou BST Technology Services Co., Ltd. Todos los derechos reservados."
   news:
     title: "Últimas noticias"
@@ -446,6 +451,7 @@ pt-BR:
     address: "Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China"
     email: "jeffrey@bstinspection.com"
     phone: "0086-13798166270"
+    wechat_id: "JeffreyZengBST"
     copyright: "© __YEAR__ Guangzhou BST Technology Services Co., Ltd. Todos os direitos reservados."
   news:
     title: "Últimas notícias"
@@ -530,6 +536,7 @@ ar:
     address: "Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China"
     email: "jeffrey@bstinspection.com"
     phone: "0086-13798166270"
+    wechat_id: "JeffreyZengBST"
     copyright: "© __YEAR__ Guangzhou BST Technology Services Co., Ltd. جميع الحقوق محفوظة."
   news:
     title: "آخر الأخبار"

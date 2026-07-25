@@ -16,4 +16,8 @@ sidebar: false
   <p><strong>电子邮件：</strong> <a href="mailto:jeffrey@bstinspection.com">jeffrey@bstinspection.com</a></p>
 
   <p><strong>电话：</strong> 0086-13798166270</p>
+
+  <p><strong>微信：</strong> JeffreyZengBST</p>
+
+  <p><img src="{{ '/images/Wechat QR Code.jpg' | relative_url }}" alt="微信二维码" class="wechat-qr"></p>
 </div>

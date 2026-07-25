@@ -16,4 +16,8 @@ sidebar: false
   <p><strong>البريد الإلكتروني:</strong> <a href="mailto:jeffrey@bstinspection.com">jeffrey@bstinspection.com</a></p>
 
   <p><strong>الهاتف:</strong> 0086-13798166270</p>
+
+  <p><strong>WeChat:</strong> JeffreyZengBST</p>
+
+  <p><img src="{{ '/images/Wechat QR Code.jpg' | relative_url }}" alt="رمز QR الخاص بـ WeChat" class="wechat-qr"></p>
 </div>
