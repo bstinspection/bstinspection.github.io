@@ -6,7 +6,7 @@ lang: fr
 
 Nous pouvons offrir des tarifs très compétitifs car nous sommes soucieux des coûts et nous nous efforçons de faire bénéficier nos clients des avantages d'une meilleure efficacité interne. En même temps, nous ne compromettrons pas nos normes de service élevées en offrant des remises non durables pour obtenir de nouvelles affaires.
 
-Services d'inspection : 200 USD par homme-jour ; Services d'audit d'usine : 260 USD par homme-jour.
+Services d'inspection : 198 USD par homme-jour ; Services d'audit d'usine : 258 USD par homme-jour.
 
 Les frais d'inspection sont facturés sur une base d'homme-jour. Le nombre d'hommes-jours dépend de la complexité du produit, de la quantité expédiée, du lieu d'inspection et des exigences spécifiques.
 

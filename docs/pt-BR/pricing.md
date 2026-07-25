@@ -6,7 +6,7 @@ lang: pt-BR
 
 Podemos oferecer preços muito competitivos porque somos conscientes dos custos e nos esforçamos para repassar aos nossos clientes os benefícios das melhorias de eficiência interna. Ao mesmo tempo, não comprometeremos nossos altos padrões de serviço oferecendo descontos insustentáveis para conquistar novos negócios.
 
-Serviços de Inspeção: USD200 por Homem-Dia; Serviços de Auditoria de Fábrica: USD260 por Homem-Dia.
+Serviços de Inspeção: USD198 por Homem-Dia; Serviços de Auditoria de Fábrica: USD258 por Homem-Dia.
 
 O custo da inspeção é cotado por homem-dia. O número de homens-dia necessários depende da complexidade do produto, quantidade do embarque, local da inspeção e requisitos de especificação.
 

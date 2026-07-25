@@ -41,22 +41,22 @@ LINK_FIXES = {
 }
 
 TITLES = {
-    "index.md": "# Brightsky Technology Services — Home",
-    "services.md": "# Our Services — Brightsky Technology",
-    "about.md": "# About Us — Brightsky Technology",
-    "production-scope.md": "# Production Scope — Brightsky Technology",
-    "quality-standard.md": "# Quality Standards — Brightsky Technology",
-    "pricing.md": "# Pricing — Brightsky Technology",
-    "terms.md": "# Terms and Conditions — Brightsky Technology",
-    "order-procedure.md": "# Order Procedure — Brightsky Technology",
-    "privacy.md": "# Privacy Policy — Brightsky Technology",
-    "quality-link.md": "# Quality Links — Brightsky Technology",
-    "reference-reports.md": "# Reference Reports — Brightsky Technology",
-    "news.md": "# News — Brightsky Technology",
+    "index.md": "# Guangzhou BST Tech — Home",
+    "services.md": "# Our Services — Guangzhou BST Tech",
+    "about.md": "# About Us — Guangzhou BST Tech",
+    "production-scope.md": "# Production Scope — Guangzhou BST Tech",
+    "quality-standard.md": "# Quality Standards — Guangzhou BST Tech",
+    "pricing.md": "# Pricing — Guangzhou BST Tech",
+    "terms.md": "# Terms and Conditions — Guangzhou BST Tech",
+    "order-procedure.md": "# Order Procedure — Guangzhou BST Tech",
+    "privacy.md": "# Privacy Policy — Guangzhou BST Tech",
+    "quality-link.md": "# Quality Links — Guangzhou BST Tech",
+    "reference-reports.md": "# Reference Reports — Guangzhou BST Tech",
+    "news.md": "# News — Guangzhou BST Tech",
     "news-2025-address.md": "# BST New Office Address — News",
     "news-2025-vietnam.md": "# Vietnam and Bangladesh Inspection Services — News",
     "news-2021-merger.md": "# Brightsky and Guangzhou BST — News",
-    "contact.md": "# Contact Us — Brightsky Technology",
+    "contact.md": "# Contact Us — Guangzhou BST Tech",
 }
 
 
@@ -232,7 +232,7 @@ def main():
         # Replace generic title with specific title
         content = re.sub(
             r"^# Brightsky Technology Services Co\., Ltd\.?",
-            TITLES.get(new_name, "# Brightsky Technology"),
+            TITLES.get(new_name, "# Guangzhou BST Tech"),
             content,
         )
 
