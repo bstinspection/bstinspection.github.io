@@ -6,7 +6,7 @@ lang: zh
 
 [**中华人民共和国商务部**](http://www.mofcom.gov.cn/)
 
-[**国家市场监督管理总局**](https://www.samr.gov.cn)
+[**中国国家市场监督管理总局**](https://www.samr.gov.cn)
 
 [**英国标准协会（BSI）**](http://www.bsigroup.com/)
 

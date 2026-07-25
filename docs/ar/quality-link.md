@@ -6,7 +6,7 @@ lang: ar
 
 [**وزارة التجارة لجمهورية الصين الشعبية**](http://english.mofcom.gov.cn/)
 
-[**إدارة الدولة لتنظيم السوق**](https://www.samr.gov.cn)
+[**إدارة الدولة لتنظيم السوق لجمهورية الصين الشعبية**](https://www.samr.gov.cn)
 
 [**British Standards Institution**](http://www.bsigroup.com/)
 
