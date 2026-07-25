@@ -5,7 +5,7 @@ lang: zh
 sidebar: false
 ---
 
-<div class="contact-info">
+<div class="contact-info" markdown="1">
 
 ### 广州睿翔技术服务有限公司
 

@@ -5,7 +5,7 @@ lang: fr
 sidebar: false
 ---
 
-<div class="contact-info">
+<div class="contact-info" markdown="1">
 
 ### Guangzhou BST Technology Services Co., Ltd.
 
