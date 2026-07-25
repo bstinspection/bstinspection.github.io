@@ -41,7 +41,7 @@ en:
     cost: "Competitive Pricing"
     cost_desc: "Cost-effective solutions starting at USD 200 per man-day without compromising on quality standards."
     global: "Global Coverage"
-    global_desc: "Services across China, Vietnam, and Bangladesh covering all major manufacturing hubs in Asia."
+    global_desc: "Services across China, Cambodia, Malaysia, Thailand, Vietnam, India, and Bangladesh covering all major manufacturing hubs in Asia."
   stats:
     years: "Years of Experience"
     countries: "Countries Covered"
@@ -125,7 +125,7 @@ zh:
     cost: "价格优势"
     cost_desc: "验货服务仅需 USD 200/人天，品质不打折。"
     global: "全球覆盖"
-    global_desc: "服务覆盖中国、越南、孟加拉等亚洲主要制造中心。"
+    global_desc: "服务覆盖中国、柬埔寨、马来西亚、泰国、越南、印度、孟加拉等亚洲主要制造中心。"
   stats:
     years: "从业年限"
     countries: "覆盖国家"
@@ -209,7 +209,7 @@ fr:
     cost: "Prix compétitifs"
     cost_desc: "Solutions économiques à partir de 200 USD par jour-homme sans compromis sur les normes de qualité."
     global: "Couverture mondiale"
-    global_desc: "Services en Chine, au Vietnam et au Bangladesh, couvrant tous les principaux centres de fabrication en Asie."
+    global_desc: "Services en Chine, au Cambodge, en Malaisie, en Thaïlande, au Vietnam, en Inde et au Bangladesh, couvrant tous les principaux centres de fabrication en Asie."
   stats:
     years: "Années d'expérience"
     countries: "Pays couverts"
@@ -293,7 +293,7 @@ ru:
     cost: "Конкурентные цены"
     cost_desc: "Экономичные решения от 200 долларов США за человеко-день без ущерба для стандартов качества."
     global: "Глобальный охват"
-    global_desc: "Услуги в Китае, Вьетнаме и Бангладеш, охватывающие все основные производственные центры Азии."
+    global_desc: "Услуги в Китае, Камбодже, Малайзии, Таиланде, Вьетнаме, Индии и Бангладеш, охватывающие все основные производственные центры Азии."
   stats:
     years: "Лет опыта"
     countries: "Охвачено стран"
@@ -377,7 +377,7 @@ es:
     cost: "Precios competitivos"
     cost_desc: "Soluciones rentables desde USD 200 por día-hombre sin comprometer los estándares de calidad."
     global: "Cobertura global"
-    global_desc: "Servicios en China, Vietnam y Bangladés, cubriendo todos los principales centros de fabricación en Asia."
+    global_desc: "Servicios en China, Camboya, Malasia, Tailandia, Vietnam, India y Bangladés, cubriendo todos los principales centros de fabricación en Asia."
   stats:
     years: "Años de experiencia"
     countries: "Países cubiertos"
@@ -461,7 +461,7 @@ pt-BR:
     cost: "Preços competitivos"
     cost_desc: "Soluções econômicas a partir de USD 200 por dia-homem, sem comprometer os padrões de qualidade."
     global: "Cobertura global"
-    global_desc: "Serviços na China, Vietnã e Bangladesh, abrangendo todos os principais polos industriais da Ásia."
+    global_desc: "Serviços na China, Camboja, Malásia, Tailândia, Vietnã, Índia e Bangladesh, abrangendo todos os principais polos industriais da Ásia."
   stats:
     years: "Anos de experiência"
     countries: "Países atendidos"
@@ -545,7 +545,7 @@ ar:
     cost: "أسعار تنافسية"
     cost_desc: "حلول فعالة من حيث التكلفة تبدأ من 200 دولار أمريكي ليوم العمل دون المساس بمعايير الجودة."
     global: "تغطية عالمية"
-    global_desc: "خدمات في الصين وفيتنام وبنغلاديش تغطي جميع مراكز التصنيع الرئيسية في آسيا."
+    global_desc: "خدمات في الصين وكمبوديا وماليزيا وتايلاند وفيتنام والهند وبنغلاديش تغطي جميع مراكز التصنيع الرئيسية في آسيا."
   stats:
     years: "سنوات الخبرة"
     countries: "الدول المغطاة"
