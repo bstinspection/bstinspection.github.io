@@ -846,6 +846,13 @@ li { margin-bottom: 0.3em; }
   font-size: 1.15rem;
 }
 
+.contact-info .wechat-qr {
+  max-width: 180px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  margin-top: 8px;
+}
+
 /* ======== Footer ======== */
 
 .footer-wave {

@@ -17,4 +17,8 @@ sidebar: false
   <p><strong>Email:</strong> <a href="mailto:jeffrey@bstinspection.com">jeffrey@bstinspection.com</a></p>
 
   <p><strong>Phone:</strong> 0086-13798166270</p>
+
+  <p><strong>WeChat:</strong> JeffreyZengBST</p>
+
+  <p><img src="{{ '/images/Wechat QR Code.jpg' | relative_url }}" alt="WeChat QR Code" class="wechat-qr"></p>
 </div>
