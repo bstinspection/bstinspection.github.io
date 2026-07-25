@@ -4,7 +4,7 @@ title: 关于我们
 lang: zh
 ---
 
-广州睿翔技术服务有限公司（Guangzhou BST Technology Services Co., Ltd.）是一家快速发展的中型质量保证公司，总部位于中国广州。前身为 Brightsky Technology Services Co., Ltd.（香港）。我们致力于通过为客户提供量身定制的质量控制服务，成为中国、越南和孟加拉国领先的质量控制服务提供商。
+广州睿翔技术服务有限公司（Guangzhou BST Technology Services Co., Ltd.）是一家快速发展的中型质量保证公司，总部位于中国广州。前身为 Brightsky Technology Services Co., Ltd.（香港）。我们致力于通过为客户提供量身定制的质量控制服务，成为中国、柬埔寨、马来西亚、泰国、越南、印度和孟加拉国领先的质量控制服务提供商。
 
 BST 具备从工厂审核到现场装柜监督的一站式质量保证服务能力。
 

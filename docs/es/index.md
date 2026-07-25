@@ -104,7 +104,7 @@ hero_image: /images/background.jpg?v={{ site.cache_buster }}
       </div>
       <div class="stat-item">
         <div class="stat-icon">{% include icon.html name="map-marked-alt" %}</div>
-        <div class="stat-number" data-target="3">0+</div>
+        <div class="stat-number" data-target="7">0+</div>
         <div class="stat-label">{{ site.data.i18n[page.lang].stats.countries }}</div>
       </div>
       <div class="stat-item">
