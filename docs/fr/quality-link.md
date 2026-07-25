@@ -8,9 +8,7 @@ lang: fr
 
 [**中华人民共和国商务部**](http://www.mofcom.gov.cn/)
 
-[**Administration générale de la supervision de la qualité, de l'inspection et de la quarantaine de la République populaire de Chine**](http://english.aqsiq.gov.cn/)
-
-[**中华人民共和国质量监督检验检疫总局**](http://www.aqsiq.gov.cn/)
+[**Administration d'État pour la Régulation du Marché**](https://www.samr.gov.cn)
 
 [**British Standards Institution**](http://www.bsigroup.com/)
 
