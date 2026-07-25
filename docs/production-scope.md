@@ -20,6 +20,6 @@ c. Steel structure, boiler, crane, valve, ship, oil, gas' inspection as per inte
 
 a. Electrical & Electronic Items and luminaires: household and similar electrical appliances, computer component, machinery, tools, lamp, Christmas light chain)
 
-b. Hard goods - toys, furniture, giftware, porcelain, promotional products, household items, sports goods, crafts, stainless tool, stainless kitchen, etc
+b. General Merchandise (Durable Consumer Goods) - toys, furniture, giftware, porcelain, promotional products, household items, sports goods, crafts, stainless tool, stainless kitchen, etc
 
 c. Garments & Shoes

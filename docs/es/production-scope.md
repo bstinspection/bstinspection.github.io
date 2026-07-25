@@ -18,6 +18,6 @@ c. Inspección de estructuras de acero, calderas, grúas, válvulas, barcos, pet
 
 a. Artículos eléctricos y electrónicos y luminarias: electrodomésticos y aparatos similares de uso doméstico, componentes de computadoras, maquinaria, herramientas, lámparas, cadenas de luces navideñas.
 
-b. Productos duros: juguetes, muebles, artículos de regalo, porcelana, productos promocionales, artículos para el hogar, artículos deportivos, artesanías, herramientas de acero inoxidable, cocina de acero inoxidable, etc.
+b. Mercancías generales (Bienes de consumo duraderos): juguetes, muebles, artículos de regalo, porcelana, productos promocionales, artículos para el hogar, artículos deportivos, artesanías, herramientas de acero inoxidable, cocina de acero inoxidable, etc.
 
 c. Prendas de vestir y calzado.

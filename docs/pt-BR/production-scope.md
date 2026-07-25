@@ -18,6 +18,6 @@ c. Inspeção de estrutura de aço, caldeira, guindaste, válvula, navio, petró
 
 a. Itens elétricos e eletrônicos e luminárias: aparelhos domésticos e similares, componentes de computador, máquinas, ferramentas, lâmpadas, cordão de luz de Natal.
 
-b. Produtos duros - brinquedos, móveis, artigos para presentes, porcelana, produtos promocionais, artigos domésticos, artigos esportivos, artesanato, ferramentas de aço inoxidável, cozinha de aço inoxidável, etc.
+b. Mercadorias gerais (Bens de consumo duráveis) - brinquedos, móveis, artigos para presentes, porcelana, produtos promocionais, artigos domésticos, artigos esportivos, artesanato, ferramentas de aço inoxidável, cozinha de aço inoxidável, etc.
 
 c. Vestuário e Calçados.
