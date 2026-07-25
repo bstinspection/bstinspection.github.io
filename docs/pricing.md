@@ -8,7 +8,7 @@ nav_order: 4
 
 We can offer very competitive pricing because we are cost-conscious and strive to pass onto our customers the benefits of improved internal efficiencies. At the same time, we will not compromise our high service standards by offering unsustainable discounts to secure new business.
 
-Inspection Services: USD200 per Man-Day; Factory Audit Services: USD260 per Man-Day.
+Inspection Services: USD198 per Man-Day; Factory Audit Services: USD258 per Man-Day.
 
 The inspection charge is quoted on a man-day basis. The number of man-days involved depends on the product complexity, shipment quantity, inspection location and specification requirements.
 

@@ -6,7 +6,7 @@ lang: es
 
 Podemos ofrecer precios muy competitivos porque somos conscientes de los costos y nos esforzamos por transmitir a nuestros clientes los beneficios de las mejoras en la eficiencia interna. Al mismo tiempo, no comprometeremos nuestros altos estándares de servicio ofreciendo descuentos insostenibles para conseguir nuevos negocios.
 
-Servicios de inspección: USD 200 por día-hombre; Servicios de auditoría de fábrica: USD 260 por día-hombre.
+Servicios de inspección: USD 198 por día-hombre; Servicios de auditoría de fábrica: USD 258 por día-hombre.
 
 El cargo de inspección se cotiza por día-hombre. El número de días-hombre requeridos depende de la complejidad del producto, la cantidad del envío, la ubicación de la inspección y los requisitos de las especificaciones.
 
