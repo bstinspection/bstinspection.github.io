@@ -7,17 +7,19 @@ sidebar: false
 ---
 
 <div class="contact-info">
-  <h3>Guangzhou BST Technology Services Co., Ltd.</h3>
 
-  <p><strong>Office Address:</strong> Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China</p>
+### Guangzhou BST Technology Services Co., Ltd.
 
-  <p><strong>Contact Person:</strong> Jeffrey Tsang</p>
+**Office Address:** Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China
 
-  <p><strong>Email:</strong> <a href="mailto:jeffrey@bstinspection.com">jeffrey@bstinspection.com</a></p>
+**Contact Person:** Jeffrey Tsang
 
-  <p><strong>Phone:</strong> 0086-13798166270</p>
+**Email:** [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com)
 
-  <p><strong>WeChat:</strong> JeffreyZengBST</p>
+**Phone:** 0086-13798166270
 
-  <p><img src="{{ '/images/Wechat QR Code.jpg' | relative_url }}" alt="WeChat QR Code" class="wechat-qr"></p>
+**WeChat:** JeffreyZengBST
+
+![WeChat QR Code]({{ '/images/Wechat QR Code.jpg' | relative_url }}){:.wechat-qr}
+
 </div>
