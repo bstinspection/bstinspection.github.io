@@ -58,26 +58,6 @@ Los defectos menores pueden no reducir la usabilidad del producto, pero la calid
 | 150001 to 500000 | D | E | G | J | M | P | Q |
 | 500001 and over | D | E | H | K | N | Q | R |
 
-#### Single Sampling Plans for Normal Inspection
-
-| Code | Size | AQL 0.40 | AQL 0.65 | AQL 1.0 | AQL 1.5 | AQL 2.5 | AQL 4.0 | AQL 6.5 |
-|---|---|---|---|---|---|---|---|---|
-| | | Ac Re | Ac Re | Ac Re | Ac Re | Ac Re | Ac Re | Ac Re |
-| A | 2 | | | | | 0 1 | | |
-| B | 3 | | | | | 0 1 | | |
-| C | 5 | | | 0 1 | | 0 1 | | |
-| D | 8 | | | | 1 2 | 1 2 | 2 3 | |
-| E | 13 | | | 1 2 | 2 3 | 3 4 | | |
-| F | 20 | | 0 1 | 1 2 | 2 3 | 3 4 | 5 6 | |
-| G | 32 | 0 1 | 1 2 | 2 3 | 3 4 | 5 6 | 7 8 | |
-| H | 50 | 1 2 | 2 3 | 3 4 | 5 6 | 7 8 | 10 11 | 14 15 |
-| J | 80 | 1 2 | 2 3 | 3 4 | 5 6 | 7 8 | 10 11 | 14 15 |
-| K | 125 | 1 2 | 2 3 | 3 4 | 5 6 | 7 8 | 10 11 | 14 15 |
-| L | 200 | 2 3 | 3 4 | 5 6 | 7 8 | 10 11 | 14 15 | 21 22 |
-| M | 315 | 3 4 | 5 6 | 7 8 | 10 11 | 14 15 | 21 22 | 21 22 |
-| N | 500 | 5 6 | 7 8 | 10 11 | 14 15 | 21 22 | | |
-| P | 800 | 7 8 | 10 11 | 14 15 | 21 22 | | | |
-| Q | 1250 | 10 11 | 14 15 | 21 22 | | | | |
-| R | 2000 | 14 15 | 21 22 | | | | | |
+![Single Sampling Plans for Normal Inspection (MIL-STD-105E)]({{ '/images/Table-mil-std_105_e-5.webp' | relative_url }})
 
 En la práctica, los Estándares de Calidad de BST utilizan las tablas MIL-STD-105E resumidas anteriormente.
