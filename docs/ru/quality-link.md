@@ -4,9 +4,7 @@ title: Полезные ссылки
 lang: ru
 ---
 
-[**Ministry of Commerce of the People's Republic of China**](http://english.mofcom.gov.cn/)
-
-[**中华人民共和国商务部**](http://www.mofcom.gov.cn/)
+[**Министерство коммерции КНР**](http://russian.mofcom.gov.cn/)
 
 [**Государственное управление по регулированию рынка КНР**](https://www.samr.gov.cn)
 

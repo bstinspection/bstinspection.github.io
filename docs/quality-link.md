@@ -8,8 +8,6 @@ nav_order: 9
 
 [**Ministry of Commerce of the People's Republic of China**](http://english.mofcom.gov.cn/)
 
-[**中华人民共和国商务部**](http://www.mofcom.gov.cn/)
-
 [**State Administration for Market Regulation**](https://www.samr.gov.cn)
 
 [**British Standards Institution**](http://www.bsigroup.com/)
