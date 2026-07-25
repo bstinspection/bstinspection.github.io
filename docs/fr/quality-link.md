@@ -4,9 +4,7 @@ title: Liens qualité
 lang: fr
 ---
 
-[**Ministère du Commerce de la République populaire de Chine**](http://english.mofcom.gov.cn/)
-
-[**中华人民共和国商务部**](http://www.mofcom.gov.cn/)
+[**Ministère du Commerce de la République populaire de Chine**](http://french.mofcom.gov.cn/)
 
 [**Administration d'État pour la Régulation du Marché**](https://www.samr.gov.cn)
 
