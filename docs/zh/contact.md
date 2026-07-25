@@ -8,8 +8,7 @@ sidebar: false
 <div class="contact-info">
   <h3>广州睿翔技术服务有限公司</h3>
 
-  <p><strong>办公地址：</strong><br>
-  中国广东省广州市黄埔区茅岗路环村大街21号3栋2803房</p>
+  <p><strong>办公地址：</strong> 中国广东省广州市黄埔区茅岗路环村大街21号3栋2803房</p>
 
   <p><strong>联系人：</strong> 曾勇俊</p>
 

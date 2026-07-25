@@ -8,8 +8,7 @@ sidebar: false
 <div class="contact-info">
   <h3>Guangzhou BST Technology Services Co., Ltd.</h3>
 
-  <p><strong>المكتب:</strong><br>
-  Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China</p>
+  <p><strong>المكتب:</strong> Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China</p>
 
   <p><strong>جهة الاتصال:</strong> Jeffrey Tsang</p>
 
