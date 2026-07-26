@@ -140,7 +140,7 @@ In general:
 
 ## 8. Testing Arrangement (TA) {#ta}
 
-BST has independent test lab in China. BST can issue CE certificate for European product.
+BST has cooperative test lab in China. BST can issue CE certificate for European product.
 
 ## 9. Contact Information {#ci}
 
