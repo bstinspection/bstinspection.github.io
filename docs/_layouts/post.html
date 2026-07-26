@@ -1,18 +1,22 @@
 ---
 layout: default
 ---
+{% assign lang_prefix = '' %}
+{% if page.lang and page.lang != 'en' %}
+  {% assign lang_prefix = '/' | append: page.lang %}
+{% endif %}
 <main class="page-content">
   <div class="container">
     <article class="content-area post-full">
       <p class="breadcrumb">
-        <a href="{{ '/' | relative_url }}">{{ site.data.i18n[page.lang].page.home }}</a> /
-        <a href="{{ '/news/' | relative_url }}">{{ site.data.i18n[page.lang].news.title }}</a> /
+        <a href="{{ lang_prefix }}/">{{ site.data.i18n[page.lang].page.home }}</a> /
+        <a href="{{ lang_prefix }}/news/">{{ site.data.i18n[page.lang].news.title }}</a> /
         {{ page.title }}
       </p>
       <h1>{{ page.title }}</h1>
       <p class="post-meta">{{ page.date | date: "%Y-%m-%d" }}</p>
       {{ content }}
-      <p class="post-back"><a href="{{ '/news/' | relative_url }}">&larr; {{ site.data.i18n[page.lang].news.back }}</a></p>
+      <p class="post-back"><a href="{{ lang_prefix }}/news/">&larr; {{ site.data.i18n[page.lang].news.back }}</a></p>
     </article>
   </div>
 </main>
