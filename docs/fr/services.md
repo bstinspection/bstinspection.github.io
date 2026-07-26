@@ -138,7 +138,7 @@ En général :
 
 ## 8. Dispositions de test (TA) {#ta}
 
-BST dispose d'un laboratoire d'essais indépendant en Chine. BST peut délivrer un certificat CE pour les produits européens.
+BST dispose d'un laboratoire d'essais coopératif en Chine. BST peut délivrer un certificat CE pour les produits européens.
 
 ## 9. Coordonnées {#ci}
 

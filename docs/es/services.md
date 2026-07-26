@@ -138,7 +138,7 @@ En general:
 
 ## 8. Arreglo de Pruebas (TA) {#ta}
 
-BST cuenta con un laboratorio de pruebas independiente en China. BST puede emitir el certificado CE para productos europeos.
+BST cuenta con un laboratorio de pruebas cooperativo en China. BST puede emitir el certificado CE para productos europeos.
 
 ## 9. Información de Contacto {#ci}
 

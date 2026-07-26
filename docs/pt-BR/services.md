@@ -138,7 +138,7 @@ Em geral:
 
 ## 8. Arranjo de Testes (TA) {#ta}
 
-A BST possui laboratório de testes independente na China. A BST pode emitir certificado CE para produtos europeus.
+A BST possui laboratório de testes cooperativo na China. A BST pode emitir certificado CE para produtos europeus.
 
 ## 9. Informações de Contato {#ci}
 
