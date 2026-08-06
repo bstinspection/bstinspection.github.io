@@ -4,7 +4,7 @@ title: Sobre nós
 lang: pt-BR
 ---
 
-A Guangzhou BST Technology Services Co., Ltd. é uma empresa de garantia da qualidade de médio porte em rápido crescimento localizada em Guangzhou, China. Nossa antecessora é a Brightsky Technology Services Co., Ltd., fundada em Hong Kong. Estamos comprometidos em ser um fornecedor líder de serviços de controle de qualidade na China, Camboja, Malásia, Tailândia, Vietnã, Índia e Bangladesh, por meio de serviços de controle de qualidade personalizados para nossos clientes.
+A Guangzhou BST Technology Services Co., Ltd. é uma empresa de garantia da qualidade de médio porte em rápido crescimento localizada em Guangzhou, China. Nossa antecessora é a Brightsky Technology Services Co., Ltd., fundada em Hong Kong. Estamos comprometidos em ser um fornecedor líder de serviços de controle de qualidade na China, Camboja, Malásia, Tailândia, Vietnã, Índia, Bangladesh e Sri Lanka, por meio de serviços de controle de qualidade personalizados para nossos clientes.
 
 A BST tem a capacidade de fornecer um serviço de garantia de qualidade completo, desde a auditoria de fábrica até a verificação de carregamento no local.
 
