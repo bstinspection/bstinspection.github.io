@@ -6,36 +6,92 @@ permalink: /privacy/
 nav_order: 8
 ---
 
-## 1. How do we protect your information?
+*Effective date: August 10, 2026*
 
-BST is committed not to disclose your personal details and the information you provided to any third party.
+## 1. Overview and Data Controller
 
-You have the possibility to access, modify or remove any data concerning you.
+This website is a static promotional site operated by Guangzhou BST Technology Services Co., Ltd. ("BST", "we", "us") to introduce our quality assurance services. It explains how information is handled when you visit our site.
 
-All personal data held by BST will be kept confidential but BST may, where such disclosure is necessary to satisfy the purpose -or a directly related purpose- for which the data was collected, provide such information to the following parties:
+For the purpose of applicable data protection law, the data controller is:
 
-- Any subsidiaries, holding companies, associated companies or affiliates of or companies controlled by or under common control with BST,
-- Any other person who is under a duty of confidentiality to BST who has undertaken to keep such information confidential;
-- Any financial institution, charge or credit card issuing company, credit information or reference bureau, or collection agency necessary for establishing and supporting the payment of any services being requested.
+- Guangzhou BST Technology Services Co., Ltd.
+- Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China
+- Email: jeffrey@bstinspection.com
 
-Personal data may also be disclosed to any person or persons that have a right under the Ordinance to gain access to such information provided they are able to prove their authority to access such information.
+## 2. We Do Not Actively Collect Personal Information
 
-For example, if BST were served with a court order demanding certain information regarding the customer, then BST would disclose the information to the duly appointed officer of the court.
+This is a static website. It has no contact forms, no registration, and no user accounts. It uses no cookies, analytics tools, advertising trackers, or similar technologies. We do not actively collect, store, or process any personal information from visitors of this website.
 
-## 2. Access to and Correction of Personal Data
+## 3. Information You Voluntarily Provide
 
-You are free to edit your personal and corporate information at any time by writing as this address, and:
+When you contact us by email, phone, or WeChat, you may choose to share personal information with us, such as your name, company, and contact details. We use this information only to respond to your inquiry, provide information about our services, and communicate with you about a possible or existing business relationship.
 
-A. Specifying the data which you believe to be incorrect, the reason you believe it to be incorrect, and the appropriate corrections;
+Legal basis for this processing (GDPR Article 6): your consent (Article 6(1)(a)) when you provide the information, and our legitimate interest in answering inquiries and serving our clients (Article 6(1)(f)). Where it applies, processing is also necessary for steps taken before entering a contract (Article 6(1)(b)).
 
-B. Providing "proof of identity" verifying that the individual making the request is authorized to request such corrections.
+## 4. Information Processed by Hosting Platforms (GitHub Pages, Fastly)
 
-BST will, upon satisfying itself of the authenticity and validity of the correction request, make every endeavour to comply with and respond to the request within the shortest period of time.
+This website is hosted on GitHub Pages, a service of GitHub, Inc. (United States), and delivered through Fastly's content delivery network. When you visit this website, these platforms may process technical data needed for delivery, security, and performance, including:
 
-You have the right to request BST to delete account, which will limit your access to BST services.
+- IP addresses
+- Browser type and version
+- Requested pages and timestamps
+- Device and network information
+- Basic server and CDN access logs
 
-## 3. Data retention
+This information is handled by GitHub and Fastly under their own privacy policies and terms of service. We do not control and are not responsible for the processing these platforms perform. Because GitHub and Fastly operate from the United States and other jurisdictions, such technical data may be transferred internationally. GitHub provides appropriate safeguards for personal data transferred from the EEA, UK, and Switzerland, including the EU Standard Contractual Clauses under its Data Processing Agreement.
 
-Webmaster will destroy any information it may hold in accordance with our internal retention policy. This policy requires that information will only be retained for as long as it is necessary to fulfil the original or directly related purpose for which it was collected, unless such information is retained to satisfy any applicable statutory or contractual obligations.
+## 5. Cookies
 
-*If you have any questions, please feel free to contact us.*
+This website does not set or use cookies.
+
+## 6. Disclosure of Information
+
+We do not sell, rent, trade, or share personal information with third parties for marketing purposes. In particular, we do not "sell" personal information as defined under the California Consumer Privacy Act (CCPA/CPRA). We may disclose personal information only:
+
+- where necessary to provide the services you request;
+- where required by applicable law, legal process, or governmental request;
+- to service providers acting on our behalf under appropriate confidentiality and data protection obligations;
+- with your consent.
+
+## 7. Your Rights
+
+Depending on where you live, you may have the following rights under the GDPR and/or the CCPA/CPRA:
+
+- Right of access — obtain a copy of personal information we hold about you;
+- Right to rectification — correct inaccurate personal information;
+- Right to erasure ("right to be forgotten") — request deletion;
+- Right to restriction of processing;
+- Right to data portability;
+- Right to object to processing based on legitimate interest;
+- Right to withdraw consent at any time, without affecting the lawfulness of processing carried out before withdrawal;
+- Right to lodge a complaint with your local data protection authority.
+
+If you are a California resident, the CCPA/CPRA also gives you the right to know and access the personal information we collect, the right to request deletion, and the right to non-discrimination for exercising your privacy rights.
+
+To exercise any of these rights, email jeffrey@bstinspection.com. We will respond within the time limits required by applicable law.
+
+## 8. Data Retention
+
+Because this website has no accounts, we retain only the correspondence you send us, and only for as long as needed to fulfill the purpose for which it was provided or as required by legal or contractual obligations. Access logs and similar technical data are kept by GitHub Pages and Fastly according to their own policies.
+
+## 9. Children's Privacy
+
+This website is not directed at children, and we do not knowingly collect personal information from anyone under the age of 12. If you believe we may have received personal information from a child under 12, contact jeffrey@bstinspection.com and we will take steps to delete it.
+
+## 10. Security
+
+This website is served over HTTPS. Because the site itself collects no personal information, the privacy risk to visitors is minimal. We apply reasonable technical and organizational measures to protect any information you send us.
+
+## 11. Third-Party Links
+
+This website may link to external sites. This Privacy Policy covers only our website; we are not responsible for the privacy practices of external sites.
+
+## 12. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes are posted on this page with a revised effective date.
+
+## 13. Contact
+
+If you have questions about this Privacy Policy or your personal data, contact us at jeffrey@bstinspection.com, or by mail at:
+
+Guangzhou BST Technology Services Co., Ltd., Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China

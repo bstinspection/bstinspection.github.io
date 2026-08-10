@@ -4,36 +4,92 @@ title: Política de privacidade
 lang: pt-BR
 ---
 
-## 1. Como protegemos suas informações?
+*Data de entrada em vigor: 10 de agosto de 2026*
 
-A BST se compromete a não divulgar seus dados pessoais e as informações fornecidas a terceiros.
+## 1. Visão geral e controlador de dados
 
-Você tem a possibilidade de acessar, modificar ou remover qualquer dado referente a você.
+Este site é um site promocional estático operado pela Guangzhou BST Technology Services Co., Ltd. («BST», «nós») para apresentar nossos serviços de controle de qualidade. Esta política explica como as informações são tratadas quando você visita nosso site.
 
-Todos os dados pessoais mantidos pela BST serão mantidos em sigilo, mas a BST poderá, quando tal divulgação for necessária para satisfazer a finalidade — ou uma finalidade diretamente relacionada — para a qual os dados foram coletados, fornecer tais informações às seguintes partes:
+Para os fins da legislação aplicável de proteção de dados, o controlador de dados é:
 
-- Quaisquer subsidiárias, holding, empresas associadas ou afiliadas da BST ou empresas controladas ou sob controle comum com a BST,
-- Qualquer outra pessoa que esteja sob dever de confidencialidade com a BST e que tenha se comprometido a manter tais informações confidenciais;
-- Qualquer instituição financeira, empresa de cobrança ou emissora de cartão de crédito, bureau de informações de crédito ou referência, ou agência de cobrança necessária para estabelecer e apoiar o pagamento de quaisquer serviços solicitados.
+- Guangzhou BST Technology Services Co., Ltd.
+- Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China
+- E-mail: jeffrey@bstinspection.com
 
-Os dados pessoais também podem ser divulgados a qualquer pessoa ou pessoas que tenham direito, nos termos da legislação, de acessar tais informações, desde que possam comprovar sua autoridade para acessá-las.
+## 2. Não coletamos ativamente informações pessoais
 
-Por exemplo, se a BST receber uma ordem judicial exigindo determinadas informações sobre o cliente, a BST divulgará as informações ao oficial devidamente nomeado do tribunal.
+Este é um site estático. Ele não possui formulários de contato, não exige registro nem cria contas de usuário. Não utilizamos cookies, ferramentas de análise, rastreadores de publicidade ou tecnologias semelhantes. Não coletamos, armazenamos nem processamos ativamente nenhuma informação pessoal dos visitantes deste site.
 
-## 2. Acesso e Correção de Dados Pessoais
+## 3. Informações que você fornece voluntariamente
 
-Você está livre para editar suas informações pessoais e corporativas a qualquer momento, escrevendo para este endereço, e:
+Quando você entra em contato conosco por e-mail, telefone ou WeChat, pode optar por compartilhar informações pessoais conosco, como nome, empresa e dados de contato. Usamos essas informações apenas para responder à sua consulta, fornecer informações sobre nossos serviços e comunicar-nos com você sobre uma possível ou existente relação comercial.
 
-A. Especificando os dados que você acredita estarem incorretos, o motivo pelo qual acredita que estão incorretos e as correções apropriadas;
+Base legal para esse processamento (artigo 6.º do RGPD): seu consentimento (artigo 6.º, n.º 1, alínea a)) ao fornecer as informações, e nosso interesse legítimo em responder às consultas e atender nossos clientes (artigo 6.º, n.º 1, alínea f)). Quando aplicável, o processamento também é necessário para medidas pré-contratuais (artigo 6.º, n.º 1, alínea b)).
 
-B. Fornecendo "comprovante de identidade" verificando que o indivíduo que faz a solicitação está autorizado a solicitar tais correções.
+## 4. Informações processadas pelas plataformas de hospedagem (GitHub Pages, Fastly)
 
-A BST, após se certificar da autenticidade e validade da solicitação de correção, envidará todos os esforços para atender e responder à solicitação no menor período de tempo possível.
+Este site é hospedado no GitHub Pages, um serviço da GitHub, Inc. (Estados Unidos), e entregue por meio da rede de distribuição de conteúdo da Fastly. Ao visitar este site, essas plataformas podem processar dados técnicos necessários para entrega, segurança e desempenho, incluindo:
 
-Você tem o direito de solicitar à BST a exclusão da conta, o que limitará seu acesso aos serviços da BST.
+- endereços IP;
+- tipo e versão do navegador;
+- páginas solicitadas e carimbos de data/hora;
+- informações do dispositivo e da rede;
+- registros básicos de acesso do servidor e do CDN.
 
-## 3. Retenção de dados
+Essas informações são tratadas pelo GitHub e pela Fastly de acordo com suas próprias políticas de privacidade e termos de serviço. Não controlamos e não somos responsáveis pelo processamento realizado por essas plataformas. Como o GitHub e a Fastly operam dos Estados Unidos e de outras jurisdições, esses dados técnicos podem ser transferidos internacionalmente. O GitHub oferece garantias adequadas para dados pessoais transferidos do EEE, do Reino Unido e da Suíça, incluindo as Cláusulas Contratuais Padrão da UE sob seu Acordo de Processamento de Dados.
 
-O webmaster destruirá qualquer informação que possa manter de acordo com nossa política interna de retenção. Esta política exige que as informações sejam retidas apenas pelo tempo necessário para cumprir a finalidade original ou diretamente relacionada para a qual foram coletadas, a menos que tais informações sejam retidas para satisfazer quaisquer obrigações estatutárias ou contratuais aplicáveis.
+## 5. Cookies
 
-*Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato conosco.*
+Este site não define nem utiliza cookies.
+
+## 6. Divulgação de informações
+
+Não vendemos, alugamos, trocamos ou compartilhamos informações pessoais com terceiros para fins de marketing. Em particular, não «vendemos» informações pessoais conforme definido na California Consumer Privacy Act (CCPA/CPRA). Só podemos divulgar informações pessoais:
+
+- quando necessário para fornecer os serviços solicitados por você;
+- quando exigido pela legislação aplicável, por processo legal ou por solicitação governamental;
+- a prestadores de serviços que atuam em nosso nome sob obrigações adequadas de confidencialidade e proteção de dados;
+- com o seu consentimento.
+
+## 7. Seus direitos
+
+Dependendo de onde você mora, você pode ter os seguintes direitos de acordo com o RGPD e/ou a CCPA/CPRA:
+
+- direito de acesso — obter uma cópia das informações pessoais que temos sobre você;
+- direito de retificação — corrigir informações pessoais imprecisas;
+- direito ao apagamento («direito de ser esquecido») — solicitar a exclusão;
+- direito à limitação do processamento;
+- direito à portabilidade dos dados;
+- direito de se opor ao processamento baseado em interesse legítimo;
+- direito de retirar o consentimento a qualquer momento, sem afetar a legalidade do processamento realizado antes da retirada;
+- direito de apresentar reclamação à sua autoridade local de proteção de dados.
+
+Se você for residente da Califórnia, a CCPA/CPRA também lhe dá o direito de conhecer e acessar as informações pessoais que coletamos, o direito de solicitar a exclusão e o direito à não discriminação por exercer seus direitos de privacidade.
+
+Para exercer qualquer um desses direitos, envie um e-mail para jeffrey@bstinspection.com. Responderemos dentro dos prazos exigidos pela legislação aplicável.
+
+## 8. Retenção de dados
+
+Como este site não possui contas, retemos apenas a correspondência que você nos envia, e somente pelo tempo necessário para cumprir a finalidade para a qual foi fornecida ou conforme exigido por obrigações legais ou contratuais. Os registros de acesso e dados técnicos semelhantes são mantidos pelo GitHub Pages e pela Fastly de acordo com suas próprias políticas.
+
+## 9. Privacidade de crianças
+
+Este site não é direcionado a crianças e não coletamos conscientemente informações pessoais de menores de 12 anos. Se você acredita que podemos ter recebido informações pessoais de uma criança menor de 12 anos, entre em contato pelo e-mail jeffrey@bstinspection.com e tomaremos providências para excluí-las.
+
+## 10. Segurança
+
+Este site é servido por HTTPS. Como o próprio site não coleta informações pessoais, o risco de privacidade para os visitantes é mínimo. Aplicamos medidas técnicas e organizacionais razoáveis para proteger qualquer informação que você nos envie.
+
+## 11. Links de terceiros
+
+Este site pode conter links para sites externos. Esta política de privacidade cobre apenas o nosso site; não somos responsáveis pelas práticas de privacidade de sites externos.
+
+## 12. Alterações nesta política
+
+Podemos atualizar esta política de privacidade periodicamente. As alterações serão publicadas nesta página com uma data de entrada em vigor revisada.
+
+## 13. Contato
+
+Se você tiver dúvidas sobre esta política de privacidade ou seus dados pessoais, entre em contato pelo e-mail jeffrey@bstinspection.com ou por correspondência:
+
+Guangzhou BST Technology Services Co., Ltd., Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China
