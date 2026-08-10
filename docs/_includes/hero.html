@@ -7,7 +7,7 @@
   {% if page.hero_image %}
   <picture class="hero-bg">
     <source srcset="{{ '/images/background.webp' | relative_url }}?v={{ site.cache_buster }}" type="image/webp">
-    <img src="{{ page.hero_image | relative_url }}" alt="" class="hero-bg-img" width="1920" height="1280" fetchpriority="high">
+    <img src="{{ '/images/background.jpg' | relative_url }}?v={{ site.cache_buster }}" alt="" class="hero-bg-img" width="1920" height="1280" fetchpriority="high">
   </picture>
   {% endif %}
   <div class="container hero-content">

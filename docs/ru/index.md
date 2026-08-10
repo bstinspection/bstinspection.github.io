@@ -3,7 +3,7 @@ layout: home
 title: Главная
 lang: ru
 sidebar: false
-hero_image: /images/background.jpg?v={{ site.cache_buster }}
+hero_image: /images/background.jpg
 ---
 
 {% assign lang_prefix = '' %}
