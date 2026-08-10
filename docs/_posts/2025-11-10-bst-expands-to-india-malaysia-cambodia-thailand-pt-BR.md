@@ -8,7 +8,7 @@ permalink: /pt-BR/news/india-malaysia-cambodia-thailand/
 
 A BST ampliou sua cobertura de serviços para a Índia, a Malásia, o Camboja e a Tailândia, quatro dos países de manufatura que mais crescem na Ásia. Para clientes que diversificam suas cadeias de suprimentos entre países, agora há mais opções.
 
-**Serviços agora disponíveis em todos os sete países**
+## Serviços agora disponíveis em todos os sete países
 
 Serviços completos podem agora ser agendados em todos os sete países onde a BST atua:
 
@@ -19,11 +19,11 @@ Serviços completos podem agora ser agendados em todos os sete países onde a BS
 - Final Random Inspection (FRI): inspeção pré-embarque de produtos acabados.
 - Loading Supervision (L/S): supervisão do carregamento e da lacração de contêineres.
 
-**A cobertura mais ampla da Ásia**
+## A cobertura mais ampla da Ásia
 
 A BST agora atende a China, o Camboja, a Malásia, a Tailândia, o Vietnã, a Índia e Bangladesh.
 
-**O que isso significa para nossos clientes**
+## O que isso significa para nossos clientes
 
 Os clientes se beneficiam de:
 - Um único parceiro de QA cobrindo sete países de fornecimento.

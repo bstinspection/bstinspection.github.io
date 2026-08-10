@@ -8,7 +8,7 @@ permalink: /es/news/vietnam-and-bangladesh-inspection/
 
 BST ha ampliado su cobertura de servicios a Vietnam y Bangladés, dos de los centros de fabricación de más rápido crecimiento en Asia. Los clientes que quieren mover su suministro más allá de China ahora tienen más opciones.
 
-**Servicios ahora disponibles en Vietnam y Bangladés**
+## Servicios ahora disponibles en Vietnam y Bangladés
 
 Los servicios completos ya se pueden reservar en ambos países:
 
@@ -19,11 +19,11 @@ Los servicios completos ya se pueden reservar en ambos países:
 - Final Random Inspection (FRI): inspección previa al embarque de productos terminados.
 - Loading Supervision (L/S): supervisa el llenado y sellado de contenedores.
 
-**Principales regiones de fabricación cubiertas**
+## Principales regiones de fabricación cubiertas
 
 En Vietnam, atendemos a clientes en Ciudad Ho Chi Minh, Hanói, Binh Duong y Dong Nai. En Bangladés, cubrimos Daca, Chittagong y Gazipur, las principales zonas industriales del país.
 
-**Qué significa esto para nuestros clientes**
+## Qué significa esto para nuestros clientes
 
 Los clientes se benefician de:
 - Un único socio de aseguramiento de calidad en varios países, lo que reduce los costos de coordinación.

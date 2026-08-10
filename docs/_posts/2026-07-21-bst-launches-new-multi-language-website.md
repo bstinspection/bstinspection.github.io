@@ -7,7 +7,7 @@ lang: en
 
 BST's new website is live. It targets clients worldwide, with a cleaner interface and easier browsing.
 
-**What's New**
+## What's New
 
 - Seven languages: English, Chinese, French, Russian, Spanish, Portuguese (Brazil), and Arabic. Clients can read the site in the language they know best.
 - A clean, professional interface with improved navigation, working on desktop, tablet, and mobile.
@@ -15,7 +15,7 @@ BST's new website is live. It targets clients worldwide, with a cleaner interfac
 - Switching language keeps you on the same page.
 - Arabic gets full right-to-left layout support.
 
-**Better Service**
+## Better Service
 
 We want the new site to present our services more clearly and transparently. Take a look.
 

@@ -8,13 +8,13 @@ permalink: /pt-BR/news/bst-new-office-address/
 
 Como a equipe está crescendo, o escritório da BST em Guangzhou se mudou para um espaço maior.
 
-**Novo endereço do escritório**
+## Novo endereço do escritório
 
 Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China
 
 O novo escritório dá mais espaço para a equipe de operações, o treinamento de inspetores e as reuniões com clientes. Ele fica no distrito de Huangpu, perto dos principais centros de transporte e polos industriais do Delta do Rio das Pérolas.
 
-**Informações de contato**
+## Informações de contato
 
 Os dados de contato não mudaram:
 

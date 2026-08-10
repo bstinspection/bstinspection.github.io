@@ -8,7 +8,7 @@ permalink: /fr/news/bst-launches-new-multi-language-website/
 
 Le nouveau site de BST est en ligne. Il s'adresse aux clients du monde entier, avec une interface plus épurée et une navigation plus simple.
 
-**Ce qui change**
+## Ce qui change
 
 - Sept langues : anglais, chinois, français, russe, espagnol, portugais (Brésil) et arabe. Les clients peuvent lire le site dans la langue qu'ils maîtrisent le mieux.
 - Une interface propre et professionnelle avec une navigation améliorée, qui fonctionne sur ordinateur, tablette et mobile.
@@ -16,7 +16,7 @@ Le nouveau site de BST est en ligne. Il s'adresse aux clients du monde entier, a
 - Le changement de langue vous garde sur la même page.
 - L'arabe bénéficie d'une prise en charge complète de la mise en page de droite à gauche.
 
-**Un meilleur service**
+## Un meilleur service
 
 Nous voulons que le nouveau site présente nos services plus clairement et plus simplement. Allez voir.
 

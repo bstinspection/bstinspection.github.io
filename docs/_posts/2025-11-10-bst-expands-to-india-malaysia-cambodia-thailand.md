@@ -8,7 +8,7 @@ permalink: /news/india-malaysia-cambodia-thailand/
 
 BST has expanded its service coverage to India, Malaysia, Cambodia, and Thailand, four of Asia's fastest-growing manufacturing countries. For clients diversifying their supply chains across countries, there are more options now.
 
-**Services Now Available Across All Seven Countries**
+## Services Now Available Across All Seven Countries
 
 Full services can now be booked in all seven countries where BST operates:
 
@@ -19,11 +19,11 @@ Full services can now be booked in all seven countries where BST operates:
 - Final Random Inspection (FRI): pre-shipment inspection of finished goods.
 - Loading Supervision (L/S): oversee container loading and sealing.
 
-**Broadest Coverage in Asia**
+## Broadest Coverage in Asia
 
 BST now covers China, Cambodia, Malaysia, Thailand, Vietnam, India, and Bangladesh.
 
-**What This Means for Our Clients**
+## What This Means for Our Clients
 
 Clients benefit from:
 - One QA partner covering seven major sourcing countries.

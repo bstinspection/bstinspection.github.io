@@ -8,7 +8,7 @@ permalink: /pt-BR/news/vietnam-and-bangladesh-inspection/
 
 A BST ampliou sua cobertura de serviços para o Vietnã e Bangladesh, dois dos polos de manufatura que mais crescem na Ásia. Clientes que querem levar a produção para além da China agora têm mais opções.
 
-**Serviços agora disponíveis no Vietnã e Bangladesh**
+## Serviços agora disponíveis no Vietnã e Bangladesh
 
 Serviços completos podem agora ser agendados nos dois países:
 
@@ -19,11 +19,11 @@ Serviços completos podem agora ser agendados nos dois países:
 - Final Random Inspection (FRI): inspeção pré-embarque de produtos acabados.
 - Loading Supervision (L/S): supervisão do carregamento e da lacração de contêineres.
 
-**Principais regiões industriais cobertas**
+## Principais regiões industriais cobertas
 
 No Vietnã, atendemos clientes em Ho Chi Minh City, Hanói, Binh Duong e Dong Nai. Em Bangladesh, cobrimos Daca, Chittagong e Gazipur, as principais zonas industriais do país.
 
-**O que isso significa para nossos clientes**
+## O que isso significa para nossos clientes
 
 Os clientes se beneficiam de:
 - Um único parceiro de QA em vários países, o que mantém os custos de coordenação baixos.

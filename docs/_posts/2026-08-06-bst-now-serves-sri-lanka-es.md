@@ -8,7 +8,7 @@ permalink: /es/news/sri-lanka/
 
 BST ya presta servicios en Sri Lanka, con efecto inmediato. Sri Lanka es un eslabón importante en la cadena de suministro mundial de prendas de vestir y textiles, y una base de fabricación y exportación en el sur de Asia. Su incorporación hace más completa nuestra red de servicios en la región.
 
-**Servicios ahora disponibles en Sri Lanka**
+## Servicios ahora disponibles en Sri Lanka
 
 En Sri Lanka se pueden reservar los siguientes servicios:
 
@@ -19,11 +19,11 @@ En Sri Lanka se pueden reservar los siguientes servicios:
 - Final Random Inspection (FRI): inspección previa al embarque de productos terminados.
 - Loading Supervision (L/S): supervisa el llenado y sellado de contenedores.
 
-**Cobertura ampliada a ocho países**
+## Cobertura ampliada a ocho países
 
 BST ahora cubre China, Camboya, Malasia, Tailandia, Vietnam, India, Bangladés y Sri Lanka.
 
-**Qué significa esto para nuestros clientes**
+## Qué significa esto para nuestros clientes
 
 Los clientes que se abastecen en Sri Lanka se benefician de:
 - Un único socio de aseguramiento de calidad para ocho países de abastecimiento importantes.

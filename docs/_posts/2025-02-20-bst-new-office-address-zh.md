@@ -8,13 +8,13 @@ permalink: /zh/news/bst-new-office-address/
 
 因为团队在扩大，BST 广州办公室搬到了更大的地方。
 
-**新办公地址**
+## 新办公地址
 
 Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China（中国广东省广州市黄埔区茅岗路环村大街21号3栋2803房）
 
 新办公室给运营团队、验货员培训和客户会议留出了更多空间。办公室在黄埔区，离珠三角的交通枢纽和制造业集群都近，出行方便。
 
-**联系方式**
+## 联系方式
 
 联系渠道不变：
 
