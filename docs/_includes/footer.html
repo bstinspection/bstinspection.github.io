@@ -2,6 +2,7 @@
 {% if page.lang and page.lang != 'en' %}
   {% assign lang_prefix = '/' | append: page.lang %}
 {% endif %}
+{% assign current_year = site.time | date: '%Y' %}
 <div class="footer-wave">
   <svg viewBox="0 0 1440 60" preserveAspectRatio="none">
     <path fill="#0A1628" d="M0,30 C360,60 720,0 1080,30 C1260,45 1350,35 1440,30 L1440,60 L0,60 Z"/>
@@ -43,7 +44,7 @@
   </div>
   <div class="footer-bottom">
     <div class="container">
-      <p class="footer-copy"><span class="footer-copyright">{{ site.data.i18n[page.lang].footer.copyright | replace: '__YEAR__', (site.time | date: '%Y') }}</span> <span class="footer-legal"><a href="{{ lang_prefix }}/terms/">{{ site.data.i18n[page.lang].nav.terms }}</a> · <a href="{{ lang_prefix }}/privacy/">{{ site.data.i18n[page.lang].nav.privacy }}</a></span></p>
+      <p class="footer-copy"><span class="footer-copyright">{{ site.data.i18n[page.lang].footer.copyright | replace: '__YEAR__', current_year }}</span> <span class="footer-legal"><a href="{{ lang_prefix }}/terms/">{{ site.data.i18n[page.lang].nav.terms }}</a> · <a href="{{ lang_prefix }}/privacy/">{{ site.data.i18n[page.lang].nav.privacy }}</a></span></p>
     </div>
   </div>
 </footer>

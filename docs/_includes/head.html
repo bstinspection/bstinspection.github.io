@@ -101,7 +101,9 @@
 </style>
 <link rel="preload" href="{{ '/assets/fonts/inter-400-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="{{ '/assets/fonts/poppins-700-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+{% if page.hero_image %}
 <link rel="preload" href="{{ '/images/background.webp' | relative_url }}?v={{ site.cache_buster }}" as="image" type="image/webp">
 <link rel="preload" href="{{ '/images/background.jpg' | relative_url }}?v={{ site.cache_buster }}" as="image" type="image/jpeg">
+{% endif %}
 <link rel="stylesheet" href="{{ '/assets/css/style.min.css' | relative_url }}">
 <link rel="icon" type="image/webp" href="{{ '/images/logo_透明.webp' | relative_url }}?v={{ site.cache_buster }}">
