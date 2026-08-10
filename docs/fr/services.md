@@ -8,7 +8,7 @@ BST propose une gamme complète de services d'assurance qualité couvrant chaque
 
 ## 1. Audit d'usine (FA) {#fa}
 
-Ce qui compte surtout pour les clients, ce sont la qualité, la quantité et les délais de livraison. Cela veut dire que les fabricants doivent atteindre certaines normes de qualité dans leurs opérations. Pour savoir si une usine les atteint réellement, vous pouvez mandater une organisation locale professionnelle comme BST pour l'auditer.
+Les clients attendent la bonne qualité, la bonne quantité et le respect des délais de livraison. Cela signifie que les fabricants doivent satisfaire à certaines normes de qualité dans leurs opérations. Pour confirmer qu'une usine y parvient effectivement, vous pouvez mandater une organisation locale professionnelle comme BST pour l'auditer sur site.
 
 ### En général, nous vérifions les aspects suivants lors d'un audit d'usine :
 
@@ -84,9 +84,9 @@ En général, nous vérifions les aspects suivants pour l'IPC :
 
 ## 4. Contrôle qualité en cours de processus (IPQC) {#ipqc}
 
-Le contrôle qualité en cours de processus a pour but de donner l'alerte tôt en cas de problème de qualité ou d'autre problème survenant pendant la production et susceptible de retarder l'expédition.
+Le contrôle qualité en cours de processus a pour but de fournir une alerte précoce en cas de problème de qualité ou d'autre problème survenant pendant la production et susceptible de retarder l'expédition.
 
-En clair, il donne un aperçu de l'état de la production à l'usine. Pendant la production, les pièces semi-finies doivent être inspectées selon l'AQL ou un pourcentage, conformément à la politique et au plan d'inspection de l'entreprise.
+Il fournit un aperçu de l'état actuel de la production à l'usine. Pendant la production, les pièces semi-finies doivent être inspectées selon l'AQL ou un pourcentage, conformément à la politique et au plan d'inspection de l'entreprise.
 
 Les contrôles effectués comprennent les stocks de matières premières, les taux de production, la date d'achèvement estimée de la production, les goulots d'étranglement, etc.
 

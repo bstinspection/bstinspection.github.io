@@ -14,9 +14,9 @@ Nossa equipe de gestão e nossos técnicos conhecem os padrões técnicos dos me
 
 2. A BST contrata inspetores responsáveis, cuidadosos, honestos e profissionais para reduzir o risco de receber produtos defeituosos.
 
-3. Organizamos o trabalho com flexibilidade, conforme as suas necessidades, e procuramos poupar seu tempo e esforço.
+3. Organizamos nosso trabalho com flexibilidade, de acordo com as suas necessidades, ajudando você a economizar tempo e custos.
 
-4. Reduzimos as despesas de viagem e outros custos eventuais que você teria se fizesse as inspeções por conta própria.
+4. Reduzimos as despesas de viagem e outros custos eventuais que você teria caso realizasse as inspeções por conta própria.
 
 ## O que são defeitos críticos, defeitos maiores e defeitos menores?
 
@@ -32,7 +32,7 @@ Defeitos maiores podem encurtar a vida útil do produto ou reduzir a possibilida
 
 ### 3) Defeitos menores
 
-Defeitos menores normalmente não afetam o uso normal, mas a qualidade do produto fica comprometida em parte.
+Defeitos menores normalmente não afetam o uso normal, mas a qualidade do produto pode ser ligeiramente prejudicada.
 
 ## O que posso descobrir nas tabelas AQL?
 

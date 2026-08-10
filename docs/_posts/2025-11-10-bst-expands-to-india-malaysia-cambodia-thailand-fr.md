@@ -6,7 +6,7 @@ lang: fr
 permalink: /fr/news/india-malaysia-cambodia-thailand/
 ---
 
-BST a étendu sa couverture de services à l'Inde, la Malaisie, le Cambodge et la Thaïlande, quatre des pays manufacturiers d'Asie à la croissance la plus rapide. Pour les clients qui diversifient leurs chaînes d'approvisionnement entre plusieurs pays, il y a désormais plus de choix.
+BST a étendu sa couverture de services à l'Inde, la Malaisie, le Cambodge et la Thaïlande, quatre des pays manufacturiers d'Asie à la croissance la plus rapide. Pour les clients qui diversifient leurs chaînes d'approvisionnement entre plusieurs pays, BST offre désormais davantage d'options.
 
 ## Services désormais disponibles dans les sept pays
 
@@ -23,11 +23,11 @@ La gamme complète de services peut désormais être réservée dans les sept pa
 
 BST couvre désormais la Chine, le Cambodge, la Malaisie, la Thaïlande, le Vietnam, l'Inde et le Bangladesh.
 
-## Ce que cela change pour nos clients
+## Ce que cela signifie pour nos clients
 
 Les clients bénéficient de :
 - Un partenaire QA unique couvrant sept grands pays d'approvisionnement.
 - Les mêmes normes d'inspection et le même format de rapport partout.
-- Une connaissance locale : nos inspecteurs dans chaque pays sont de langue maternelle locale et connaissent les pratiques et réglementations de fabrication du pays.
+- Une connaissance locale : nos inspecteurs dans chaque pays, de langue maternelle locale, connaissent les pratiques de fabrication et les réglementations locales.
 
 Pour réserver une inspection dans l'un de nos pays de service, contactez [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) ou appelez le 0086-13798166270.

@@ -23,7 +23,7 @@ Les services suivants peuvent être réservés au Sri Lanka :
 
 BST couvre désormais la Chine, le Cambodge, la Malaisie, la Thaïlande, le Vietnam, l'Inde, le Bangladesh et le Sri Lanka.
 
-## Ce que cela change pour nos clients
+## Ce que cela signifie pour nos clients
 
 Les clients qui s'approvisionnent au Sri Lanka bénéficient de :
 - Un partenaire QA unique couvrant huit grands pays d'approvisionnement.

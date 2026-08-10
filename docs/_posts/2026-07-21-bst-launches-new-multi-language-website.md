@@ -5,7 +5,7 @@ date: 2026-07-21 00:00:00 +0800
 lang: en
 ---
 
-BST's new website is live. It targets clients worldwide, with a cleaner interface and easier browsing.
+BST's new website is now live. Built for clients worldwide, it offers a cleaner interface and easier browsing.
 
 ## What's New
 
@@ -17,6 +17,6 @@ BST's new website is live. It targets clients worldwide, with a cleaner interfac
 
 ## Better Service
 
-We want the new site to present our services more clearly and transparently. Take a look.
+The new site presents our services more clearly and transparently. We welcome you to browse it.
 
 For questions or feedback, contact [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).

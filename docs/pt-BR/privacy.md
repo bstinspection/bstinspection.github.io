@@ -36,4 +36,4 @@ Você tem o direito de solicitar à BST a exclusão da conta, o que limitará se
 
 O webmaster destruirá qualquer informação que possa manter de acordo com nossa política interna de retenção. Esta política exige que as informações sejam retidas apenas pelo tempo necessário para cumprir a finalidade original ou diretamente relacionada para a qual foram coletadas, a menos que tais informações sejam retidas para satisfazer quaisquer obrigações estatutárias ou contratuais aplicáveis.
 
-Se você tiver alguma dúvida, entre em contato conosco.
+*Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato conosco.*

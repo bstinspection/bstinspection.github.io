@@ -6,7 +6,7 @@ lang: es
 permalink: /es/news/india-malaysia-cambodia-thailand/
 ---
 
-BST ha ampliado su cobertura de servicios a India, Malasia, Camboya y Tailandia, cuatro de los países manufactureros de más rápido crecimiento en Asia. Para los clientes que diversifican sus cadenas de suministro entre países, ahora hay más opciones.
+BST ha ampliado su cobertura de servicios a India, Malasia, Camboya y Tailandia, cuatro de los países manufactureros de más rápido crecimiento en Asia. Para los clientes que diversifican sus cadenas de suministro en varios países, BST ahora ofrece más opciones.
 
 ## Servicios ahora disponibles en los siete países
 

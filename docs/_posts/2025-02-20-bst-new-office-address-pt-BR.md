@@ -6,13 +6,13 @@ lang: pt-BR
 permalink: /pt-BR/news/bst-new-office-address/
 ---
 
-Como a equipe está crescendo, o escritório da BST em Guangzhou se mudou para um espaço maior.
+Para acomodar nossa equipe em crescimento e melhor atender nossos clientes, a BST transferiu seu escritório em Guangzhou para instalações maiores.
 
 ## Novo endereço do escritório
 
 Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China
 
-O novo escritório dá mais espaço para a equipe de operações, o treinamento de inspetores e as reuniões com clientes. Ele fica no distrito de Huangpu, perto dos principais centros de transporte e polos industriais do Delta do Rio das Pérolas.
+O novo escritório oferece melhores instalações para a equipe de operações, o treinamento de inspetores e as reuniões com clientes. Ele está localizado no distrito de Huangpu, com fácil acesso aos principais centros de transporte e polos industriais do Delta do Rio das Pérolas.
 
 ## Informações de contato
 
@@ -22,4 +22,4 @@ Os dados de contato não mudaram:
 - **E-mail:** [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com)
 - **Telefone:** 0086-13798166270
 
-Os serviços não mudaram; todas as categorias de inspeção seguem como antes. Se você tiver dúvidas sobre a mudança ou precisar de documentos atualizados, entre em contato conosco.
+Nossos serviços permanecem inalterados, e todas as categorias de inspeção continuam como de costume. Se você tiver dúvidas sobre a mudança ou precisar de documentos atualizados, entre em contato conosco.

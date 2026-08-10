@@ -6,7 +6,7 @@ lang: es
 permalink: /es/news/vietnam-and-bangladesh-inspection/
 ---
 
-BST ha ampliado su cobertura de servicios a Vietnam y Bangladés, dos de los centros de fabricación de más rápido crecimiento en Asia. Los clientes que quieren mover su suministro más allá de China ahora tienen más opciones.
+BST ha ampliado su cobertura de servicios a Vietnam y Bangladés, dos de los centros de fabricación de más rápido crecimiento en Asia. Los clientes que buscan trasladar su suministro más allá de China ahora tienen más opciones.
 
 ## Servicios ahora disponibles en Vietnam y Bangladés
 

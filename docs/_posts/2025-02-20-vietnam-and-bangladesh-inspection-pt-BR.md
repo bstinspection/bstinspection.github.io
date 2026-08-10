@@ -6,7 +6,7 @@ lang: pt-BR
 permalink: /pt-BR/news/vietnam-and-bangladesh-inspection/
 ---
 
-A BST ampliou sua cobertura de serviços para o Vietnã e Bangladesh, dois dos polos de manufatura que mais crescem na Ásia. Clientes que querem levar a produção para além da China agora têm mais opções.
+A BST ampliou sua cobertura de serviços para o Vietnã e Bangladesh, dois dos polos de manufatura que mais crescem na Ásia. Clientes que buscam expandir suas cadeias de suprimento para além da China agora têm mais opções.
 
 ## Serviços agora disponíveis no Vietnã e Bangladesh
 

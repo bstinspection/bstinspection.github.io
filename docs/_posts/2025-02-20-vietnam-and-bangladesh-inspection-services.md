@@ -6,7 +6,7 @@ lang: en
 permalink: /news/vietnam-and-bangladesh-inspection/
 ---
 
-BST has expanded its service coverage to Vietnam and Bangladesh, two of Asia's fastest-growing manufacturing hubs. Clients who want to move supply beyond China now have more options.
+BST has expanded its service coverage to Vietnam and Bangladesh, two of Asia's fastest-growing manufacturing hubs. Clients seeking to move supply beyond China now have more options.
 
 ## Services Now Available in Vietnam and Bangladesh
 
@@ -26,7 +26,7 @@ In Vietnam, we serve clients in Ho Chi Minh City, Hanoi, Binh Duong, and Dong Na
 ## What This Means for Our Clients
 
 Clients benefit from:
-- One QA partner across several countries, which keeps coordination costs down.
+- A single QA partner across multiple countries, which reduces coordination costs.
 - The same inspection standards and reporting format everywhere.
 - Local knowledge: our inspectors are native speakers familiar with local manufacturing practices and regulations.
 

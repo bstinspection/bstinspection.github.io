@@ -8,4 +8,4 @@ Guangzhou BST Technology Services Co., Ltd. est une entreprise d'assurance quali
 
 BST propose un service d'assurance qualité clé en main, de l'audit d'usine au contrôle de chargement sur site.
 
-Nos engagements sont simples : des délais de réponse courts, des prix justes, un support technique fiable et des rapports précis, remis à temps. L'objectif est que les produits de nos clients répondent aux normes de qualité et qu'ils aient confiance dans leurs propres marques.
+Nos engagements sont concrets : des délais de réponse courts, des prix compétitifs, un support technique efficace, un service client professionnel et des rapports précis, remis à temps. Ces engagements aident les clients à améliorer la qualité de leurs produits et à renforcer la confiance dans leurs marques.

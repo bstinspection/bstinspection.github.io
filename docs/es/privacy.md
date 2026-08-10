@@ -36,4 +36,4 @@ Usted tiene derecho a solicitar a BST la eliminación de su cuenta, lo que limit
 
 El administrador del sitio web destruirá cualquier información que pueda tener de acuerdo con nuestra política de retención interna. Esta política requiere que la información se conserve solo durante el tiempo necesario para cumplir con el propósito original o directamente relacionado para el cual fue recopilada, a menos que dicha información se retenga para cumplir con cualquier obligación legal o contractual aplicable.
 
-*Si tiene alguna pregunta, póngase en contacto con nosotros.*
+*Si tiene alguna pregunta, no dude en ponerse en contacto con nosotros.*

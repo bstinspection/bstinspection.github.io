@@ -8,7 +8,7 @@ A BST oferece uma gama completa de serviços de garantia da qualidade, cobrindo 
 
 ## 1. Auditoria de Fábrica (FA) {#fa}
 
-Os clientes se preocupam principalmente com qualidade, quantidade e prazo de entrega. Isso significa que os fabricantes precisam atingir certos padrões de qualidade em suas operações. Para saber se uma fábrica de fato os atinge, você pode enviar uma organização profissional local, como a BST, para auditá-la.
+Os clientes esperam qualidade, quantidade e prazo de entrega corretos. Isso significa que os fabricantes precisam atender a determinados padrões de qualidade em suas operações. Para confirmar que uma fábrica realmente os atende, você pode nomear uma organização profissional local, como a BST, para auditá-la no local.
 
 ### Em geral, verificamos os seguintes aspectos para uma auditoria de fábrica:
 
@@ -58,7 +58,7 @@ Esta seção inclui o nível de conscientização e/ou conformidade da fábrica 
 
 ## 2. Auditoria de Conformidade Social (SCA) {#sca}
 
-A auditoria de conformidade social (também chamada de código de conduta) é conduzida principalmente com base nos padrões SA8000 ou nos padrões definidos pelos clientes. Nossos auditores falam o idioma local: eles entrevistam os funcionários, verificam registros e a operação da fábrica, informam as não conformidades e dão à fábrica a chance de corrigi-las.
+A auditoria de conformidade social (também chamada de código de conduta) é conduzida principalmente com base nos padrões SA8000 ou nos padrões definidos pelos clientes. Nossos auditores de idioma nativo entrevistarão os funcionários, verificarão os registros e a operação da fábrica, informarão você sobre as não conformidades e darão à fábrica a oportunidade de corrigi-las.
 
 Em geral, verificamos os seguintes aspectos para a auditoria de conformidade social:
 
@@ -86,13 +86,13 @@ Em geral, verificamos os seguintes aspectos para o IPC:
 
 O controle de qualidade em processo é projetado para fornecer alerta precoce de problemas de qualidade ou outros problemas que surgem durante a produção e que podem atrasar o embarque.
 
-Em resumo, ele fornece um panorama do status da produção na fábrica. Durante a produção, peças semiacabadas devem ser inspecionadas com base no AQL ou percentagem, de acordo com a política da empresa e o plano de inspeção.
+Ele fornece um panorama do status atual da produção na fábrica. Durante a produção, peças semiacabadas devem ser inspecionadas com base no AQL ou percentagem, de acordo com a política da empresa e o plano de inspeção.
 
 As verificações realizadas incluem estoques de matérias-primas, taxas de produção, data estimada de conclusão da produção, gargalos de produção, etc.
 
 ## 5. Verificação Durante a Produção (DUPRO) {#dupro}
 
-Uma verificação visual da qualidade dos componentes, materiais, produtos semiacabados quando pelo menos 20%-30% do pedido foi concluído. Inspeciona aleatoriamente o lote de produção e os produtos na linha para possíveis defeitos; se algum ocorrer, identificamos o desvio e fornecemos aconselhamento sobre as medidas corretivas necessárias para garantir uma qualidade uniforme do lote.
+Uma verificação visual da qualidade dos componentes, materiais, produtos semiacabados quando pelo menos 20%-30% do pedido foi concluído. A BST inspeciona aleatoriamente o lote de produção e os produtos na linha em busca de possíveis defeitos; se algum ocorrer, identificamos o desvio e fornecemos orientação sobre as medidas corretivas necessárias para garantir a qualidade uniforme do lote.
 
 O DUPRO fornece a inspeção on-line. Inspetores qualificados da DQC verificarão se as correções e melhorias sugeridas durante o IPC foram implementadas, examinarão as produções existentes e aconselharão os fabricantes sobre quaisquer outras correções ou melhorias a serem feitas.
 

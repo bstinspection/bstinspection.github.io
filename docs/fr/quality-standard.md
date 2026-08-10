@@ -14,7 +14,7 @@ Notre équipe de direction et nos techniciens connaissent les normes techniques 
 
 2. BST recrute des inspecteurs responsables, minutieux, honnêtes et professionnels, ce qui réduit votre risque de recevoir des produits défectueux.
 
-3. Nous organisons le travail de manière flexible en fonction de vos besoins et essayons de vous faire gagner du temps et de la peine.
+3. Nous organisons notre travail de manière flexible en fonction de vos besoins, ce qui vous permet d'économiser du temps et des coûts.
 
 4. Nous réduisons les frais de déplacement et autres dépenses accessoires que vous devriez sinon engager pour effectuer les inspections vous-même.
 
@@ -32,7 +32,7 @@ Les défauts majeurs peuvent raccourcir la durée de vie du produit ou réduire 
 
 ### 3) Défauts mineurs
 
-Les défauts mineurs n'affectent généralement pas l'utilisation normale, mais la qualité du produit en souffre un peu.
+Les défauts mineurs n'affectent généralement pas l'utilisation normale, mais la qualité du produit peut être légèrement dégradée.
 
 ## Que puis-je apprendre des tables AQL ?
 

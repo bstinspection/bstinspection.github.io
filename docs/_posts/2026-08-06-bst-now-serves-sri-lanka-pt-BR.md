@@ -6,7 +6,7 @@ lang: pt-BR
 permalink: /pt-BR/news/sri-lanka/
 ---
 
-A BST agora atende o Sri Lanka, com efeito imediato. O Sri Lanka é um elo importante na cadeia global de fornecimento de vestuário e têxteis, além de uma base de manufatura e exportação no sul da Ásia. A sua inclusão deixa nossa rede de serviços na região mais completa.
+A BST agora atende o Sri Lanka, com efeito imediato. O Sri Lanka é um elo importante na cadeia global de fornecimento de vestuário e têxteis, além de uma base de manufatura e exportação no sul da Ásia. A sua inclusão torna nossa rede de serviços na região mais completa.
 
 ## Serviços agora disponíveis no Sri Lanka
 

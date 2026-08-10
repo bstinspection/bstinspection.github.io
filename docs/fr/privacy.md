@@ -36,4 +36,4 @@ Vous avez le droit de demander à BST de supprimer votre compte, ce qui limitera
 
 Le webmaster détruira toute information qu'il pourrait détenir conformément à notre politique de conservation interne. Cette politique exige que les informations ne soient conservées que le temps nécessaire pour atteindre l'objectif initial ou directement lié pour lequel elles ont été collectées, à moins que ces informations ne soient conservées pour satisfaire à des obligations statutaires ou contractuelles applicables.
 
-*Pour toute question, contactez-nous.*
+*Si vous avez des questions, veuillez nous contacter.*

@@ -26,7 +26,7 @@ BST now covers China, Cambodia, Malaysia, Thailand, Vietnam, India, Bangladesh, 
 ## What This Means for Our Clients
 
 Clients sourcing from Sri Lanka benefit from:
-- One QA partner covering eight major sourcing countries.
+- A single QA partner covering eight major sourcing countries.
 - The same inspection standards and reporting format everywhere.
 - Local knowledge: our inspectors in Sri Lanka are native speakers familiar with local manufacturing practices and regulations.
 

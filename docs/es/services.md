@@ -8,7 +8,7 @@ BST ofrece una gama completa de servicios de aseguramiento de calidad que cubren
 
 ## 1. Auditoría de Fábrica (FA) {#fa}
 
-A los clientes les interesan sobre todo la calidad, la cantidad y el tiempo de entrega. Eso significa que los fabricantes deben alcanzar ciertos estándares de calidad en sus operaciones. Para comprobar si una fábrica realmente los cumple, puede recurrir a una organización profesional local como BST para que la audite.
+Los clientes esperan la calidad, la cantidad y el plazo de entrega adecuados. Eso significa que los fabricantes deben cumplir ciertos estándares de calidad en sus operaciones. Para confirmar que una fábrica efectivamente los cumple, puede designar a una organización profesional local, como BST, para que la audite in situ.
 
 ### En general, verificaremos los siguientes aspectos en una auditoría de fábrica:
 
@@ -120,7 +120,7 @@ En general:
 - Detalles del embalaje
 - Marca de envío
 
-Para la inspección final aleatoria, sugerimos a los clientes reservar esta inspección al menos 3 días antes de la carga, de modo que si el inspector de BST encuentra problemas de calidad, los clientes aún tengan tiempo para solicitar a la fábrica que rectifique.
+Para la inspección final aleatoria, sugerimos a los clientes reservar esta inspección al menos 3 días antes de la carga, de modo que si el inspector de BST encuentra problemas de calidad, los clientes aún tengan tiempo para solicitar a la fábrica que realice el retrabajo.
 
 ## 7. Supervisión de Carga (L/S) {#ls}
 

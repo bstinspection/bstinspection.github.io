@@ -10,13 +10,13 @@ nav_order: 5
 
 Quality control determines whether a company and its suppliers can work together successfully.
 
-Our management team and technicians know the technical standards in international markets and what those markets actually require. When problems come up, they give concrete advice and help you pick the most cost-effective quality assurance approach.
+Our management team and technicians know the technical standards in international markets and what those markets actually require. When problems arise, they give concrete advice and help you select the most cost-effective quality assurance approach.
 
 1. BST on-site quality inspections and factory audit services throughout China help businesses reduce the risks that come with poor quality, loading, storage, transportation, and non-compliance with regulations, so that specifications, packaging, marking, and delivery all meet the contract.
 
 2. BST quality inspection hires inspectors who are responsible, careful, honest, and professional, lowering your risk of receiving defective goods.
 
-3. We arrange work flexibly around your needs and try to save you time and effort.
+3. We arrange our work flexibly according to your needs, helping you save time and costs.
 
 4. We cut the travel and other incidental costs you would otherwise spend on doing the inspections yourself.
 
@@ -30,11 +30,11 @@ Critical defects could result in hazardous or unsafe conditions for individuals 
 
 ### 2) Major defects
 
-Major defects may shorten the product's life or reduce the ability to use the item (poor functioning, item incomplete or broken, etc.), or give it a flawed appearance that hurts its value.
+Major defects may shorten the product's life or reduce the ability to use the item (poor functioning, item incomplete or broken, etc.), or give it a flawed appearance that affects its value.
 
 ### 3) Minor defects
 
-Minor defects usually do not affect normal use, but the product quality suffers a bit.
+Minor defects usually do not affect normal use, but the product quality may be slightly degraded.
 
 ## What can I find out from the AQL tables?
 

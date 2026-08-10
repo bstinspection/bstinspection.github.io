@@ -10,4 +10,4 @@ Guangzhou BST Technology Services Co., Ltd. is a medium-sized quality assurance 
 
 BST provides one-stop quality assurance services, from factory audit to loading check on site.
 
-Our commitments are straightforward: short response times, fair prices, reliable technical support, and accurate, timely reports. We do this so that our clients' products meet quality standards and that they feel confident in their own brands.
+Our commitments are concrete: short response times, competitive prices, effective technical support, professional customer service, and accurate, timely reports. These commitments help clients improve product quality and build confidence in their brands.

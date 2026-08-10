@@ -14,7 +14,7 @@ Nuestro equipo directivo y nuestros técnicos conocen los estándares técnicos 
 
 2. Las inspecciones de calidad de BST contratan inspectores responsables, cuidadosos, honestos y profesionales, lo que reduce el riesgo de recibir productos defectuosos.
 
-3. Organizamos el trabajo con flexibilidad en torno a sus necesidades y tratamos de ahorrarle tiempo y esfuerzo.
+3. Organizamos nuestro trabajo con flexibilidad según sus necesidades, ayudándole a ahorrar tiempo y costos.
 
 4. Reducimos los gastos de viaje y otros costos incidentales que usted tendría si hiciera las inspecciones por su cuenta.
 
@@ -32,7 +32,7 @@ Los defectos mayores pueden acortar la vida del producto o reducir la capacidad 
 
 ### 3) Defectos menores
 
-Los defectos menores normalmente no afectan el uso normal, pero la calidad del producto se resiente un poco.
+Los defectos menores normalmente no afectan el uso normal, pero la calidad del producto puede verse ligeramente afectada.
 
 ## ¿Qué puedo encontrar en las tablas AQL?
 

@@ -6,7 +6,7 @@ lang: en
 permalink: /news/india-malaysia-cambodia-thailand/
 ---
 
-BST has expanded its service coverage to India, Malaysia, Cambodia, and Thailand, four of Asia's fastest-growing manufacturing countries. For clients diversifying their supply chains across countries, there are more options now.
+BST has expanded its service coverage to India, Malaysia, Cambodia, and Thailand, four of Asia's fastest-growing manufacturing countries. For clients diversifying their supply chains across multiple countries, BST now offers more options.
 
 ## Services Now Available Across All Seven Countries
 
@@ -26,7 +26,7 @@ BST now covers China, Cambodia, Malaysia, Thailand, Vietnam, India, and Banglade
 ## What This Means for Our Clients
 
 Clients benefit from:
-- One QA partner covering seven major sourcing countries.
+- A single QA partner covering seven major sourcing countries.
 - The same inspection standards and reporting format everywhere.
 - Local knowledge: our inspectors in each country are native speakers familiar with local manufacturing practices and regulations.
 
