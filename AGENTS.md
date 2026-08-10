@@ -44,21 +44,26 @@
 ## 网络 / Git 代理
 
 - 远端仓库：`https://github.com/bstinspection/bstinspection.github.io.git`
-- 推送前默认配置 7890 端口代理，失败后清除代理直连重试：
+- 推送前先确保无代理直连；若直连失败，再配置 7890 端口代理重试：
   ```bash
-  git config --local http.proxy http://localhost:7890
-  git config --local https.proxy http://localhost:7890
-  # 执行 git push
-  # 若推送失败，清除代理后重试：
+  # 先确保无代理，直接推送
   git config --local --unset http.proxy
   git config --local --unset https.proxy
   git push
   ```
-- 若直连推送成功，则清除代理：
+  - 若直连失败，配置代理后重试：
+  ```bash
+  git config --local http.proxy http://localhost:7890
+  git config --local https.proxy http://localhost:7890
+  git push
+  ```
+  - **若两者皆失败：立即停止，不再重试其他方式。** 先清除代理配置：
   ```bash
   git config --local --unset http.proxy
   git config --local --unset https.proxy
   ```
+  - 随后**如实向用户报告失败**：说明直连与代理均未成功、附上错误输出、注明代理配置已还原，交由用户决定下一步
+- 推送成功或确认失败还原配置后，均不再残留代理配置
 
 ## 架构参考
 
