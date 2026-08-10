@@ -5,18 +5,18 @@ date: 2021-12-16 00:00:00 +0800
 lang: en
 ---
 
-Brightsky Technology Services Co., Ltd. (Hong Kong) and Guangzhou BST Technology Services Co., Ltd. have officially merged, forming a unified and more powerful quality assurance service platform.
+Brightsky Technology Services Co., Ltd. (Hong Kong) and Guangzhou BST Technology Services Co., Ltd. have merged into one quality assurance service platform.
 
 **What This Means for Our Clients**
 
-The merger combines Brightsky's international client network and Hong Kong-based operational expertise with Guangzhou BST's strong on-the-ground inspection team and deep knowledge of manufacturing practices across China. Together, we now offer:
+The merger combines Brightsky's international client network and Hong Kong operational experience with Guangzhou BST's on-the-ground inspection team and its knowledge of manufacturing in China. Now we can:
 
-- **Broader geographic coverage** — seamless service from factory audits in southern China to loading supervision in northern ports.
-- **Streamlined operations** — a single point of contact for all quality assurance needs, from initial production checks to final random inspection.
-- **Consistent service standards** — unified inspection procedures, reporting formats, and quality benchmarks across all service lines.
+- Cover more ground: from factory audits in southern China to loading supervision at northern ports.
+- Streamline operations: one contact point for all quality assurance needs, from initial production checks to final random inspection.
+- Keep standards consistent: uniform inspection procedures, reporting formats, and quality benchmarks across all service lines.
 
 **Looking Forward**
 
-This merger marks a significant milestone in BST's growth. Our combined team is better equipped than ever to help importers, retailers, and distributors reduce supply chain risk and ensure product quality. We remain committed to the principles of justice, integrity, and science that have always defined our work.
+The merger gives us a fuller team and a better position to help importers, retailers, and distributors control supply chain risk and keep product quality in check. The principles of fairness, integrity, and science have guided us since day one, and they still do.
 
-For inquiries about how the merger may benefit your quality assurance program, please contact [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).
+For inquiries about what the merger means for your quality assurance program, contact [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).

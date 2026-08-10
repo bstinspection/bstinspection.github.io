@@ -6,18 +6,18 @@ lang: fr
 permalink: /fr/news/bst-launches-new-multi-language-website/
 ---
 
-BST est fier d'annoncer le lancement de son tout nouveau site web, conçu pour offrir une expérience plus moderne, accessible et conviviale à nos clients internationaux.
+Le nouveau site de BST est en ligne. Il s'adresse aux clients du monde entier, avec une interface plus épurée et une navigation plus simple.
 
-**Fonctionnalités clés du nouveau site**
+**Ce qui change**
 
-- **Support de 7 langues** — Le site est désormais disponible en anglais, chinois, français, russe, espagnol, portugais (Brésil) et arabe, permettant aux clients du monde entier d'accéder aux informations dans leur langue préférée.
-- **Design moderne** — Une interface propre et professionnelle avec une navigation améliorée et une mise en page responsive pour une navigation fluide sur ordinateur, tablette et mobile.
-- **Informations complètes sur les services** — Descriptions détaillées de tous nos services d'assurance qualité, de l'audit d'usine (FA) aux arrangements d'essais (TA), avec une navigation facile par liens d'ancrage.
-- **Changeur de langue instantané** — Basculez instantanément entre les 7 langues sans perdre votre page actuelle.
-- **Support arabe (RTL)** — Prise en charge complète de la disposition de droite à gauche pour les clients arabophones.
+- Sept langues : anglais, chinois, français, russe, espagnol, portugais (Brésil) et arabe. Les clients peuvent lire le site dans la langue qu'ils maîtrisent le mieux.
+- Une interface propre et professionnelle avec une navigation améliorée, qui fonctionne sur ordinateur, tablette et mobile.
+- Chaque service d'assurance qualité est décrit en détail, de l'audit d'usine aux dispositions de test, avec une navigation par ancres.
+- Le changement de langue vous garde sur la même page.
+- L'arabe bénéficie d'une prise en charge complète de la mise en page de droite à gauche.
 
-**Un engagement pour un meilleur service**
+**Un meilleur service**
 
-Cette refonte du site web reflète l'engagement continu de BST à servir notre clientèle internationale avec professionnalisme et transparence. Nous vous invitons à explorer le nouveau site et à découvrir la différence.
+Nous voulons que le nouveau site présente nos services plus clairement et plus simplement. Allez voir.
 
-Pour toute question ou commentaire, veuillez contacter [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).
+Pour toute question ou remarque, contactez [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).

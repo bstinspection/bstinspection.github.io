@@ -6,18 +6,18 @@ lang: fr
 permalink: /fr/news/brightsky-and-guangzhou-bst/
 ---
 
-Brightsky Technology Services Co., Ltd. (Hong Kong) et Guangzhou BST Technology Services Co., Ltd. ont officiellement fusionné, formant ainsi une plateforme de services d'assurance qualité unifiée et plus puissante.
+Brightsky Technology Services Co., Ltd. (Hong Kong) et Guangzhou BST Technology Services Co., Ltd. ont fusionné pour former une seule plateforme de services d'assurance qualité.
 
 **Ce que cela signifie pour nos clients**
 
-Cette fusion associe le réseau international de clients de Brightsky et son expertise opérationnelle basée à Hong Kong à la solide équipe d'inspection terrain de Guangzhou BST et à sa connaissance approfondie des pratiques de fabrication en Chine. Ensemble, nous offrons désormais :
+La fusion combine le réseau international de clients de Brightsky et son expérience opérationnelle à Hong Kong avec l'équipe d'inspection terrain de Guangzhou BST et sa connaissance de la fabrication en Chine. Nous pouvons désormais :
 
-- **Une couverture géographique élargie** — un service fluide des audits d'usine dans le sud de la Chine jusqu'à la supervision du chargement dans les ports du nord.
-- **Des opérations rationalisées** — un interlocuteur unique pour tous vos besoins en assurance qualité, des contrôles de production initiaux à l'inspection finale aléatoire.
-- **Des normes de service cohérentes** — des procédures d'inspection, des formats de rapport et des références de qualité unifiés pour toutes les gammes de services.
+- Couvrir plus de terrain : des audits d'usine dans le sud de la Chine à la supervision du chargement dans les ports du nord.
+- Simplifier les opérations : un seul point de contact pour tous les besoins en assurance qualité, du contrôle initial de production à l'inspection finale aléatoire.
+- Garder des normes cohérentes : des procédures d'inspection, des formats de rapport et des références de qualité uniformes pour toutes les lignes de service.
 
-**Perspectives d'avenir**
+**Perspectives**
 
-Cette fusion marque une étape importante dans la croissance de BST. Notre équipe combinée est mieux équipée que jamais pour aider importateurs, détaillants et distributeurs à réduire les risques de la chaîne d'approvisionnement et à garantir la qualité des produits. Nous restons fidèles aux principes de justice, d'intégrité et de science qui ont toujours défini notre travail.
+La fusion nous donne une équipe plus complète et une meilleure position pour aider importateurs, détaillants et distributeurs à maîtriser le risque lié à la chaîne d'approvisionnement et à garder la qualité de leurs produits sous contrôle. Les principes d'équité, d'intégrité et de science nous guident depuis le premier jour, et ils nous guident toujours.
 
-Pour toute question sur la manière dont cette fusion peut bénéficier à votre programme d'assurance qualité, veuillez contacter [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).
+Pour toute question sur ce que cette fusion signifie pour votre programme d'assurance qualité, contactez [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).

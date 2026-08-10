@@ -10,7 +10,7 @@ BST offers a comprehensive range of quality assurance services covering every st
 
 ## 1. Factory Audit (FA) {#fa}
 
-Clients require their products at the right quality, quantity and time. To achieve these objectives, manufacturers should reach certain quality standards within their operations. But how could you assure your manufacturers to achieve such standards? By appointing local professional organizations like BST can help you to audit your manufacturers in such programs.
+Clients care mainly about quality, quantity, and delivery time. That means manufacturers need to reach certain quality standards in their operations. To find out whether a factory really does, you can send in a local professional organization like BST to audit it.
 
 ### In general, we will check the following aspects for a factory audit:
 
@@ -88,7 +88,7 @@ In general, we will check the following aspects for IPC:
 
 The in-process quality check is designed to provide early warning of quality or other problems arising during production and which may delay shipment.
 
-In other words, it is intended to provide a snapshot of the status of production at a factory. During production, semi-finished parts must be inspected based on AQL or percentage according to the company policy and inspection plan.
+Put simply, it gives a snapshot of the production status at the factory. During production, semi-finished parts must be inspected based on AQL or percentage according to the company policy and inspection plan.
 
 Checks carried out include stocks of raw materials, production rates, estimated production completion date, production bottlenecks, etc.
 

@@ -6,8 +6,8 @@ permalink: /about/
 nav_order: 1
 ---
 
-Guangzhou BST Technology Services Co., Ltd. is a fast growing medium sized quality assurance company in Guangzhou, China. Our predecessor is Brightsky Technology Services Co., Ltd., which was founded in Hong Kong. We are committed to being a leading quality control service provider in China, Cambodia, Malaysia, Thailand, Vietnam, India, Bangladesh, and Sri Lanka through tailored quality control services for the clients.
+Guangzhou BST Technology Services Co., Ltd. is a medium-sized quality assurance company based in Guangzhou, China. Our predecessor is Brightsky Technology Services Co., Ltd., founded in Hong Kong. Our clients are in China, Cambodia, Malaysia, Thailand, Vietnam, India, Bangladesh, and Sri Lanka.
 
-BST has the ability to provide a one-stop quality assurance service from factory audit down to loading check on site.
+BST provides one-stop quality assurance services, from factory audit to loading check on site.
 
-BST strives to bring outstanding values to the clients. We undertake to provide the clients with the shortest feedback time, the most competitive price, the most effective technical support, the most professional customer service and the most accurate and earliest report at each service link. Such commitments will serve as an impetus for our clients to improve product quality and more importantly build their confidence in their brands.
+Our commitments are straightforward: short response times, fair prices, reliable technical support, and accurate, timely reports. We do this so that our clients' products meet quality standards and that they feel confident in their own brands.

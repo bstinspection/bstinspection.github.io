@@ -5,18 +5,18 @@ date: 2026-07-21 00:00:00 +0800
 lang: en
 ---
 
-BST is proud to announce the launch of our brand new website, designed to provide a more modern, accessible, and user-friendly experience for our global clients.
+BST's new website is live. It targets clients worldwide, with a cleaner interface and easier browsing.
 
-**Key Features of the New Website**
+**What's New**
 
-- **7-Language Support** — The site is now available in English, Chinese, French, Russian, Spanish, Portuguese (Brazil), and Arabic, making it easier for clients worldwide to access information in their preferred language.
-- **Modern Design** — A clean, professional interface with improved navigation and responsive layout for seamless browsing on desktop, tablet, and mobile devices.
-- **Comprehensive Service Information** — Detailed descriptions of all our quality assurance services, from Factory Audit (FA) to Testing Arrangement (TA), with easy anchor-link navigation.
-- **Instant Language Switcher** — Switch between any of the 7 languages instantly without losing your current page.
-- **Arabic (RTL) Support** — Full right-to-left layout support for Arabic-speaking clients.
+- Seven languages: English, Chinese, French, Russian, Spanish, Portuguese (Brazil), and Arabic. Clients can read the site in the language they know best.
+- A clean, professional interface with improved navigation, working on desktop, tablet, and mobile.
+- Every quality assurance service is described in detail, from Factory Audit to Testing Arrangement, with anchor navigation.
+- Switching language keeps you on the same page.
+- Arabic gets full right-to-left layout support.
 
-**A Commitment to Better Service**
+**Better Service**
 
-This website refresh reflects BST's ongoing commitment to serving our international client base with professionalism and transparency. We invite you to explore the new site and experience the difference.
+We want the new site to present our services more clearly and transparently. Take a look.
 
-For questions or feedback, please contact [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).
+For questions or feedback, contact [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).

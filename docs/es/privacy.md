@@ -10,7 +10,7 @@ BST se compromete a no divulgar sus datos personales ni la información que nos 
 
 Usted tiene la posibilidad de acceder, modificar o eliminar cualquier dato que le concierna.
 
-Todos los datos personales en poder de BST se mantendrán confidenciales, pero BST puede, cuando dicha divulgación sea necesaria para cumplir con el propósito para el cual se recopilaron los datos, proporcionar dicha información a las siguientes partes:
+Todos los datos personales en poder de BST se mantendrán confidenciales, pero BST podrá, cuando dicha divulgación sea necesaria para cumplir el propósito para el cual se recopilaron los datos, o un propósito directamente relacionado, proporcionar dicha información a las siguientes partes:
 
 - Cualquier subsidiaria, holding, empresa asociada o afiliada de BST, o empresas controladas por BST o bajo control común con BST,
 - Cualquier otra persona que tenga un deber de confidencialidad con BST y que se haya comprometido a mantener dicha información confidencial;
@@ -36,4 +36,4 @@ Usted tiene derecho a solicitar a BST la eliminación de su cuenta, lo que limit
 
 El administrador del sitio web destruirá cualquier información que pueda tener de acuerdo con nuestra política de retención interna. Esta política requiere que la información se conserve solo durante el tiempo necesario para cumplir con el propósito original o directamente relacionado para el cual fue recopilada, a menos que dicha información se retenga para cumplir con cualquier obligación legal o contractual aplicable.
 
-*Si tiene más preguntas, no dude en contactarnos. ¡Nuestro equipo estará encantado de responder a cualquier pregunta!*
+*Si tiene alguna pregunta, póngase en contacto con nosotros.*

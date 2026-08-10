@@ -38,4 +38,4 @@ You have the right to request BST to delete account, which will limit your acces
 
 Webmaster will destroy any information it may hold in accordance with our internal retention policy. This policy requires that information will only be retained for as long as it is necessary to fulfil the original or directly related purpose for which it was collected, unless such information is retained to satisfy any applicable statutory or contractual obligations.
 
-*Should you have any further queries, please don't hesitate to contact us! Our team will gladly answer any of your questions!*
+*If you have any questions, please contact us.*

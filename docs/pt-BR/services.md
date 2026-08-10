@@ -4,11 +4,11 @@ title: Nossos serviços
 lang: pt-BR
 ---
 
-A BST oferece uma gama completa de serviços de garantia de qualidade que cobrem todas as etapas do processo de produção e embarque.
+A BST oferece uma gama completa de serviços de garantia da qualidade, cobrindo todas as etapas do processo de produção e embarque.
 
 ## 1. Auditoria de Fábrica (FA) {#fa}
 
-Os clientes exigem que seus produtos tenham a qualidade, quantidade e prazo corretos. Para atingir esses objetivos, os fabricantes devem atingir certos padrões de qualidade em suas operações. Mas como você pode garantir que seus fabricantes atinjam esses padrões? Nomeando organizações profissionais locais como a BST para ajudar a auditar seus fabricantes em tais programas.
+Os clientes se preocupam principalmente com qualidade, quantidade e prazo de entrega. Isso significa que os fabricantes precisam atingir certos padrões de qualidade em suas operações. Para saber se uma fábrica de fato os atinge, você pode enviar uma organização profissional local, como a BST, para auditá-la.
 
 ### Em geral, verificamos os seguintes aspectos para uma auditoria de fábrica:
 
@@ -58,7 +58,7 @@ Esta seção inclui o nível de conscientização e/ou conformidade da fábrica 
 
 ## 2. Auditoria de Conformidade Social (SCA) {#sca}
 
-A auditoria de conformidade social (também chamada de código de conduta) é conduzida principalmente com base nos padrões SA8000 ou padrões definidos pelos clientes. Nossos auditores de idioma nativo entrevistarão os funcionários, verificarão registros e operações da fábrica, informarão as não conformidades e darão à fábrica a chance de corrigi-las.
+A auditoria de conformidade social (também chamada de código de conduta) é conduzida principalmente com base nos padrões SA8000 ou nos padrões definidos pelos clientes. Nossos auditores falam o idioma local: eles entrevistam os funcionários, verificam registros e a operação da fábrica, informam as não conformidades e dão à fábrica a chance de corrigi-las.
 
 Em geral, verificamos os seguintes aspectos para a auditoria de conformidade social:
 
@@ -86,7 +86,7 @@ Em geral, verificamos os seguintes aspectos para o IPC:
 
 O controle de qualidade em processo é projetado para fornecer alerta precoce de problemas de qualidade ou outros problemas que surgem durante a produção e que podem atrasar o embarque.
 
-Em outras palavras, destina-se a fornecer um instantâneo do status da produção em uma fábrica. Durante a produção, peças semiacabadas devem ser inspecionadas com base no AQL ou percentagem, de acordo com a política da empresa e o plano de inspeção.
+Em resumo, ele fornece um panorama do status da produção na fábrica. Durante a produção, peças semiacabadas devem ser inspecionadas com base no AQL ou percentagem, de acordo com a política da empresa e o plano de inspeção.
 
 As verificações realizadas incluem estoques de matérias-primas, taxas de produção, data estimada de conclusão da produção, gargalos de produção, etc.
 

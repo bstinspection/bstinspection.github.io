@@ -6,17 +6,17 @@ lang: fr
 
 ## Pourquoi vous et vos clients avez besoin de services d'assurance qualité ?
 
-Le contrôle qualité est un facteur clé de succès pour les entreprises qui travaillent avec des fournisseurs de production et de services.
+Le contrôle qualité détermine si une entreprise et ses fournisseurs peuvent travailler ensemble avec succès.
 
-Notre équipe de direction hautement qualifiée et nos techniciens fournissent les meilleurs conseils possibles lorsqu'un problème est rencontré et peuvent vous guider vers les procédures d'assurance qualité les plus rentables. Notre équipe comprend à la fois les normes techniques en vigueur sur les marchés internationaux et les exigences du marché.
+Notre équipe de direction et nos techniciens connaissent les normes techniques des marchés internationaux et ce que ces marchés exigent réellement. En cas de problème, ils donnent des conseils concrets et vous aident à choisir l'approche d'assurance qualité la plus rentable.
 
-1. Les inspections qualité sur site et les services d'audit d'usine de BST dans toute la Chine aident les entreprises à réduire les risques liés à une mauvaise qualité, au chargement, au stockage, au transport et à la non-conformité aux exigences réglementaires, et garantissent le respect des obligations contractuelles : spécifications, emballage, marquage et livraison.
+1. Les inspections qualité sur site et les audits d'usine de BST dans toute la Chine aident les entreprises à réduire les risques liés à une mauvaise qualité, au chargement, au stockage, au transport et à la non-conformité réglementaire, afin que les spécifications, l'emballage, le marquage et la livraison soient conformes au contrat.
 
-2. BST recrute des inspecteurs responsables, minutieux, honnêtes et professionnels pour réduire votre risque de recevoir des produits défectueux.
+2. BST recrute des inspecteurs responsables, minutieux, honnêtes et professionnels, ce qui réduit votre risque de recevoir des produits défectueux.
 
-3. Une orientation client constante et des opérations flexibles vous feront gagner plus de temps et de marge de manœuvre.
+3. Nous organisons le travail de manière flexible en fonction de vos besoins et essayons de vous faire gagner du temps et de la peine.
 
-4. Réduisez vos frais de déplacement et autres dépenses diverses résultant des inspections de marchandises effectuées par vous-même.
+4. Nous réduisons les frais de déplacement et autres dépenses accessoires que vous devriez sinon engager pour effectuer les inspections vous-même.
 
 ## Que sont les défauts critiques, les défauts majeurs et les défauts mineurs ?
 
@@ -24,15 +24,15 @@ Les défauts constatés lors de l'inspection sont classés en trois catégories 
 
 ### 1) Défauts critiques
 
-Les défauts critiques peuvent entraîner des conditions dangereuses ou non sécuritaires pour les personnes utilisant ou entretenant le produit, ainsi que des défauts contraires aux réglementations légales.
+Les défauts critiques peuvent créer des conditions dangereuses ou non sécurisées pour les personnes qui utilisent ou entretiennent le produit, ou constituer des défauts contraires aux réglementations légales.
 
 ### 2) Défauts majeurs
 
-Les défauts majeurs peuvent affecter la durée de vie du produit ou réduire sa capacité d'utilisation (mauvais fonctionnement, produit incomplet ou cassé, etc.) ou lui donner un aspect défectueux pouvant affecter la valeur du produit.
+Les défauts majeurs peuvent raccourcir la durée de vie du produit ou réduire sa capacité d'utilisation (mauvais fonctionnement, produit incomplet ou cassé, etc.), ou lui donner un aspect défectueux qui nuit à sa valeur.
 
 ### 3) Défauts mineurs
 
-Les défauts mineurs peuvent ne pas réduire l'utilisabilité du produit mais la qualité du produit peut être dégradée.
+Les défauts mineurs n'affectent généralement pas l'utilisation normale, mais la qualité du produit en souffre un peu.
 
 ## Que puis-je apprendre des tables AQL ?
 
@@ -60,4 +60,4 @@ Les défauts mineurs peuvent ne pas réduire l'utilisabilité du produit mais la
 
 ![Plans d'échantillonnage simple pour inspection normale (MIL-STD-105E)]({{ '/images/Table-mil-std_105_e-5.webp' | relative_url }})
 
-Dans la pratique, les normes de qualité de BST utilisent les tables MIL-STD-105E résumées ci-dessus.
+Les normes de qualité de BST se basent sur les tables MIL-STD-105E présentées ci-dessus.

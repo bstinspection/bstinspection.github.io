@@ -6,18 +6,18 @@ lang: es
 permalink: /es/news/brightsky-and-guangzhou-bst/
 ---
 
-Brightsky Technology Services Co., Ltd. (Hong Kong) y Guangzhou BST Technology Services Co., Ltd. se han fusionado oficialmente, formando una plataforma de servicios de aseguramiento de calidad unificada y más sólida.
+Brightsky Technology Services Co., Ltd. (Hong Kong) y Guangzhou BST Technology Services Co., Ltd. se han fusionado en una única plataforma de servicios de aseguramiento de calidad.
 
 **Lo que esto significa para nuestros clientes**
 
-La fusión combina la red internacional de clientes de Brightsky y su experiencia operativa en Hong Kong con el sólido equipo de inspección local de Guangzhou BST y su profundo conocimiento de las prácticas de fabricación en toda China. Juntos, ahora ofrecemos:
+La fusión combina la red internacional de clientes de Brightsky y su experiencia operativa en Hong Kong con el equipo de inspección local de Guangzhou BST y su conocimiento de la fabricación en China. Ahora podemos:
 
-- **Mayor cobertura geográfica** — servicio sin interrupciones, desde auditorías de fábrica en el sur de China hasta supervisión de carga en puertos del norte.
-- **Operaciones optimizadas** — un único punto de contacto para todas sus necesidades de aseguramiento de calidad, desde los controles iniciales de producción hasta la inspección final aleatoria.
-- **Estándares de servicio consistentes** — procedimientos de inspección, formatos de informes y puntos de referencia de calidad unificados en todas las líneas de servicio.
+- Cubrir más terreno: desde auditorías de fábrica en el sur de China hasta supervisión de carga en puertos del norte.
+- Agilizar las operaciones: un único punto de contacto para todas las necesidades de aseguramiento de calidad, desde los controles iniciales de producción hasta la inspección final aleatoria.
+- Mantener estándares consistentes: procedimientos de inspección, formatos de informes y puntos de referencia de calidad uniformes en todas las líneas de servicio.
 
-**Mirando hacia adelante**
+**De cara al futuro**
 
-Esta fusión marca un hito importante en el crecimiento de BST. Nuestro equipo combinado está mejor preparado que nunca para ayudar a importadores, minoristas y distribuidores a reducir el riesgo en la cadena de suministro y garantizar la calidad del producto. Mantenemos nuestro compromiso con los principios de justicia, integridad y ciencia que siempre han definido nuestro trabajo.
+La fusión nos da un equipo más completo y una mejor posición para ayudar a importadores, minoristas y distribuidores a controlar el riesgo en la cadena de suministro y mantener la calidad del producto bajo control. Los principios de justicia, integridad y ciencia nos han guiado desde el principio, y siguen haciéndolo.
 
-Si desea consultar cómo esta fusión puede beneficiar su programa de aseguramiento de calidad, comuníquese con [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).
+Para consultas sobre lo que esta fusión significa para su programa de aseguramiento de calidad, comuníquese con [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).

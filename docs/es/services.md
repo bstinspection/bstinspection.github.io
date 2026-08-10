@@ -8,7 +8,7 @@ BST ofrece una gama completa de servicios de aseguramiento de calidad que cubren
 
 ## 1. Auditoría de Fábrica (FA) {#fa}
 
-Los clientes requieren que sus productos tengan la calidad, cantidad y tiempo adecuados. Para lograr estos objetivos, los fabricantes deben alcanzar ciertos estándares de calidad dentro de sus operaciones. Pero, ¿cómo podría asegurarse de que sus fabricantes cumplan con dichos estándares? Al designar organizaciones profesionales locales como BST, puede auditar a sus fabricantes en dichos programas.
+A los clientes les interesan sobre todo la calidad, la cantidad y el tiempo de entrega. Eso significa que los fabricantes deben alcanzar ciertos estándares de calidad en sus operaciones. Para comprobar si una fábrica realmente los cumple, puede recurrir a una organización profesional local como BST para que la audite.
 
 ### En general, verificaremos los siguientes aspectos en una auditoría de fábrica:
 

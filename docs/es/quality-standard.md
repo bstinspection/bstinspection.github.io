@@ -6,17 +6,17 @@ lang: es
 
 ## ¿Por qué usted y sus clientes necesitan servicios de aseguramiento de calidad?
 
-El control de calidad es un factor clave de éxito para las empresas que trabajan con todos los proveedores que brindan producción y servicios.
+El control de calidad determina si una empresa y sus proveedores pueden trabajar juntos con éxito.
 
-Nuestro equipo directivo altamente calificado y nuestros técnicos brindan el mejor asesoramiento posible cuando surge un problema y pueden orientarlo sobre los procedimientos de aseguramiento de calidad más rentables. Nuestro equipo comprende tanto los estándares técnicos que operan en los mercados internacionales como los requisitos del mercado.
+Nuestro equipo directivo y nuestros técnicos conocen los estándares técnicos de los mercados internacionales y lo que esos mercados exigen en la práctica. Cuando surgen problemas, dan consejos concretos y ayudan a elegir el enfoque de aseguramiento de calidad más rentable.
 
-1. Las inspecciones de calidad in situ y los servicios de auditoría de fábrica de BST en toda China ayudan a las empresas a reducir los riesgos asociados con la mala calidad, la carga, el almacenamiento, el transporte y el incumplimiento de los requisitos regulatorios, asegurando que se cumplan las obligaciones contractuales: especificaciones, embalaje, marcado y entrega.
+1. Las inspecciones de calidad in situ y las auditorías de fábrica de BST en toda China ayudan a las empresas a reducir los riesgos asociados con la mala calidad, la carga, el almacenamiento, el transporte y el incumplimiento de las regulaciones, de modo que las especificaciones, el embalaje, el marcado y la entrega cumplan el contrato.
 
-2. Las inspecciones de calidad de BST contratan inspectores responsables, cuidadosos, honestos y profesionales para reducir el riesgo de recibir productos defectuosos.
+2. Las inspecciones de calidad de BST contratan inspectores responsables, cuidadosos, honestos y profesionales, lo que reduce el riesgo de recibir productos defectuosos.
 
-3. La orientación constante al cliente y las operaciones flexibles le brindarán más tiempo y espacio.
+3. Organizamos el trabajo con flexibilidad en torno a sus necesidades y tratamos de ahorrarle tiempo y esfuerzo.
 
-4. Reduzca sus gastos de viajes de negocios y otros gastos diversos derivados de las inspecciones de mercancías realizadas por usted mismo.
+4. Reducimos los gastos de viaje y otros costos incidentales que usted tendría si hiciera las inspecciones por su cuenta.
 
 ## ¿Qué son los defectos críticos, defectos mayores y defectos menores?
 
@@ -28,11 +28,11 @@ Los defectos críticos podrían resultar en condiciones peligrosas o inseguras p
 
 ### 2) Defectos mayores
 
-Los defectos mayores pueden afectar la duración del producto o reducir la capacidad de uso del artículo (funcionamiento deficiente, artículo incompleto o roto, etc.) o darle una apariencia defectuosa que puede afectar el valor del producto.
+Los defectos mayores pueden acortar la vida del producto o reducir la capacidad de uso del artículo (funcionamiento deficiente, artículo incompleto o roto, etc.), o darle una apariencia defectuosa que daña su valor.
 
 ### 3) Defectos menores
 
-Los defectos menores pueden no reducir la usabilidad del producto, pero la calidad del producto puede verse degradada.
+Los defectos menores normalmente no afectan el uso normal, pero la calidad del producto se resiente un poco.
 
 ## ¿Qué puedo encontrar en las tablas AQL?
 
@@ -60,4 +60,4 @@ Los defectos menores pueden no reducir la usabilidad del producto, pero la calid
 
 ![Single Sampling Plans for Normal Inspection (MIL-STD-105E)]({{ '/images/Table-mil-std_105_e-5.webp' | relative_url }})
 
-En la práctica, los Estándares de Calidad de BST utilizan las tablas MIL-STD-105E resumidas anteriormente.
+Los estándares de calidad de BST se basan en las tablas MIL-STD-105E que se muestran arriba.
