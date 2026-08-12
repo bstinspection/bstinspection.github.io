@@ -40,7 +40,7 @@ Essas informações são tratadas pelo GitHub e pela Fastly de acordo com suas p
 
 ### 4.1 Preços em moeda local
 
-Ao visitar uma página de preços ou de condições, seu navegador consulta um serviço gratuito de geolocalização por IP (ipwho.is, com ipapi.co como alternativa) para identificar o país do visitante e obtém as taxas de câmbio atuais do USD de uma API pública, a fim de exibir preços indicativos na moeda local. Apenas o código do país ou da moeda é utilizado; não armazenamos endereço IP nem qualquer outra informação pessoal. Essas solicitações são feitas diretamente pelo seu navegador a serviços de terceiros, sob as respectivas políticas de privacidade.
+Ao visitar uma página de preços ou de condições, seu navegador envia seu endereço IP a um serviço gratuito de geolocalização por IP (ipwho.is, com ipapi.co como alternativa) para determinar seu país de origem e obtém as taxas de câmbio atuais do USD de uma API pública, a fim de exibir preços indicativos na moeda local. Não armazenamos nem registramos seu endereço IP; apenas o código de país ou de moeda resultante é utilizado na página. Essas solicitações são feitas diretamente pelo seu navegador a serviços de terceiros, e os dados recebidos por eles, incluindo seu endereço IP, são tratados de acordo com suas respectivas políticas de privacidade.
 
 ## 5. Cookies
 

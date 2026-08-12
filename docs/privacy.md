@@ -42,7 +42,7 @@ This information is handled by GitHub and Fastly under their own privacy policie
 
 ### 4.1 Local Currency Display
 
-When you visit a pricing or terms page, your browser requests the visitor's country from a free geo-IP service (ipwho.is, with ipapi.co as a fallback) and obtains current USD exchange rates from a public currency API, so the site can display indicative prices in your local currency. Only a country or currency code is used; no IP address or other personal information is stored by us. These requests are made directly by your browser to third-party services under their own privacy policies.
+When you visit a pricing or terms page, your browser sends your IP address to a free geo-IP service (ipwho.is, with ipapi.co as a fallback) to determine the country you are visiting from, and obtains current USD exchange rates from a public currency API, so the site can display indicative prices in your local currency. Your IP address is not stored or logged by us; only the resulting country or currency code is used on the page. These requests are made directly from your browser to third-party services, and the data they receive, including your IP address, is handled under their respective privacy policies.
 
 ## 5. Cookies
 

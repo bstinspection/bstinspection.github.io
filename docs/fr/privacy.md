@@ -40,7 +40,7 @@ Ces informations sont traitées par GitHub et Fastly conformément à leurs prop
 
 ### 4.1 Affichage des prix en devise locale
 
-Lorsque vous consultez une page de tarifs ou de conditions, votre navigateur interroge un service gratuit de géolocalisation par IP (ipwho.is, avec ipapi.co en secours) pour connaître le pays de provenance du visiteur, et obtient les taux de change USD actuels auprès d'une API publique, afin d'afficher des prix indicatifs dans votre devise locale. Seul un code de pays ou de devise est utilisé ; aucune adresse IP ni autre information personnelle n'est stockée par nos soins. Ces requêtes sont émises directement par votre navigateur vers des services tiers, sous leurs propres politiques de confidentialité.
+Lorsque vous consultez une page de tarifs ou de conditions, votre navigateur transmet votre adresse IP à un service gratuit de géolocalisation par IP (ipwho.is, avec ipapi.co en secours) pour déterminer votre pays de provenance, et obtient les taux de change USD actuels auprès d'une API publique, afin d'afficher des prix indicatifs dans votre devise locale. Votre adresse IP n'est ni stockée ni journalisée par nos soins ; seule la donnée qui en résulte (code de pays ou de devise) est exploitée sur la page. Ces requêtes sont émises directement depuis votre navigateur vers des services tiers, et les données qu'ils reçoivent, y compris votre adresse IP, sont traitées selon leurs propres politiques de confidentialité.
 
 ## 5. Cookies
 
