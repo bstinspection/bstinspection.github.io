@@ -38,10 +38,6 @@ Este sitio web está alojado en GitHub Pages, un servicio de GitHub, Inc. (Estad
 
 Esta información es tratada por GitHub y Fastly conforme a sus propias políticas de privacidad y términos de servicio. No controlamos ni somos responsables del tratamiento que realizan estas plataformas. Dado que GitHub y Fastly operan desde Estados Unidos y otras jurisdicciones, estos datos técnicos pueden transferirse internacionalmente. GitHub ofrece garantías adecuadas para los datos personales transferidos desde el EEE, el Reino Unido y Suiza, incluidas las Cláusulas Contractuales Tipo de la UE en el marco de su Acuerdo de Tratamiento de Datos.
 
-### 4.1 Precios en moneda local
-
-Al visitar una página de precios o de condiciones, su navegador envía su dirección IP a un servicio gratuito de geolocalización por IP (ipwho.is, con ipapi.co como alternativa) para determinar su país de origen, y obtiene los tipos de cambio USD actuales de una API pública, para mostrar precios orientativos en su moneda local. Nosotros no almacenamos ni registramos su dirección IP; en la página solo se utiliza el código de país o de moneda resultante. Estas peticiones se realizan directamente desde su navegador a servicios de terceros, y los datos que ellos reciben, incluida su dirección IP, se tratan conforme a sus respectivas políticas de privacidad.
-
 ## 5. Cookies
 
 Este sitio web no instala ni utiliza cookies.

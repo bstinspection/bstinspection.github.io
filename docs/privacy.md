@@ -40,10 +40,6 @@ This website is hosted on GitHub Pages, a service of GitHub, Inc. (United States
 
 This information is handled by GitHub and Fastly under their own privacy policies and terms of service. We do not control and are not responsible for the processing these platforms perform. Because GitHub and Fastly operate from the United States and other jurisdictions, such technical data may be transferred internationally. GitHub provides appropriate safeguards for personal data transferred from the EEA, UK, and Switzerland, including the EU Standard Contractual Clauses under its Data Processing Agreement.
 
-### 4.1 Local Currency Display
-
-When you visit a pricing or terms page, your browser sends your IP address to a free geo-IP service (ipwho.is, with ipapi.co as a fallback) to determine the country you are visiting from, and obtains current USD exchange rates from a public currency API, so the site can display indicative prices in your local currency. Your IP address is not stored or logged by us; only the resulting country or currency code is used on the page. These requests are made directly from your browser to third-party services, and the data they receive, including your IP address, is handled under their respective privacy policies.
-
 ## 5. Cookies
 
 This website does not set or use cookies.
