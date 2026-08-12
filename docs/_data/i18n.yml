@@ -42,7 +42,7 @@ en:
     speed: "Fast Response"
     speed_desc: "Inspection within 24 hours notice. Real-time reporting and immediate feedback on quality issues."
     cost: "Competitive Pricing"
-    cost_desc: "Cost-effective solutions starting at USD 198 per man-day without compromising on quality standards."
+    cost_desc: "Cost-effective solutions starting at <strong>USD 198</strong> per man-day without compromising on quality standards."
     global: "Global Coverage"
     global_desc: "Services across China, Cambodia, Malaysia, Thailand, Vietnam, India, Bangladesh, and Sri Lanka covering all major manufacturing hubs in Asia."
   stats:
@@ -129,7 +129,7 @@ zh:
     speed: "快速响应"
     speed_desc: "24 小时内安排验货，实时报告，问题即时反馈。"
     cost: "价格优势"
-    cost_desc: "验货服务仅需 USD 198/人天，品质不打折。"
+    cost_desc: "验货服务仅需 <strong>USD 198</strong>/人天，品质不打折。"
     global: "全球覆盖"
     global_desc: "服务覆盖中国、柬埔寨、马来西亚、泰国、越南、印度、孟加拉、斯里兰卡等亚洲主要制造中心。"
   stats:
@@ -216,7 +216,7 @@ fr:
     speed: "Réponse rapide"
     speed_desc: "Inspection dans les 24 heures. Rapports en temps réel et retour immédiat sur les problèmes de qualité."
     cost: "Prix compétitifs"
-    cost_desc: "Solutions économiques à partir de 198 USD par jour-homme sans compromis sur les normes de qualité."
+    cost_desc: "Solutions économiques à partir de <strong>198 USD</strong> par jour-homme sans compromis sur les normes de qualité."
     global: "Couverture mondiale"
     global_desc: "Services en Chine, au Cambodge, en Malaisie, en Thaïlande, au Vietnam, en Inde, au Bangladesh et au Sri Lanka, couvrant tous les principaux centres de fabrication en Asie."
   stats:
@@ -303,7 +303,7 @@ ru:
     speed: "Быстрый ответ"
     speed_desc: "Инспекция в течение 24 часов после уведомления. Отчеты в реальном времени и немедленная обратная связь."
     cost: "Конкурентные цены"
-    cost_desc: "Экономичные решения от 198 долларов США за человеко-день без ущерба для стандартов качества."
+    cost_desc: "Экономичные решения от <strong>198 долларов США</strong> за человеко-день без ущерба для стандартов качества."
     global: "Глобальный охват"
     global_desc: "Услуги в Китае, Камбодже, Малайзии, Таиланде, Вьетнаме, Индии, Бангладеш и Шри-Ланке, охватывающие все основные производственные центры Азии."
   stats:
@@ -390,7 +390,7 @@ es:
     speed: "Respuesta rápida"
     speed_desc: "Inspección en 24 horas. Informes en tiempo real y retroalimentación inmediata sobre problemas de calidad."
     cost: "Precios competitivos"
-    cost_desc: "Soluciones rentables desde USD 198 por día-hombre sin comprometer los estándares de calidad."
+    cost_desc: "Soluciones rentables desde <strong>USD 198</strong> por día-hombre sin comprometer los estándares de calidad."
     global: "Cobertura global"
     global_desc: "Servicios en China, Camboya, Malasia, Tailandia, Vietnam, India, Bangladés y Sri Lanka, cubriendo todos los principales centros de fabricación en Asia."
   stats:
@@ -477,7 +477,7 @@ pt-BR:
     speed: "Resposta rápida"
     speed_desc: "Inspeção em até 24 horas. Relatórios em tempo real e feedback imediato sobre questões de qualidade."
     cost: "Preços competitivos"
-    cost_desc: "Soluções econômicas a partir de USD 198 por dia-homem, sem comprometer os padrões de qualidade."
+    cost_desc: "Soluções econômicas a partir de <strong>USD 198</strong> por dia-homem, sem comprometer os padrões de qualidade."
     global: "Cobertura global"
     global_desc: "Serviços na China, Camboja, Malásia, Tailândia, Vietnã, Índia, Bangladesh e Sri Lanka, abrangendo todos os principais polos industriais da Ásia."
   stats:
@@ -564,7 +564,7 @@ ar:
     speed: "استجابة سريعة"
     speed_desc: "فحص في غضون 24 ساعة من الإخطار. تقارير فورية وملاحظات عاجلة حول مشكلات الجودة."
     cost: "أسعار تنافسية"
-    cost_desc: "حلول فعالة من حيث التكلفة تبدأ من 198 دولار أمريكي ليوم العمل دون المساس بمعايير الجودة."
+    cost_desc: "حلول فعالة من حيث التكلفة تبدأ من <strong>198 دولار أمريكي</strong> ليوم العمل دون المساس بمعايير الجودة."
     global: "تغطية عالمية"
     global_desc: "خدمات في الصين وكمبوديا وماليزيا وتايلاند وفيتنام والهند وبنغلاديش وسريلانكا تغطي جميع مراكز التصنيع الرئيسية في آسيا."
   stats:

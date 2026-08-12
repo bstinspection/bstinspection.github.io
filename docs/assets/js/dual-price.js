@@ -160,7 +160,9 @@
       matches.forEach(function(m) {
         var usd = usdFromMatch(m);
         frag.appendChild(document.createTextNode(value.slice(last, m.index)));
-        frag.appendChild(document.createTextNode(m[0]));
+        var strong = document.createElement('strong');
+        strong.textContent = m[0];
+        frag.appendChild(strong);
         if (isFinite(usd) && usd > 0) {
           var text = localText(usd, rates, currency);
           if (text) {
