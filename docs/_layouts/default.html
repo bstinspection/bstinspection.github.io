@@ -5,6 +5,7 @@
   {% include header.html %}
   {{ content }}
   {% include footer.html %}
-  <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/main.min.js' | relative_url }}?v={{ site.cache_buster }}"></script>
+  <script src="{{ '/assets/js/dual-price.min.js' | relative_url }}?v={{ site.cache_buster }}" defer></script>
 </body>
 </html>

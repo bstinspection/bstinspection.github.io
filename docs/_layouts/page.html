@@ -10,6 +10,9 @@ layout: default
     <article class="content-area">
       <h1>{{ page.title }}</h1>
       {{ content }}
+      {% if page.path contains 'pricing' or page.path contains 'terms' %}
+      <p class="rate-disclaimer">{{ site.data.i18n[page.lang].pricing.disclaimer }}</p>
+      {% endif %}
     </article>
     {% if page.sidebar != false %}
     <aside class="sidebar">

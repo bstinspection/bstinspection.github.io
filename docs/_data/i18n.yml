@@ -32,6 +32,8 @@ en:
     title: "Latest News"
     read_more: "View All News"
     back: "Back to News"
+  pricing:
+    disclaimer: "Local-currency amounts on this page are indicative conversions at the current exchange rate for reference only. They do not form a final quotation; the final price is confirmed in USD in writing."
   why:
     title: "Why Choose BST?"
     subtitle: "We deliver exceptional value through expertise, speed, and global reach."
@@ -117,6 +119,8 @@ zh:
     title: "最新动态"
     read_more: "查看所有新闻"
     back: "返回新闻"
+  pricing:
+    disclaimer: "本页所示本地货币金额仅为按当前汇率换算的参考数值，不构成正式报价；最终价格以书面确认的美元金额为准。"
   why:
     title: "为什么选择 BST？"
     subtitle: "通过专业知识、快速响应和全球覆盖为您创造价值。"
@@ -202,6 +206,8 @@ fr:
     title: "Dernières actualités"
     read_more: "Voir toutes les actualités"
     back: "Retour aux actualités"
+  pricing:
+    disclaimer: "Les montants en monnaie locale affichés sur cette page sont donnés à titre indicatif, convertis selon le taux de change en vigueur. Ils ne constituent pas une offre ferme ; le prix final est confirmé en USD par écrit."
   why:
     title: "Pourquoi choisir BST ?"
     subtitle: "Nous offrons une valeur exceptionnelle grâce à notre expertise, notre rapidité et notre couverture mondiale."
@@ -287,6 +293,8 @@ ru:
     title: "Последние новости"
     read_more: "Все новости"
     back: "Назад к новостям"
+  pricing:
+    disclaimer: "Суммы в местной валюте на этой странице указаны ориентировочно, по текущему курсу, для справки. Они не являются официальным предложением; окончательная цена подтверждается в долларах США в письменной форме."
   why:
     title: "Почему выбирают BST?"
     subtitle: "Мы обеспечиваем исключительную ценность благодаря экспертизе, скорости и глобальному охвату."
@@ -372,6 +380,8 @@ es:
     title: "Últimas noticias"
     read_more: "Ver todas las noticias"
     back: "Volver a noticias"
+  pricing:
+    disclaimer: "Los importes en moneda local que figuran en esta página son orientativos, convertidos según el tipo de cambio vigente. No constituyen una cotización en firme; el precio final se confirma en USD por escrito."
   why:
     title: "¿Por qué elegir BST?"
     subtitle: "Ofrecemos un valor excepcional a través de experiencia, rapidez y alcance global."
@@ -457,6 +467,8 @@ pt-BR:
     title: "Últimas notícias"
     read_more: "Ver todas as notícias"
     back: "Voltar às notícias"
+  pricing:
+    disclaimer: "Os valores em moeda local exibidos nesta página são meramente indicativos, convertidos pela taxa de câmbio vigente. Não constituem uma cotação em firme; o preço final é confirmado em USD por escrito."
   why:
     title: "Por que escolher a BST?"
     subtitle: "Oferecemos valor excepcional por meio de expertise, agilidade e alcance global."
@@ -542,6 +554,8 @@ ar:
     title: "آخر الأخبار"
     read_more: "عرض كل الأخبار"
     back: "العودة إلى الأخبار"
+  pricing:
+    disclaimer: "المبالغ المعروضة بالعملة المحلية في هذه الصفحة استرشادية فقط، بمعدل تحويل وفق سعر الصرف الحالي، ولا تُعد عرضًا سعريًا نهائيًا؛ يُؤكَّد السعر النهائي بالدولار الأمريكي كتابيًا."
   why:
     title: "لماذا تختار BST؟"
     subtitle: "نقدم قيمة استثنائية من خلال الخبرة والسرعة والانتشار العالمي."

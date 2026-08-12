@@ -44,4 +44,4 @@ exclude:
   - Gemfile.lock
   - vendor
 
-cache_buster: 5
+cache_buster: 6
