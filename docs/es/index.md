@@ -11,8 +11,6 @@ hero_image: /images/background.jpg
   {% assign lang_prefix = '/' | append: page.lang %}
 {% endif %}
 
-{% include hero.html %}
-
 <section class="section animate-on-scroll">
   <div class="section-title">
     <h2>{{ site.data.i18n[page.lang].index_services.title }}</h2>
