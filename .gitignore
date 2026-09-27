@@ -1,12 +1,46 @@
+# Jekyll build output
 _site/
-.sass-cache/
+docs/_site/
 .jekyll-cache/
 .jekyll-metadata
-Gemfile.lock
+.sass-cache/
+
+# Ruby dependencies
+.bundle/
 vendor/
-*.pyc
+Gemfile.lock
+
+# Node dependencies
+node_modules/
+
+# Python
 __pycache__/
+*.pyc
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local temp files and one-off scripts
 output/
 *.log
-node_modules/
+*.tmp
+*.bak
+*.orig
+tmp/
+scripts/local/
+
+# Environment
 .env
+.env.local
+
+# IDE project data (ignored only, never deleted)
+.codebuddy/
