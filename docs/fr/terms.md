@@ -100,3 +100,15 @@ Les conseils de BST sont donnés uniquement en relation avec les documents et in
 BST et/ou ses filiales et/ou sociétés affiliées et le client s'engagent à ne divulguer à aucun tiers les informations confidentielles obtenues de l'autre partie concernant l'exécution des services de BST.
 
 BST doit faire de son mieux pour bien conserver les échantillons. Le client ne doit pas réclamer d'indemnisation pour les échantillons perdus à cause d'un incendie, d'une inondation ou d'un vol, ni pour les dommages directs ou indirects causés à l'échantillon dans le cadre de son utilisation lors de l'inspection.
+
+## 8. Droits d'auteur et propriété intellectuelle
+
+8.1 Ce site web et l'ensemble de son contenu — y compris, sans s'y limiter, les textes, articles, images, logos, ainsi que la conception et la mise en page des pages — sont la propriété de Guangzhou BST Technology Services Co., Ltd. et sont protégés par les lois applicables en matière de droit d'auteur et de marques.
+
+8.2 Sans l'accord écrit préalable de BST, aucune partie de ce site ne peut être copiée, reproduite, republiée, transmise, diffusée ni utilisée à des fins commerciales. La citation à des fins de commentaire ou d'information n'est autorisée qu'avec la mention claire de la source (BST) et un lien vers la page d'origine.
+
+8.3 Les rapports d'inspection, certificats et autres documents émis par BST sont réservés à l'usage exclusif du client qui a commandé le service concerné, et ne peuvent être modifiés, revendus ni diffusés sans autorisation écrite.
+
+8.4 Les noms de produits, logos et marques de tiers figurant sur ce site appartiennent à leurs propriétaires respectifs et ne sont mentionnés qu'à des fins d'identification.
+
+8.5 Pour toute demande d'utilisation du contenu de ce site, veuillez contacter BST par les moyens indiqués sur la page Contact.

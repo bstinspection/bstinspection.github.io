@@ -102,3 +102,15 @@ BST advice is given only in relation to documents and information provided by th
 BST, and/or its subsidiaries and/or affiliates and the client undertake not to disclose to any third party confidential information obtained from the other party regarding the execution of BST services.
 
 BST should try its best to keep the samples well. While client should not claim a compensation on sample lost caused by fire, flood, or theft, or direct/indirect damage to the sample in the process of using it in inspection.
+
+## 8. Copyright and Intellectual Property
+
+8.1 This website and all of its content — including but not limited to text, articles, images, logos, and the design and layout of pages — are the property of Guangzhou BST Technology Services Co., Ltd. and are protected by applicable copyright and trademark laws.
+
+8.2 Without the prior written consent of BST, no part of this website may be copied, reproduced, republished, transmitted, distributed, or used for any commercial purpose. Quotation for the purpose of commentary or news reporting is permitted only with clear attribution to BST and a link to the original page.
+
+8.3 Inspection reports, certificates and other documents issued by BST are for the exclusive use of the client who commissioned the service concerned, and may not be altered, resold or circulated without written authorization.
+
+8.4 All third-party product names, logos and trademarks displayed on this website belong to their respective owners and are used for identification purposes only.
+
+8.5 For permission to use any content of this website, please contact BST through the channels provided on the Contact page.
