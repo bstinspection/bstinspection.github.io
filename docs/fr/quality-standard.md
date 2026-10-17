@@ -14,7 +14,7 @@ Notre équipe de direction et nos techniciens connaissent les normes techniques 
 
 1. Les inspections qualité sur site et les audits d'usine de BST dans toute la Chine aident les entreprises à réduire les risques liés à une mauvaise qualité, au chargement, au stockage, au transport et à la non-conformité réglementaire, afin que les spécifications, l'emballage, le marquage et la livraison soient conformes au contrat.
 
-2. BST recrute des inspecteurs responsables, minutieux, honnêtes et professionnels, ce qui réduit votre risque de recevoir des produits défectueux.
+2. Les inspecteurs de BST sont minutieux, responsables, honnêtes et professionnels, ce qui réduit votre risque de recevoir des produits défectueux.
 
 3. Nous organisons notre travail de manière flexible en fonction de vos besoins, ce qui vous permet d'économiser du temps et des coûts.
 
@@ -36,7 +36,7 @@ Les défauts majeurs peuvent raccourcir la durée de vie du produit ou réduire 
 
 Les défauts mineurs n'affectent généralement pas l'utilisation normale, mais la qualité du produit peut être légèrement dégradée.
 
-## Que puis-je apprendre des tables AQL ?
+## Que peut-on apprendre des tables AQL ?
 
 ### Comprendre les tables AQL
 

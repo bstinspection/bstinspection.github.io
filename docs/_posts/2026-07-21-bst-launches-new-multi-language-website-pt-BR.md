@@ -18,8 +18,8 @@ O novo site da BST está no ar. Ele foi feito para clientes em todo o mundo, com
 - Ao trocar de idioma, você permanece na mesma página.
 - O árabe tem suporte completo de layout da direita para a esquerda.
 
-## Melhor serviço
+## Informações mais claras sobre o serviço
 
-O novo site apresenta nossos serviços de forma mais clara e transparente. Convidamos você a navegar por ele.
+O novo site apresenta nossas informações de serviço de forma mais clara e transparente. Explore o site e diga-nos o que achou.
 
 Para dúvidas ou feedback, entre em contato com [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).

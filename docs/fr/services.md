@@ -96,8 +96,8 @@ En général, nous vérifions les aspects suivants pour l'IPC :
 - Évaluer la capacité de production et les équipements de l'usine.
 - Vérifier la capacité de contrôle qualité de l'usine et l'état d'exécution des procédures.
 - Vérifier la précision des installations et des équipements de production.
-- Auditer les techniques de production et vérifier la disposition raisonnable du personnel QC de l'usine.
-- Vérifier la quantité et la qualité des matières premières et des composants principaux qui seront utilisés dans vos produits, anticiper les problèmes possibles pour les éviter et vérifier dès le début que les spécifications de vos produits sont respectées.
+- Auditer les techniques de production et vérifier que le personnel QC de l'usine est bien réparti.
+- Vérifier la quantité et la qualité des matières premières et des composants principaux qui seront utilisés dans vos produits, repérer les problèmes possibles à l'avance et confirmer tôt que les spécifications de vos produits sont respectées.
 
 ## 4. Contrôle qualité en cours de processus (IPQC) {#ipqc}
 
@@ -113,7 +113,7 @@ Un contrôle visuel de la qualité des composants, des matériaux et des produit
 
 Le DUPRO fournit une inspection en ligne. Les inspecteurs qualifiés vérifient que les corrections et améliorations suggérées lors de l'IPC ont été mises en œuvre, examinent la production en cours et conseillent les fabricants sur les corrections ou améliorations supplémentaires à apporter.
 
-En général :
+Nous vérifions généralement les points suivants :
 
 - Évaluer l'état de la production pendant le processus de fabrication.
 - Inspecter aléatoirement les échantillons finis sur site et les comparer à vos spécifications produit.
@@ -127,7 +127,7 @@ L'équipe BST effectue une inspection finale aléatoire qui comprend une inspect
 
 La FRI a lieu lorsque les marchandises sont terminées à 100 % et qu'au moins 80 % sont bien emballées, marquées et prêtes à être expédiées. Nos inspecteurs prélèvent aléatoirement des échantillons parmi les produits finis, sur la base d'une technique d'échantillonnage aléatoire statistique, communément connue sous les normes ANSI/ASQC Z1.4, MIL-STD-105E, BS6001, DIN40080, ISO2859 ou NFX06-022, pour vérifier que les lots d'expédition finis sont conformes à vos spécifications.
 
-En général :
+Points de contrôle clés :
 
 - Vérification de la quantité
 - Style, couleur et matériau
@@ -143,7 +143,7 @@ Pour l'inspection finale aléatoire, nous conseillons aux clients de réserver l
 
 Avant le chargement, nos inspecteurs vérifient les informations, la quantité et l'emballage des produits. Pendant le chargement, ils surveillent de près le processus, s'assurent que les cartons d'exportation sont bien disposés dans le conteneur, sans risque de déformation ni d'effondrement, et aident le fabricant à terminer le chargement selon des clauses et des procédures de travail correctes et claires.
 
-En général :
+Points de contrôle clés :
 
 - Enregistrer la météo / l'heure d'arrivée du conteneur / le numéro du conteneur / le numéro du camion.
 - Vérifier l'état intérieur et extérieur pour détecter tout dommage / humidité / trou / odeur étrange.

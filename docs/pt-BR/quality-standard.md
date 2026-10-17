@@ -14,7 +14,7 @@ Nossa equipe de gestão e nossos técnicos conhecem os padrões técnicos dos me
 
 1. As inspeções de qualidade no local e as auditorias de fábrica da BST em toda a China ajudam as empresas a reduzir os riscos de má qualidade, carregamento, armazenamento, transporte e não conformidade com regulamentações, para que especificações, embalagem, marcação e entrega estejam de acordo com o contrato.
 
-2. A BST contrata inspetores responsáveis, cuidadosos, honestos e profissionais para reduzir o risco de receber produtos defeituosos.
+2. Os inspetores da BST são cuidadosos, responsáveis, honestos e profissionais, reduzindo o risco de receber produtos defeituosos.
 
 3. Organizamos nosso trabalho com flexibilidade, de acordo com as suas necessidades, ajudando você a economizar tempo e custos.
 
@@ -36,7 +36,7 @@ Defeitos maiores podem encurtar a vida útil do produto ou reduzir a possibilida
 
 Defeitos menores normalmente não afetam o uso normal, mas a qualidade do produto pode ser ligeiramente prejudicada.
 
-## O que posso descobrir nas tabelas AQL?
+## O que é possível descobrir nas tabelas AQL?
 
 ### Entendendo as Tabelas AQL
 

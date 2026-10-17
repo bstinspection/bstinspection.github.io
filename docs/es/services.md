@@ -96,8 +96,8 @@ En general, verificaremos los siguientes aspectos en el IPC:
 - Evaluar la capacidad de producción y los equipos en la fábrica.
 - Verificar la capacidad de control de calidad y el estado de ejecución de la fábrica.
 - Verificar la precisión de las instalaciones y equipos de producción.
-- Auditar las técnicas de producción y asegurar la distribución razonable del personal de control de calidad de la fábrica.
-- Verificar la cantidad y calidad de las materias primas y componentes principales que se utilizarán en sus productos, anticipando cualquier posible problema para evitarlos, verificando que las especificaciones de su producto se cumplan desde el principio.
+- Auditar las técnicas de producción y verificar que el personal de control de calidad de la fábrica esté bien distribuido.
+- Verificar la cantidad y calidad de las materias primas y componentes principales que se utilizarán en sus productos, detectando posibles problemas con antelación y confirmando pronto que las especificaciones de su producto se cumplen.
 
 ## 4. Control de Calidad en Proceso (IPQC) {#ipqc}
 
@@ -113,7 +113,7 @@ Una verificación visual de la calidad de los componentes, materiales y producto
 
 El DUPRO proporciona la inspección en línea; los inspectores calificados de DQC verificarán que las correcciones y mejoras sugeridas durante el IPC se hayan implementado, examinarán la producción existente y asesorarán a los fabricantes sobre cualquier corrección o mejora adicional que deba realizarse.
 
-En general:
+Normalmente verificamos lo siguiente:
 
 - Evaluar el estado de la producción durante el proceso de fabricación.
 - Inspeccionar aleatoriamente las muestras terminadas in situ y compararlas con las especificaciones de su producto.
@@ -127,7 +127,7 @@ El equipo de BST realiza una inspección final aleatoria que comprende una inspe
 
 La FRI se lleva a cabo cuando la mercancía está 100% completada y al menos el 80% está bien embalada, marcada y lista para el envío. Nuestros inspectores toman muestras aleatorias de los productos terminados, basándose en la técnica de muestreo aleatorio estadístico, comúnmente conocida como ANSI/ASQC Z1.4, MIL-STD-105E, BS6001, DIN40080, ISO2859 o NFX06-022, para verificar que los lotes de envío terminados cumplan con sus especificaciones.
 
-En general:
+Puntos clave de control:
 
 - Verificación de cantidad
 - Estilo, color y material
@@ -143,7 +143,7 @@ Para la inspección final aleatoria, sugerimos a los clientes reservar esta insp
 
 Antes del estibado, nuestros inspectores verificarán la información del producto, la cantidad y el embalaje. Durante el estibado, nuestros inspectores supervisarán de cerca el proceso de carga, asegurándose de que las cajas de exportación estén bien dispuestas en el contenedor sin riesgos de deformación o colapso, ayudando al fabricante a finalizar la carga bajo condiciones y procesos de trabajo correctos y claros.
 
-En general:
+Puntos clave de control:
 
 - Registrar el clima/hora de llegada del contenedor/n.°/n.° de camión.
 - Verificar el estado interior/exterior para detectar daños/humedad/agujeros/olores extraños.

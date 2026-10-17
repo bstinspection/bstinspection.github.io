@@ -14,7 +14,7 @@ Nuestro equipo directivo y nuestros técnicos conocen los estándares técnicos 
 
 1. Las inspecciones de calidad in situ y las auditorías de fábrica de BST en toda China ayudan a las empresas a reducir los riesgos asociados con la mala calidad, la carga, el almacenamiento, el transporte y el incumplimiento de las regulaciones, de modo que las especificaciones, el embalaje, el marcado y la entrega cumplan el contrato.
 
-2. Las inspecciones de calidad de BST contratan inspectores responsables, cuidadosos, honestos y profesionales, lo que reduce el riesgo de recibir productos defectuosos.
+2. Los inspectores de BST son cuidadosos, responsables, honestos y profesionales, lo que reduce el riesgo de recibir productos defectuosos.
 
 3. Organizamos nuestro trabajo con flexibilidad según sus necesidades, ayudándole a ahorrar tiempo y costos.
 
@@ -36,7 +36,7 @@ Los defectos mayores pueden acortar la vida del producto o reducir la capacidad 
 
 Los defectos menores normalmente no afectan el uso normal, pero la calidad del producto puede verse ligeramente afectada.
 
-## ¿Qué puedo encontrar en las tablas AQL?
+## ¿Qué se puede encontrar en las tablas AQL?
 
 ### Comprensión de las tablas AQL
 

@@ -98,8 +98,8 @@ In general, we will check the following aspects for IPC:
 - Evaluate the production capability and equipments in the factory.
 - Check factories' quality control ability and executive status.
 - Check the accuracy of production facilities and equipments.
-- Audit production techniques and make sure the reasonable layout of factory QC person.
-- Check the quantity and quality of raw materials and main components that will be used in your products, foreseeing any possible problems to avoid them, verifying that your products spec are being met early.
+- Audit production techniques and confirm that factory QC staff are properly positioned.
+- Check the quantity and quality of raw materials and main components to be used in your products, spot possible problems early and confirm that your specifications are met from the start.
 
 ## 4. In-Process Quality Check (IPQC) {#ipqc}
 
@@ -115,7 +115,7 @@ A visual check on the quality of components, materials, semi-finished products w
 
 The DUPRO provides the on-line inspection, DQC qualified inspectors will check that the corrections and improvements suggested during the IPC were implemented, examine the existing productions, advised the manufacturers of any further corrections or improvements to be made.
 
-In general:
+We usually check the following:
 
 - Evaluate the production status during the manufacturing process.
 - Randomly inspect the finished samples on-site and compare them with your product spec.
@@ -129,7 +129,7 @@ The BST team performs a final random inspection comprising of a detailed visual 
 
 FRI takes place when the merchandise is 100% completed and at least 80% are well packed, marked and ready for shipment. Our inspectors randomly draw some samples from finished goods, based on statistical random sampling technique, commonly known as ANSI/ASQC Z1.4, MIL-STD-105E, BS6001, DIN40080, ISO2859 OR NFX06-022, to verify that the finished shipping lots conform to your specifications.
 
-In general:
+Key check points:
 
 - Qty check
 - Style, color & material
@@ -143,9 +143,9 @@ For final random inspection, we suggest clients book this inspection at least 3 
 
 ## 7. Loading Supervision (L/S) {#ls}
 
-Before stuffing, our inspectors will check products' information, quantity, package, during the course of stuffing, our inspectors will keep closely look at the loading process, ensure that the export cartons are well arranged in the container with no risks of deformation, collapse, help manufacturer finish loading under correct and clear working clauses and working process.
+Before stuffing, our inspectors will check products' information, quantity and package; during stuffing, they watch the loading closely and ensure that the export cartons are well arranged in the container with no risks of deformation, collapse, help manufacturer finish loading under correct and clear working clauses and working process.
 
-In general:
+Key check points:
 
 - Record the weather/arrival time of container/No./truck No.
 - Check the inner/outer condition to see if there is any damage/wet/hole/peculiar smell.

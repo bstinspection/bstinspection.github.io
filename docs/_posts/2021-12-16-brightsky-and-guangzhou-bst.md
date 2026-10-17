@@ -11,7 +11,7 @@ Brightsky Technology Services Co., Ltd. (Hong Kong) and Guangzhou BST Technology
 
 **What This Means for Our Clients**
 
-The merger combines Brightsky's international client network and Hong Kong operational experience with Guangzhou BST's on-the-ground inspection team and its in-depth knowledge of manufacturing in China. Now we can:
+The merger combines Brightsky's international client network and Hong Kong operational experience with Guangzhou BST's on-the-ground inspection team and its familiarity with manufacturing in China. Now we can:
 
 - Broader geographic coverage: from factory audits in southern China to loading supervision at northern ports.
 - Streamlined operations: all quality assurance needs are handled through a single point of contact, from initial production checks to final random inspection.

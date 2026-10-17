@@ -28,4 +28,4 @@ The inspection will be conducted by BST inspectors according to client's approva
 
 ## 4. Fourth: Issuing inspection report on the next workday of inspection date.
 
-BST inspection can be able to perform quality inspections and factory audits within a minimum notice of 24 hours.
+BST can perform quality inspections and factory audits with a minimum notice of 24 hours.

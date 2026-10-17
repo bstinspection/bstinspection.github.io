@@ -10,4 +10,6 @@ Guangzhou BST Technology Services Co., Ltd. es una empresa de aseguramiento de c
 
 BST ofrece servicios integrales de aseguramiento de calidad, desde la auditoría de fábrica hasta la supervisión de carga in situ.
 
+Nuestro trabajo de inspección cubre tres líneas: productos de consumo (electrodomésticos, muebles, artículos de cocina, electrónica de consumo, luminarias, juguetes, regalos y artesanías, ferretería), productos industriales (alambre y cable, tubería y torre de acero, material estructural, bombas, calderas, válvulas, tuberías de petróleo) y productos médicos (hisopos, vendas, tensiómetros, mascarillas, termómetros). Los productos industriales aún representan una parte pequeña de nuestro negocio y son la línea en la que invertimos para los próximos cinco años.
+
 Nuestros compromisos son concretos: tiempos de respuesta cortos, precios competitivos, soporte técnico eficaz, atención al cliente profesional e informes precisos y oportunos. Estos compromisos ayudan a los clientes a mejorar la calidad de sus productos y a generar confianza en sus marcas.

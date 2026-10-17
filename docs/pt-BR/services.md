@@ -96,8 +96,8 @@ Em geral, verificamos os seguintes aspectos para o IPC:
 - Avaliar a capacidade de produção e equipamentos na fábrica.
 - Verificar a capacidade de controle de qualidade da fábrica e o status executivo.
 - Verificar a precisão das instalações e equipamentos de produção.
-- Auditar as técnicas de produção e garantir o layout razoável do pessoal de CQ da fábrica.
-- Verificar a quantidade e qualidade das matérias-primas e componentes principais que serão usados em seus produtos, prevendo possíveis problemas para evitá-los, verificando se as especificações do seu produto estão sendo atendidas no início.
+- Auditar as técnicas de produção e verificar se o pessoal de CQ da fábrica está bem distribuído.
+- Verificar a quantidade e qualidade das matérias-primas e componentes principais que serão usados em seus produtos, detectando possíveis problemas com antecedência e confirmando cedo se as especificações do seu produto são atendidas.
 
 ## 4. Controle de Qualidade em Processo (IPQC) {#ipqc}
 
@@ -113,7 +113,7 @@ Uma verificação visual da qualidade dos componentes, materiais, produtos semia
 
 O DUPRO fornece a inspeção on-line. Inspetores qualificados da DQC verificarão se as correções e melhorias sugeridas durante o IPC foram implementadas, examinarão as produções existentes e aconselharão os fabricantes sobre quaisquer outras correções ou melhorias a serem feitas.
 
-Em geral:
+Normalmente verificamos o seguinte:
 
 - Avaliar o status da produção durante o processo de fabricação.
 - Inspecionar aleatoriamente as amostras finalizadas no local e compará-las com as especificações do seu produto.
@@ -127,7 +127,7 @@ A equipe da BST realiza uma inspeção final aleatória que compreende uma inspe
 
 A FRI ocorre quando a mercadoria está 100% concluída e pelo menos 80% está bem embalada, marcada e pronta para embarque. Nossos inspetores retiram aleatoriamente algumas amostras dos produtos acabados, com base na técnica de amostragem aleatória estatística, comumente conhecida como ANSI/ASQC Z1.4, MIL-STD-105E, BS6001, DIN40080, ISO2859 ou NFX06-022, para verificar se os lotes de embarque acabados estão em conformidade com suas especificações.
 
-Em geral:
+Pontos principais de verificação:
 
 - Verificação de quantidade
 - Estilo, cor e material
@@ -141,9 +141,9 @@ Para a inspeção final aleatória, sugerimos que os clientes reservem esta insp
 
 ## 7. Supervisão de Carregamento (L/S) {#ls}
 
-Antes da estufagem, nossos inspetores verificarão as informações do produto, quantidade e embalagem. Durante o processo de estufagem, nossos inspetores acompanharão de perto o processo de carregamento, garantindo que as caixas de exportação estejam bem organizadas no contêiner, sem riscos de deformação ou colapso, ajudando o fabricante a concluir o carregamento sob cláusulas e processos de trabalho corretos e claros.
+Antes da estufagem, nossos inspetores verificarão as informações do produto, quantidade e embalagem. Durante a estufagem, nossos inspetores acompanharão de perto o carregamento, garantindo que as caixas de exportação estejam bem organizadas no contêiner, sem riscos de deformação ou colapso, ajudando o fabricante a concluir o carregamento sob cláusulas e processos de trabalho corretos e claros.
 
-Em geral:
+Pontos principais de verificação:
 
 - Registrar o clima/hora de chegada do contêiner/nº do contêiner/nº do caminhão.
 - Verificar a condição interna/externa para ver se há algum dano/umidade/furo/cheiro estranho.

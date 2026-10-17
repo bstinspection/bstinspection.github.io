@@ -2,26 +2,60 @@
 layout: page
 heading: "Production Scope"
 title: "Products We Inspect in China & Asia"
-description: "Product categories BST inspects in China and Asia, from textiles and footwear to electronics, furniture, toys and hardware. See the full scope."
+description: "BST inspects consumer goods, industrial equipment and medical supplies across China and Asia: appliances, furniture, toys, cable, valves, masks."
 lang: en
 permalink: /production-scope/
 nav_order: 3
 ---
 
-## Industrial Products Inspection and Consumer Products Inspection
+## Current Product Scope
 
-### 1. Industrial Products Inspection
+### 1. Consumer Products
+
+a. Electric appliances and commodities: household and similar electrical appliances, small domestic appliances, daily commodities.
+
+b. Furniture and kitchen items: household and office furniture, cookware, tableware, kitchen utensils.
+
+c. Consumer electronics and lighting products: computer components, audio and video accessories, lamps, Christmas light chains.
+
+d. Toys, gifts and crafts: toys, giftware, promotional products, porcelain, handicrafts.
+
+e. Hardware and sundries: machinery, tools, stainless tools, stainless kitchenware, general merchandise, sports goods.
+
+f. Garments and shoes.
+
+### 2. Industrial Products
 
 a. Supplier survey.
 
-b. Witness of industrial equipments.
+b. Witness of industrial equipment.
 
-c. Steel structure, boiler, crane, valve, ship, oil, gas' inspection as per international standard.
+c. Product inspection: wire and cable, steel pipe and tower, structural material, pump, boiler, valve, oil pipe.
 
-### 2. Consumer Products Inspection
+d. Steel structure, crane, ship, oil and gas inspection as per international standards.
 
-a. Electrical & Electronic Items and luminaires: household and similar electrical appliances, computer component, machinery, tools, lamp, Christmas light chain)
+### 3. Medical Products
 
-b. General Merchandise (Durable Consumer Goods) - toys, furniture, giftware, porcelain, promotional products, household items, sports goods, crafts, stainless tool, stainless kitchen, etc
+a. Swabs, bandages, medical tape, eye pads.
 
-c. Garments & Shoes
+b. Blood pressure monitors, finger pulse oximeters, thermometers.
+
+c. Face masks and other personal protective supplies.
+
+## Our Focus Over the Next Five Years
+
+### Industrial Products
+
+Industrial products are a small share of our business today. Over the next five years we are putting resources into this line and building it into one of our main businesses.
+
+The categories we are expanding:
+
+- Wire and cable
+- Steel pipe and tower
+- Structural material
+- Pump, boiler, valve
+- Oil pipe
+
+These categories go through the same steps as our existing lines: supplier survey before the order, witness of equipment during production, and inspection against international standards before shipment. Our inspectors in China and the other seven Asian countries we cover can take on these assignments now.
+
+If you are sourcing industrial goods and need a third-party check, write to [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) or call 0086-13798166270.

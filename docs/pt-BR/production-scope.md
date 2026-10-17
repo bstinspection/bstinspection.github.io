@@ -1,25 +1,59 @@
 ---
 layout: page
 heading: "Escopo de produção"
-title: "Produtos que inspecionamos"
-description: "Categorias inspecionadas pela BST: têxtil, calçados, eletrônicos, móveis, brinquedos, ferramentas e bens de consumo. Veja o escopo completo."
+title: "Produtos que inspecionamos na China e na Ásia"
+description: "A BST inspeciona bens de consumo, produtos industriais e produtos médicos: eletrodomésticos, móveis, brinquedos, cabos, válvulas, caldeiras, máscaras."
 lang: pt-BR
 ---
 
-## Inspeção de Produtos Industriais e Inspeção de Produtos de Consumo
+## Escopo atual
 
-### 1. Inspeção de Produtos Industriais
+### 1. Produtos de consumo
+
+a. Aparelhos elétricos e mercadorias: eletrodomésticos e aparelhos similares de uso doméstico, pequenos eletrodomésticos, artigos de uso diário.
+
+b. Móveis e artigos de cozinha: móveis residenciais e de escritório, panelas, louças, utensílios de cozinha.
+
+c. Eletrônicos de consumo e luminárias: componentes de computador, acessórios de áudio e vídeo, lâmpadas, cordões de luz de Natal.
+
+d. Brinquedos, presentes e artesanato: brinquedos, artigos para presentes, produtos promocionais, porcelana, artesanato.
+
+e. Ferragens e artigos diversos: máquinas, ferramentas, ferramentas de aço inoxidável, cozinha de aço inoxidável, mercadorias em geral, artigos esportivos.
+
+f. Vestuário e calçados.
+
+### 2. Produtos industriais
 
 a. Pesquisa de fornecedores.
 
 b. Testemunha de equipamentos industriais.
 
-c. Inspeção de estrutura de aço, caldeira, guindaste, válvula, navio, petróleo, gás de acordo com padrões internacionais.
+c. Inspeção de produtos: fios e cabos, tubos e torres de aço, material estrutural, bombas, caldeiras, válvulas, tubos de petróleo.
 
-### 2. Inspeção de Produtos de Consumo
+d. Inspeção de estruturas de aço, guindastes, navios, petróleo e gás conforme padrões internacionais.
 
-a. Itens elétricos e eletrônicos e luminárias: aparelhos domésticos e similares, componentes de computador, máquinas, ferramentas, lâmpadas, cordão de luz de Natal.
+### 3. Produtos médicos
 
-b. Mercadorias gerais (Bens de consumo duráveis) - brinquedos, móveis, artigos para presentes, porcelana, produtos promocionais, artigos domésticos, artigos esportivos, artesanato, ferramentas de aço inoxidável, cozinha de aço inoxidável, etc.
+a. Swabs, ataduras, fita médica, protetores oculares.
 
-c. Vestuário e Calçados.
+b. Medidores de pressão arterial, oxímetros de pulso, termômetros.
+
+c. Máscaras e outros equipamentos de proteção individual.
+
+## Nosso foco para os próximos cinco anos
+
+### Produtos industriais
+
+Hoje os produtos industriais representam uma parcela pequena do nosso negócio. Nos próximos cinco anos vamos direcionar recursos para esta linha e torná-la uma das principais atividades da empresa.
+
+Categorias em expansão:
+
+- Fios e cabos
+- Tubos e torres de aço
+- Material estrutural
+- Bombas, caldeiras, válvulas
+- Tubos de petróleo
+
+Estas categorias seguem os mesmos passos das nossas linhas atuais: pesquisa do fornecedor antes do pedido, testemunha de equipamentos durante a produção e inspeção conforme padrões internacionais antes do embarque. Nossos inspetores na China e nos outros sete países da Ásia onde atuamos podem assumir esses serviços agora.
+
+Se você compra produtos industriais e precisa de uma verificação independente, escreva para [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) ou ligue para 0086-13798166270.

@@ -17,8 +17,8 @@ BST's new website is now live. Built for clients worldwide, it offers a cleaner 
 - Switching language keeps you on the same page.
 - Arabic gets full right-to-left layout support.
 
-## Better Service
+## Clearer Service Information
 
-The new site presents our services more clearly and transparently. We welcome you to browse it.
+The new site presents our service information more clearly and transparently. Take a look and let us know what you think.
 
 For questions or feedback, contact [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).
