@@ -27,6 +27,8 @@ BST offers a comprehensive range of quality assurance services covering every st
 
 ## 1. Factory Audit (FA) {#fa}
 
+A factory audit is an on-site assessment of a manufacturer against quality standards, carried out before you commit to an order. A BST inspector reviews the factory profile, capacity, quality system, working conditions and environmental practices, and issues a report with findings and photographs. Use it to confirm that a new supplier can meet your quality, quantity and delivery requirements.
+
 Clients expect the right quality, quantity, and delivery time. That means manufacturers need to meet certain quality standards in their operations. To confirm that a factory actually does, you can appoint a local professional organization like BST to audit it on site.
 
 ### In general, we will check the following aspects for a factory audit:
@@ -75,7 +77,13 @@ This section includes a short assessment of the factory policy with environmenta
 
 This section includes level of awareness and/or compliance of the factory according to the RoHS Standards (Restriction of use of certain Hazardous Substances in Electrical and Electronic Equipment).
 
+### When to book: 30-45 days before the first order
+
+Most clients book the audit before the first order is placed, so there is still time to switch suppliers if the findings are poor.
+
 ## 2. Social Compliance Audit (SCA) {#sca}
+
+A social compliance audit, also called a code of conduct audit, checks a factory against SA8000 or your own social standards. Auditors interview workers, review records and inspect working hours, safety and welfare facilities on site. The report lists the non-compliances so the factory can correct them before your order ships.
 
 Social compliance audit (also called code of conduct) is conducted mainly based on SA8000 standards or standards drawn by clients. Our native language auditors will interview staff, check records and factory operation, inform you those non- compliances and give the factory chance to correct them.
 
@@ -89,7 +97,13 @@ In general, we will check the following aspects for social compliance audit:
 - Working Conditions
 - Others
 
+### When to book: before the first order or before peak season
+
+Buyers increasingly ask for a valid social audit before peak season, so book early if your order ships in Q4.
+
 ## 3. Initial Production Check (IPC) {#ipc}
+
+An initial production check verifies components, materials and accessories at the start of production, before mass production begins. The inspector compares them with your specifications and reference sample, so deviations are corrected while they are still cheap to fix. Any non-conformity is reported immediately to protect your delivery schedule.
 
 A visual check on the quality of components, materials, and accessories at the beginning of production against clients' specifications and/or reference sample. The IPC thus permits timely corrections and improvements before the mass production is launched. Any non-conformity is immediately reported so as to avoid delay in shipment.
 
@@ -101,7 +115,13 @@ In general, we will check the following aspects for IPC:
 - Audit production techniques and confirm that factory QC staff are properly positioned.
 - Check the quantity and quality of raw materials and main components to be used in your products, spot possible problems early and confirm that your specifications are met from the start.
 
+### When to book: in the first days of production
+
+Book the check as soon as the line is set up and materials are on site; the earlier it happens, the cheaper corrections are.
+
 ## 4. In-Process Quality Check (IPQC) {#ipqc}
+
+An in-process quality check runs during production to catch quality problems early, while there is still time to correct them. The inspector reviews raw material stocks, production rates, workmanship and the estimated completion date, giving you a snapshot of the factory floor before the order is finished.
 
 The in-process quality check is designed to provide early warning of quality or other problems arising during production and which may delay shipment.
 
@@ -109,7 +129,13 @@ It provides a snapshot of the current production status at the factory. During p
 
 Checks carried out include stocks of raw materials, production rates, estimated production completion date, production bottlenecks, etc.
 
+### When to book: at 10-20% of production
+
+Book the visit once the line runs steadily, so the inspector sees real production rather than setup trials.
+
 ## 5. During Production Check (DUPRO) {#dupro}
+
+A during production check, or DUPRO, inspects components, materials and semi-finished goods once 20-30% of the order is complete. The inspector samples the batch on the line, identifies deviations and advises on corrective measures, so the remaining production runs to the same standard.
 
 A visual check on the quality of components, materials, semi-finished products when at least 20%-30% of the order has been completed. Unique randomly inspects the production batch and those products in the line for possible defects, if any should occur, we identifies the deviation and provides advice on the corrective measures that are necessary to ensure a uniform batch quality product.
 
@@ -123,7 +149,13 @@ We usually check the following:
 - Evaluate the packing details and packing material.
 - Check the accuracy of production equipments and disposal methods for defective goods.
 
+### When to book: at 20-30% of production
+
+At this stage there are enough units to judge the batch, and enough time left to correct the line.
+
 ## 6. Final Random Inspection (FRI) {#fri}
+
+A final random inspection, also called a pre-shipment inspection, verifies finished goods before they leave the factory. Samples are drawn according to ANSI/ASQC Z1.4, MIL-STD-105E or ISO 2859 and checked for quantity, workmanship, function, safety, size and packaging against your specifications.
 
 The BST team performs a final random inspection comprising of a detailed visual inspection of goods before shipment. It is generally conducted on the premises of the manufacturer, on samples selected according to defined sampling procedures.
 
@@ -139,9 +171,13 @@ Key check points:
 - Package details
 - Shipping mark
 
-For final random inspection, we suggest clients book this inspection at least 3 days before loading, so that if quality problems are found by the BST inspector, clients will still have time to ask the factory to rework.
+### When to book: at least 3 days before loading
+
+Book the inspection when the goods are fully packed and marked. If the BST inspector finds quality problems, you will still have time to ask the factory to rework.
 
 ## 7. Loading Supervision (L/S) {#ls}
+
+Loading supervision places a BST inspector at the container while your goods are loaded. The inspector checks product information, quantity and packaging, watches the stuffing, verifies carton condition and seals the container with the customs seal, recording the seal number and departure time.
 
 Before stuffing, our inspectors will check products' information, quantity and package; during stuffing, they watch the loading closely and ensure that the export cartons are well arranged in the container with no risks of deformation, collapse, help manufacturer finish loading under correct and clear working clauses and working process.
 
@@ -155,9 +191,19 @@ Key check points:
 - Seal the container with the custom's seal and unique quality inspection's seal.
 - Record the seal No. and departure time of container.
 
+### When to book: on the loading day
+
+Supervision only works on the day of loading, so confirm the container booking first.
+
 ## 8. Testing Arrangement (TA) {#ta}
 
+Testing arrangement books independent laboratory tests and certifications for your products, including CE marking for the European market. BST coordinates with partner labs in China, so test reports and certificates are delivered through the same contact as your inspections.
+
 BST has cooperative test lab in China. BST can issue CE certificate for European product.
+
+### When to book: together with the pre-shipment inspection
+
+Lab testing takes longer than an inspection, so book early if a certificate gates your shipment.
 
 ## 9. Contact Information {#ci}
 

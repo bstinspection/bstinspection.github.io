@@ -60,6 +60,32 @@
   "knowsLanguage": ["en", "zh", "fr", "ru", "es", "pt", "ar"]
 }
 </script>
+{%- if page.url contains '/services/' %}
+{%- assign service_keys = "fa,sca,ipc,ipqc,dupro,fri,ls,ta" | split: "," %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ site.data.i18n[page.lang].nav.services | jsonify }},
+  "itemListElement": [
+    {%- for key in service_keys %}
+    {%- assign desc_key = key | append: "_desc" %}
+    {
+      "@type": "ListItem",
+      "position": {{ forloop.index }},
+      "item": {
+        "@type": "Service",
+        "name": {{ site.data.i18n[page.lang].services[key] | jsonify }},
+        "serviceType": {{ site.data.i18n.en.services[key] | split: " (" | first | jsonify }},
+        "description": {{ site.data.i18n[page.lang].service_cards[desc_key] | jsonify }},
+        "provider": { "@id": "{{ site.url }}/#organization" }
+      }
+    }{%- unless forloop.last %},{%- endunless %}
+    {%- endfor %}
+  ]
+}
+</script>
+{%- endif %}
 {%- if page.layout == 'page' %}
 <script type="application/ld+json">
 {
