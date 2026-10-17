@@ -14,7 +14,7 @@ BST ha actualizado su alcance de producción. La actualización abarca dos aspec
 
 Los productos de consumo siguen siendo la mayor parte de nuestro negocio: aparatos eléctricos y mercancías, muebles, artículos de cocina, electrónica de consumo, luminarias, juguetes, regalos y artesanías, ferretería, prendas de vestir y calzado.
 
-Los productos médicos se listan ahora por separado: hisopos, vendas, tensiómetros, mascarillas, cinta médica, parches oculares, oxímetros de pulso de dedo y termómetros.
+Los productos médicos constituyen ahora una categoría aparte: hisopos, vendas, tensiómetros, mascarillas, cinta médica, parches oculares, oxímetros de pulso de dedo y termómetros.
 
 Los productos industriales abarcan alambre y cable, tubería y torre de acero, material estructural, bombas, calderas, válvulas y tuberías de petróleo. También inspeccionamos estructuras de acero, grúas, barcos y equipos de petróleo y gas según estándares internacionales.
 

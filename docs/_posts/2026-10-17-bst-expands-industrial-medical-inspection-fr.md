@@ -14,7 +14,7 @@ BST a mis à jour sa portée de production. L'actualisation porte sur deux aspec
 
 Les produits de consommation restent la part principale de notre activité : appareils électriques et marchandises courantes, mobilier, articles de cuisine, électronique grand public, luminaires, jouets, cadeaux et artisanat, quincaillerie, vêtements et chaussures.
 
-Les produits médicaux sont désormais listés séparément : écouvillons, bandages, tensiomètres, masques, sparadraps médicaux, compresses oculaires, oxymètres de pouls au doigt et thermomètres.
+Les produits médicaux constituent désormais une catégorie distincte : écouvillons, bandages, tensiomètres, masques, sparadraps médicaux, compresses oculaires, oxymètres de pouls au doigt et thermomètres.
 
 Les produits industriels couvrent les fils et câbles, les tubes et pylônes en acier, les matériaux de structure, les pompes, les chaudières, les vannes et les tuyaux pétroliers. Nous contrôlons aussi les structures en acier, les grues, les navires et les équipements pétroliers et gaziers selon les normes internationales.
 
