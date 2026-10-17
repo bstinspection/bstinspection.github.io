@@ -8,7 +8,7 @@ lang: en
 permalink: /news/vietnam-and-bangladesh-inspection/
 ---
 
-BST has expanded its service coverage to Vietnam and Bangladesh, two of Asia's fastest-growing manufacturing hubs. Clients seeking to move supply beyond China now have more options.
+BST has expanded its service coverage to Vietnam and Bangladesh, two fast-growing manufacturing hubs in Asia. Clients seeking to move supply beyond China now have more options.
 
 ## Services Now Available in Vietnam and Bangladesh
 

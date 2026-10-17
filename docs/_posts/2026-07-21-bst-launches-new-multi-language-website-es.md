@@ -20,6 +20,6 @@ El nuevo sitio web de BST ya está en línea. Está dirigido a clientes de todo 
 
 ## Información más clara del servicio
 
-El nuevo sitio presenta nuestra información de servicio de forma más clara y transparente. Explore el sitio y díganos su opinión.
+El nuevo sitio presenta nuestra información de servicio de forma más clara y transparente. Le invitamos a explorar el sitio y a compartirnos sus comentarios.
 
 Si tiene preguntas o comentarios, comuníquese con [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).

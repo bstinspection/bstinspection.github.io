@@ -8,7 +8,7 @@ lang: pt-BR
 permalink: /pt-BR/news/industrial-medical-inspection-expansion/
 ---
 
-A BST atualizou seu escopo de produção. A atualização abrange dois pontos: os produtos médicos passam a ser uma categoria permanente de inspeção e os produtos industriais são definidos como a linha que vamos desenvolver nos próximos cinco anos.
+A BST atualizou seu escopo de produção. A atualização abrange dois aspectos: os produtos médicos passam a ser uma categoria permanente de inspeção e os produtos industriais são definidos como a linha prioritária que vamos desenvolver nos próximos cinco anos.
 
 ## Três linhas de trabalho
 
@@ -20,9 +20,9 @@ Os produtos industriais abrangem fios e cabos, tubos e torres de aço, material 
 
 ## O industrial como foco de cinco anos
 
-Hoje a inspeção industrial responde por uma parcela pequena da nossa receita. Nos próximos cinco anos vamos direcionar recursos para esta linha e torná-la uma das principais atividades da empresa.
+Hoje a inspeção industrial representa uma parcela reduzida da nossa receita. Nos próximos cinco anos vamos direcionar recursos para esta linha com o objetivo de consolidá-la como uma de nossas principais atividades.
 
-Os serviços seguem o processo já adotado: pesquisa do fornecedor antes do pedido, testemunha de equipamentos durante a produção e inspeção antes do embarque conforme padrões internacionais. Nossos inspetores na China, no Vietnã, na Índia, em Bangladesh, na Tailândia, na Malásia, no Camboja e no Sri Lanka podem assumir esses trabalhos agora.
+Os serviços seguem o processo já adotado: pesquisa do fornecedor antes da confirmação do pedido, testemunha de equipamentos durante a produção e inspeção antes do embarque conforme padrões internacionais. Nossos inspetores na China, no Vietnã, na Índia, em Bangladesh, na Tailândia, na Malásia, no Camboja e no Sri Lanka estão aptos a assumir esses encargos.
 
 ## Como agendar
 

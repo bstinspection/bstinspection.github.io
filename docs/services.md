@@ -121,7 +121,7 @@ Book the check as soon as the line is set up and materials are on site; the earl
 
 ## 4. In-Process Quality Check (IPQC) {#ipqc}
 
-An in-process quality check runs during production to catch quality problems early, while there is still time to correct them. The inspector reviews raw material stocks, production rates, workmanship and the estimated completion date, giving you a snapshot of the factory floor before the order is finished.
+An in-process quality check runs during production to identify quality problems early, while there is still time to correct them. The inspector reviews raw material stocks, production rates, workmanship and the estimated completion date, giving you a clear picture of the factory floor before the order is finished.
 
 The in-process quality check is designed to provide early warning of quality or other problems arising during production and which may delay shipment.
 
@@ -131,7 +131,7 @@ Checks carried out include stocks of raw materials, production rates, estimated 
 
 ### When to book: at 10-20% of production
 
-Book the visit once the line runs steadily, so the inspector sees real production rather than setup trials.
+Book the visit once the line runs steadily, so the inspector observes steady production rather than setup trials.
 
 ## 5. During Production Check (DUPRO) {#dupro}
 
@@ -179,7 +179,7 @@ Book the inspection when the goods are fully packed and marked. If the BST inspe
 
 Loading supervision places a BST inspector at the container while your goods are loaded. The inspector checks product information, quantity and packaging, watches the stuffing, verifies carton condition and seals the container with the customs seal, recording the seal number and departure time.
 
-Before stuffing, our inspectors will check products' information, quantity and package; during stuffing, they watch the loading closely and ensure that the export cartons are well arranged in the container with no risks of deformation, collapse, help manufacturer finish loading under correct and clear working clauses and working process.
+Before stuffing, our inspectors will check products' information, quantity and package; during stuffing, they supervise the entire loading process and ensure that the export cartons are well arranged in the container with no risks of deformation or collapse, assisting the manufacturer in completing the loading in accordance with clearly defined operating procedures.
 
 Key check points:
 

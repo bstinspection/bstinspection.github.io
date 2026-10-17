@@ -44,7 +44,7 @@ c. Máscaras e outros equipamentos de proteção individual.
 
 ### Produtos industriais
 
-Hoje os produtos industriais representam uma parcela pequena do nosso negócio. Nos próximos cinco anos vamos direcionar recursos para esta linha e torná-la uma das principais atividades da empresa.
+Hoje os produtos industriais representam uma parcela reduzida do nosso negócio. Nos próximos cinco anos vamos direcionar recursos para esta linha com o objetivo de consolidá-la como uma de nossas principais atividades.
 
 Categorias em expansão:
 
@@ -54,6 +54,6 @@ Categorias em expansão:
 - Bombas, caldeiras, válvulas
 - Tubos de petróleo
 
-Estas categorias seguem os mesmos passos das nossas linhas atuais: pesquisa do fornecedor antes do pedido, testemunha de equipamentos durante a produção e inspeção conforme padrões internacionais antes do embarque. Nossos inspetores na China e nos outros sete países da Ásia onde atuamos podem assumir esses serviços agora.
+Estas categorias seguem os mesmos passos das nossas linhas atuais: pesquisa do fornecedor antes da confirmação do pedido, testemunha de equipamentos durante a produção e inspeção conforme padrões internacionais antes do embarque. Nossos inspetores na China e nos outros sete países da Ásia onde atuamos estão aptos a assumir esses encargos.
 
-Se você compra produtos industriais e precisa de uma verificação independente, escreva para [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) ou ligue para 0086-13798166270.
+Se você compra produtos industriais e precisa de uma inspeção independente, escreva para [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) ou ligue para 0086-13798166270.

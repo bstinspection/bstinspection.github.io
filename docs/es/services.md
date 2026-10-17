@@ -129,7 +129,7 @@ Las verificaciones realizadas incluyen existencias de materias primas, tasas de 
 
 ### Cuándo reservar: entre el 10 % y el 20 % de avance
 
-Reserve la visita cuando la producción marcha de forma estable, para que el inspector vea producción real y no pruebas de puesta a punto.
+Reserve la visita cuando la producción marcha de forma estable, para que el inspector observe una producción estable y no pruebas de puesta a punto.
 
 ## 5. Control Durante la Producción (DUPRO) {#dupro}
 
@@ -177,7 +177,7 @@ Reserve la inspección cuando la mercancía esté totalmente embalada y marcada.
 
 La supervisión de carga sitúa a un inspector de BST junto al contenedor mientras se carga su mercancía. El inspector verifica la información del producto, la cantidad y el embalaje, vigila la estiba, comprueba el estado de las cajas y sella el contenedor con el sello de aduanas, registrando su número y la hora de salida.
 
-Antes del estibado, nuestros inspectores verificarán la información del producto, la cantidad y el embalaje. Durante el estibado, nuestros inspectores supervisarán de cerca el proceso de carga, asegurándose de que las cajas de exportación estén bien dispuestas en el contenedor sin riesgos de deformación o colapso, ayudando al fabricante a finalizar la carga bajo condiciones y procesos de trabajo correctos y claros.
+Antes del estibado, nuestros inspectores verificarán la información del producto, la cantidad y el embalaje. Durante el estibado, nuestros inspectores supervisarán todo el proceso de carga, asegurándose de que las cajas de exportación estén bien dispuestas en el contenedor sin riesgos de deformación o colapso, y ayudarán al fabricante a finalizar la carga conforme a procedimientos operativos claramente definidos.
 
 Puntos clave de control:
 

@@ -46,7 +46,7 @@ c. Face masks and other personal protective supplies.
 
 ### Industrial Products
 
-Industrial products are a small share of our business today. Over the next five years we are putting resources into this line and building it into one of our main businesses.
+Industrial products account for a limited share of our business today. Over the next five years, resources will be directed to this business line, with the goal of establishing it as one of our core businesses.
 
 The categories we are expanding:
 
@@ -56,6 +56,6 @@ The categories we are expanding:
 - Pump, boiler, valve
 - Oil pipe
 
-These categories go through the same steps as our existing lines: supplier survey before the order, witness of equipment during production, and inspection against international standards before shipment. Our inspectors in China and the other seven Asian countries we cover can take on these assignments now.
+These categories go through the same steps as our existing lines: supplier survey before order confirmation, witness of equipment during production, and inspection against international standards before shipment. Our inspectors in China and the other seven Asian countries we cover are all able to accept these assignments.
 
-If you are sourcing industrial goods and need a third-party check, write to [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) or call 0086-13798166270.
+If you are sourcing industrial goods and require third-party inspection services, write to [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) or call 0086-13798166270.

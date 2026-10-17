@@ -129,7 +129,7 @@ Les contrôles effectués comprennent les stocks de matières premières, les ta
 
 ### Quand réserver : entre 10 et 20 % d'avancement
 
-Réservez la visite lorsque la production est lancée de façon stable, afin que l'inspecteur observe une production réelle et non des essais de réglage.
+Réservez la visite lorsque la production est lancée de façon stable, afin que l'inspecteur observe une production stable et non des essais de réglage.
 
 ## 5. Contrôle en cours de production (DUPRO) {#dupro}
 
@@ -177,7 +177,7 @@ Réservez l'inspection lorsque les marchandises sont entièrement emballées et 
 
 La supervision de chargement place un inspecteur BST auprès du conteneur pendant le chargement de vos marchandises. L'inspecteur vérifie les informations produit, la quantité et l'emballage, surveille le chargement, contrôle l'état des cartons et scelle le conteneur avec le sceau douanier, en consignant le numéro de sceau et l'heure de départ.
 
-Avant le chargement, nos inspecteurs vérifient les informations, la quantité et l'emballage des produits. Pendant le chargement, ils surveillent de près le processus, s'assurent que les cartons d'exportation sont bien disposés dans le conteneur, sans risque de déformation ni d'effondrement, et aident le fabricant à terminer le chargement selon des clauses et des procédures de travail correctes et claires.
+Avant le chargement, nos inspecteurs vérifient les informations, la quantité et l'emballage des produits. Pendant le chargement, ils supervisent l'ensemble du processus, s'assurent que les cartons d'exportation sont bien disposés dans le conteneur, sans risque de déformation ni d'effondrement, et aident le fabricant à terminer le chargement conformément à des procédures d'exploitation clairement définies.
 
 Points de contrôle clés :
 

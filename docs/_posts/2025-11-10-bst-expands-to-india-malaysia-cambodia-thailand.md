@@ -8,7 +8,7 @@ lang: en
 permalink: /news/india-malaysia-cambodia-thailand/
 ---
 
-BST has expanded its service coverage to India, Malaysia, Cambodia, and Thailand, four of Asia's fastest-growing manufacturing countries. For clients diversifying their supply chains across multiple countries, BST now offers more options.
+BST has expanded its service coverage to India, Malaysia, Cambodia, and Thailand, four fast-growing manufacturing countries in Asia. For clients diversifying their supply chains across multiple countries, BST now offers more options.
 
 ## Services Now Available Across All Seven Countries
 

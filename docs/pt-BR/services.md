@@ -129,7 +129,7 @@ As verificações realizadas incluem estoques de matérias-primas, taxas de prod
 
 ### Quando reservar: entre 10% e 20% de conclusão
 
-Reserve a visita quando a produção estiver estável, para que o inspetor veja produção real e não testes de ajuste.
+Reserve a visita quando a produção estiver estável, para que o inspetor observe uma produção estável e não testes de ajuste.
 
 ## 5. Verificação Durante a Produção (DUPRO) {#dupro}
 
@@ -177,7 +177,7 @@ Reserve a inspeção quando a mercadoria estiver totalmente embalada e marcada. 
 
 A supervisão de carregamento coloca um inspetor da BST ao lado do contêiner enquanto a sua mercadoria é carregada. O inspetor verifica informações do produto, quantidade e embalagem, acompanha a estufagem, confere o estado das caixas e sela o contêiner com o lacre da alfândega, registrando o número do lacre e a hora de saída.
 
-Antes da estufagem, nossos inspetores verificarão as informações do produto, quantidade e embalagem. Durante a estufagem, nossos inspetores acompanharão de perto o carregamento, garantindo que as caixas de exportação estejam bem organizadas no contêiner, sem riscos de deformação ou colapso, ajudando o fabricante a concluir o carregamento sob cláusulas e processos de trabalho corretos e claros.
+Antes da estufagem, nossos inspetores verificarão as informações do produto, quantidade e embalagem. Durante a estufagem, nossos inspetores supervisionarão todo o processo de carregamento, garantindo que as caixas de exportação estejam bem organizadas no contêiner, sem riscos de deformação ou colapso, auxiliando o fabricante a concluir o carregamento em conformidade com procedimentos operacionais claramente definidos.
 
 Pontos principais de verificação:
 

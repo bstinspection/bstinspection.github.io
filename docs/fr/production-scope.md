@@ -44,7 +44,7 @@ c. Masques faciaux et autres équipements de protection individuelle.
 
 ### Produits industriels
 
-Les produits industriels représentent aujourd'hui une part limitée de notre activité. Au cours des cinq prochaines années, nous y consacrons des ressources pour en faire l'un de nos métiers principaux.
+Les produits industriels représentent aujourd'hui une part limitée de notre activité. Au cours des cinq prochaines années, nous y affecterons des ressources afin d'en faire l'une de nos activités principales.
 
 Catégories en cours de développement :
 
@@ -54,6 +54,6 @@ Catégories en cours de développement :
 - Pompes, chaudières, vannes
 - Tuyaux pétroliers
 
-Ces catégories suivent les mêmes étapes que nos lignes existantes : enquête fournisseur avant commande, témoignage des équipements en production, contrôle selon les normes internationales avant expédition. Nos inspecteurs en Chine et dans les sept autres pays d'Asie où nous intervenons peuvent prendre ces missions dès maintenant.
+Ces catégories suivent les mêmes étapes que nos lignes existantes : enquête fournisseur avant confirmation de commande, témoignage des équipements en production, contrôle selon les normes internationales avant expédition. Nos inspecteurs en Chine et dans les sept autres pays d'Asie où nous intervenons sont désormais en mesure de prendre en charge ces missions.
 
-Pour une vérification tierce de vos achats industriels, écrivez à [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) ou appelez le 0086-13798166270.
+Si vous achetez des produits industriels et souhaitez un contrôle par un tiers indépendant, écrivez à [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) ou appelez le 0086-13798166270.

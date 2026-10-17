@@ -19,6 +19,6 @@ BST's new website is now live. Built for clients worldwide, it offers a cleaner 
 
 ## Clearer Service Information
 
-The new site presents our service information more clearly and transparently. Take a look and let us know what you think.
+The new site presents our service information more clearly and transparently. We welcome your feedback.
 
 For questions or feedback, contact [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).

@@ -14,7 +14,7 @@ permalink: /zh/news/bst-new-office-address/
 
 Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China（中国广东省广州市黄埔区茅岗路环村大街21号3栋2803房）
 
-新办公室为运营团队、验货员培训和客户会议提供了更好的设施条件；地处黄埔区，前往珠三角主要交通枢纽和制造业集群都方便。
+新办公室为运营团队、验货员培训和客户会议提供了更好的设施条件；地处黄埔区，往返珠三角主要交通枢纽与制造业集群交通便捷。
 
 ## 联系方式
 

@@ -20,6 +20,6 @@ O novo site da BST está no ar. Ele foi feito para clientes em todo o mundo, com
 
 ## Informações mais claras sobre o serviço
 
-O novo site apresenta nossas informações de serviço de forma mais clara e transparente. Explore o site e diga-nos o que achou.
+O novo site apresenta nossas informações de serviço de forma mais clara e transparente. Convidamos você a explorar o site e a nos enviar seus comentários.
 
 Para dúvidas ou feedback, entre em contato com [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).

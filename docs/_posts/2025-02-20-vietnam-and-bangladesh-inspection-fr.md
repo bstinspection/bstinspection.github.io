@@ -8,7 +8,7 @@ lang: fr
 permalink: /fr/news/vietnam-and-bangladesh-inspection/
 ---
 
-BST a étendu sa couverture de services au Vietnam et au Bangladesh, deux des pôles manufacturiers d'Asie à la croissance la plus rapide. Les clients qui veulent déplacer leur approvisionnement au-delà de la Chine ont désormais davantage d'options.
+BST a étendu sa couverture de services au Vietnam et au Bangladesh, deux pôles manufacturiers d'Asie en croissance rapide. Les clients qui veulent déplacer leur approvisionnement au-delà de la Chine ont désormais davantage d'options.
 
 ## Services désormais disponibles au Vietnam et au Bangladesh
 

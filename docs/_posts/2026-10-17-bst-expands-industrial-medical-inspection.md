@@ -8,7 +8,7 @@ lang: en
 permalink: /news/industrial-medical-inspection-expansion/
 ---
 
-BST has updated its production scope. The update covers two things: medical products are now inspected as a standing category, and industrial products are set as the line we will build up over the next five years.
+BST has updated its production scope. The update covers two areas: medical products are now inspected as a standing category, and industrial products are designated a priority area for investment over the next five years.
 
 ## Three Lines of Work
 
@@ -20,9 +20,9 @@ Industrial products cover wire and cable, steel pipe and tower, structural mater
 
 ## Industrial Products as the Five-Year Focus
 
-Industrial inspection brings in a small share of our revenue today. Over the next five years we are directing resources to this line and building it into one of our main businesses.
+Industrial inspection currently accounts for a small share of our revenue. Over the next five years, resources will be directed to this business line, with the goal of establishing it as one of our core businesses.
 
-Assignments follow the process already in use: supplier survey before the order, witness of equipment in production, and pre-shipment inspection against international standards. Inspectors in China, Vietnam, India, Bangladesh, Thailand, Malaysia, Cambodia and Sri Lanka can take these jobs now.
+Assignments follow the process already in use: supplier survey before order confirmation, witness of equipment during production, and inspection against international standards before shipment. Inspectors in China, Vietnam, India, Bangladesh, Thailand, Malaysia, Cambodia and Sri Lanka are all able to accept these assignments.
 
 ## Booking
 
