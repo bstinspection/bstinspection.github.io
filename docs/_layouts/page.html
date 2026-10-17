@@ -6,7 +6,7 @@ layout: default
   {% assign lang_prefix = '/' | append: page.lang %}
 {% endif %}
 <main class="page-content">
-  <div class="container page-layout">
+  <div class="container page-layout{% if page.sidebar == false %} page-layout-full{% endif %}">
     <article class="content-area">
       {% unless page.url contains '404' %}
       <p class="breadcrumb">

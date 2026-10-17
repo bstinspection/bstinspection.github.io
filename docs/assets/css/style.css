@@ -1289,3 +1289,5 @@ li { margin-bottom: 0.3em; }
 
 [dir="rtl"] .news-table { padding-right: 0; }
 [dir="rtl"] .news-table .news-item:hover { padding: 18px 10px; }
+
+.page-layout-full { grid-template-columns: 1fr; }
