@@ -8,7 +8,7 @@ permalink: /news/
 sidebar: false
 ---
 
-<ul class="news-list">
+<ul class="news-list news-table">
   {% assign current_lang = page.lang | default: 'en' %}
   {% assign lang_posts = site.posts | where: "lang", current_lang %}
   {% for post in lang_posts %}
