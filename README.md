@@ -397,7 +397,7 @@ git config --local --unset https.proxy
 
 ## 九、SEO 实施状态
 
-审计基线见 [SEO-AUDIT.md](SEO-AUDIT.md)（2026-10-17，源码逐行核对 + 线上实测；该报告是审计当时的快照，未随后续实施更新）。技术层改造已由两个提交落地：`b506dab`（抓取基础设施与逐页元数据）与 `8f7ea60`（404 页排除出 sitemap）。当前状态如下。
+审计基线见 [SEO-AUDIT.md](SEO-AUDIT.md)（2026-10-17，源码逐行核对 + 线上实测；该报告是审计当时的快照，未随后续实施更新）。技术层改造已由三个提交落地：`b506dab`（抓取基础设施与逐页元数据）、`8f7ea60`（404 页排除出 sitemap）与 `999a5c3`（Service 结构化数据与服务页正文补强）。当前状态如下。
 
 ### 9.1 已完成
 
@@ -410,8 +410,9 @@ git config --local --unset https.proxy
 | title 与 H1 关键词化 | title 模板为 `{{ page.title }} \| BST Inspection`；各页 title 按「业务词 + 范围 + 品牌」结构改写，与审计第七章矩阵一致；七语言首页 H1（`i18n.yml` 的 `hero.title`）均为业务词，如 "Third-Party Quality Inspection in China"、"中国第三方验货与质量保证" |
 | 404 页修复 | 各语言使用固定 title（如 "Page Not Found"、"页面未找到"）；`head.html` 对 404 输出 `noindex`；"返回首页"链到对应语言首页 |
 | 社交卡片 | `head.html` 输出 og:type / title / description / url / image / locale（含其余六语言 alternate）与 twitter:card 等，分享图暂用 `background.jpg` |
-| 结构化数据 | `head.html` 输出 ProfessionalService（含 `@id`、`areaServed`、`knowsLanguage`）；`page` 布局另输出 BreadcrumbList |
+| 结构化数据 | `head.html` 输出 ProfessionalService（含 `@id`、`areaServed`、`knowsLanguage`）；`page` 布局输出 BreadcrumbList；服务页另输出八项服务的 ItemList，各 Service 经 `provider` 关联 Organization |
 | 内链与面包屑 | 页脚八个服务锚点全量露出；服务页有锚点目录；内页有可见面包屑；新闻列表带文章摘要 |
+| 服务页正文补强 | 八项服务各补一段定义式说明和 When to book 小标题，7 语言同步，锚点未动 |
 
 ### 9.2 待办与范围外
 
@@ -419,9 +420,7 @@ git config --local --unset https.proxy
 |---|---|
 | 站长平台验证 | GSC 建议用 DNS TXT 验证（域名在 NameSilo），Bing 可从 GSC 导入；验证与 sitemap 提交在仓库外操作，`head.html` 未留验证位 |
 | GA4 与隐私政策 | `docs/privacy.md` 仍声明不使用分析工具；接 GA4 前须先同步改写 7 语言隐私政策，否则前后矛盾 |
-| Service 结构化数据 | 八项服务尚未各输出 `Service` 对象，属审计 P1-2 的剩余部分 |
 | 图片性能 | `background.webp`（126 KB）比 `background.jpg`（68 KB）大，`head.html` 却优先 preload webp；内容图缺 `width`/`height` |
-| 服务页正文补强 | 锚点目录已有；定义句与 "when to book" 类小标题未补，属 P2-1 的剩余部分 |
 | 站外与内容运营 | 外链建设、各语言差异化运营、长文内容资产（P3，长期项） |
 
 以上待办均记录在 SEO-AUDIT.md 的对应编号下，动工前先读全文，按优先级推进。
