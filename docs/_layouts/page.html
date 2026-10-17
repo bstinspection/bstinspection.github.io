@@ -8,7 +8,13 @@ layout: default
 <main class="page-content">
   <div class="container page-layout">
     <article class="content-area">
-      <h1>{{ page.title }}</h1>
+      {% unless page.url contains '404' %}
+      <p class="breadcrumb">
+        <a href="{{ lang_prefix }}/">{{ site.data.i18n[page.lang].page.home }}</a> /
+        {{ page.heading | default: page.title }}
+      </p>
+      {% endunless %}
+      <h1>{{ page.heading | default: page.title }}</h1>
       {{ content }}
     </article>
     {% if page.sidebar != false %}

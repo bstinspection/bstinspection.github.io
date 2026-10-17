@@ -1,6 +1,8 @@
 ---
 layout: home
-title: الرئيسية
+heading: "الرئيسية"
+title: "فحص الجودة في الصين"
+description: "فحص جودة مستقل في الصين و8 دول آسيوية: تدقيق المصانع، ومراقبة الإنتاج، والإشراف على التحميل، مع تقارير بالإنجليزية."
 lang: ar
 sidebar: false
 hero_image: /images/background.jpg
@@ -116,6 +118,7 @@ hero_image: /images/background.jpg
         <div class="stat-label">{{ site.data.i18n[page.lang].stats.satisfaction }}</div>
       </div>
     </div>
+    <p class="stats-note">{{ site.data.i18n[page.lang].stats.coverage }} &middot; {{ site.data.i18n[page.lang].stats.countries_list }}</p>
   </div>
 </section>
 
@@ -130,7 +133,7 @@ hero_image: /images/background.jpg
       {% for post in lang_posts limit:3 %}
       <li class="news-item">
         <span class="news-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-        <a href="{{ post.url | relative_url }}" class="news-title">{{ post.title }}</a>
+        <a href="{{ post.url | relative_url }}" class="news-title">{{ post.heading | default: post.title }}</a>
       </li>
       {% endfor %}
     </ul>

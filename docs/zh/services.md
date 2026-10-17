@@ -1,10 +1,27 @@
 ---
 layout: page
-title: 我们的服务
+heading: "我们的服务"
+title: "工厂审核与验货服务全流程"
+description: "覆盖生产全周期的八项服务：工厂审核、社会责任审核、初期生产检查、过程质量控制、生产中期检查、最终随机抽样、装柜监督与测试安排。"
 lang: zh
 ---
 
 BST 提供全面的质量保证服务，涵盖生产和运输过程的每个阶段。
+
+<nav class="service-toc">
+  <p class="service-toc-title">{{ site.data.i18n[page.lang].nav.services }}</p>
+  <ul>
+    <li><a href="#fa">{{ site.data.i18n[page.lang].services.fa }}</a></li>
+    <li><a href="#sca">{{ site.data.i18n[page.lang].services.sca }}</a></li>
+    <li><a href="#ipc">{{ site.data.i18n[page.lang].services.ipc }}</a></li>
+    <li><a href="#ipqc">{{ site.data.i18n[page.lang].services.ipqc }}</a></li>
+    <li><a href="#dupro">{{ site.data.i18n[page.lang].services.dupro }}</a></li>
+    <li><a href="#fri">{{ site.data.i18n[page.lang].services.fri }}</a></li>
+    <li><a href="#ls">{{ site.data.i18n[page.lang].services.ls }}</a></li>
+    <li><a href="#ta">{{ site.data.i18n[page.lang].services.ta }}</a></li>
+    <li><a href="#ci">{{ site.data.i18n[page.lang].nav.contact }}</a></li>
+  </ul>
+</nav>
 
 ## 1. 工厂审核 (FA) {#fa}
 

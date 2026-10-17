@@ -1,6 +1,8 @@
 ---
 layout: page
-title: 质量链接
+heading: "质量链接"
+title: "质量标准与检测资源"
+description: "面向进口商的检验标准、检测机构与法规查询入口，涵盖 AQL 抽样表、主要市场的产品法规与常用第三方实验室。"
 lang: zh
 ---
 

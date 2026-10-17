@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Quality Standards
+heading: "Quality Standards"
+title: "AQL & MIL-STD-105E Standards"
+description: "BST applies AQL and MIL-STD-105E sampling to every inspection. Read how sample sizes, acceptance limits and defect classification work."
 lang: en
 permalink: /quality-standard/
 nav_order: 5

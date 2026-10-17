@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Contact Us
+heading: "Contact Us"
+title: "Contact BST in Guangzhou, China"
+description: "Contact BST in Guangzhou for a quote or inspection booking. Email, phone and WeChat details, plus our office address in Huangpu District."
 lang: en
 permalink: /contact/
 sidebar: false

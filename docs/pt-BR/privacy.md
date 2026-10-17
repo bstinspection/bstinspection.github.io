@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Política de privacidade
+heading: "Política de privacidade"
+title: "Política de privacidade"
+description: "Política de privacidade do bstinspection.com: quais dados a BST coleta, como as solicitações são usadas e por quanto tempo são mantidas."
 lang: pt-BR
 ---
 

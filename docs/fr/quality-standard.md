@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Normes de qualité
+heading: "Normes de qualité"
+title: "Normes AQL et MIL-STD-105E"
+description: "BST applique l'échantillonnage AQL et MIL-STD-105E à chaque contrôle. Taille d'échantillon, limites d'acceptation et classement des défauts."
 lang: fr
 ---
 

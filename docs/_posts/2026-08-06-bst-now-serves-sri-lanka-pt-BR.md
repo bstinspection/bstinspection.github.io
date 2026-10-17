@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST passa a atender o Sri Lanka"
+heading: "BST passa a atender o Sri Lanka"
+title: "Inspeções no Sri Lanka"
+description: "A BST passou a realizar auditorias de fábrica, controles em produção e supervisão de embarque no Sri Lanka, ampliando a rede no sul da Ásia."
 date: 2026-08-06 00:00:00 +0800
 lang: pt-BR
 permalink: /pt-BR/news/sri-lanka/

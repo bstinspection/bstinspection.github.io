@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Procedimento de pedido
+heading: "Procedimento de pedido"
+title: "Como contratar uma inspeção"
+description: "Quatro etapas: solicitação, confirmação do orçamento, agendamento da visita e entrega do relatório. O prazo usual é de 48 horas."
 lang: pt-BR
 ---
 

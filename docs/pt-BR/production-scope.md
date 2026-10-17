@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Escopo de produção
+heading: "Escopo de produção"
+title: "Produtos que inspecionamos"
+description: "Categorias inspecionadas pela BST: têxtil, calçados, eletrônicos, móveis, brinquedos, ferramentas e bens de consumo. Veja o escopo completo."
 lang: pt-BR
 ---
 

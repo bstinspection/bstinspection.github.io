@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Politique de confidentialité
+heading: "Politique de confidentialité"
+title: "Politique de confidentialité"
+description: "Politique de confidentialité de bstinspection.com : données collectées, usage des demandes de devis, durée de conservation et droits."
 lang: fr
 ---
 

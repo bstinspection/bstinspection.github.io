@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST Expands Service Coverage to India, Malaysia, Cambodia, and Thailand"
+heading: "BST Expands Service Coverage to India, Malaysia, Cambodia, and Thailand"
+title: "Inspections in India, Malaysia, Cambodia and Thailand"
+description: "BST now inspects in India, Malaysia, Cambodia and Thailand, giving importers a single quality partner across seven Asian countries."
 date: 2025-11-10 00:00:00 +0800
 lang: en
 permalink: /news/india-malaysia-cambodia-thailand/

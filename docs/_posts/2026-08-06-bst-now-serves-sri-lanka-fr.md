@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST dessert désormais le Sri Lanka"
+heading: "BST dessert désormais le Sri Lanka"
+title: "Inspections au Sri Lanka"
+description: "BST propose désormais audits d'usine, contrôles en production et supervision du chargement au Sri Lanka, complétant son réseau en Asie du Sud."
 date: 2026-08-06 00:00:00 +0800
 lang: fr
 permalink: /fr/news/sri-lanka/

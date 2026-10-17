@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Nouvelle adresse BST et coordonnées mises à jour"
+heading: "Nouvelle adresse BST et coordonnées mises à jour"
+title: "Nouvelle adresse de BST à Guangzhou"
+description: "BST a déménagé dans des locaux plus grands à Guangzhou pour accompagner la croissance de ses équipes. Nouvelle adresse et coordonnées."
 date: 2025-02-20 00:00:00 +0800
 lang: fr
 permalink: /fr/news/bst-new-office-address/

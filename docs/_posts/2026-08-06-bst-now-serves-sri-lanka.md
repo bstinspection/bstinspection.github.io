@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST Now Serves Sri Lanka"
+heading: "BST Now Serves Sri Lanka"
+title: "Inspection Services in Sri Lanka"
+description: "BST now provides factory audits, production checks and loading supervision in Sri Lanka, adding the country to its South Asian network."
 date: 2026-08-06 00:00:00 +0800
 lang: en
 permalink: /news/sri-lanka/

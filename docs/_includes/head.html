@@ -1,7 +1,77 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-<title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+{%- assign lang_prefix = '' -%}
+{%- if page.lang and page.lang != 'en' -%}
+  {%- assign lang_prefix = '/' | append: page.lang -%}
+{%- endif -%}
+{%- assign base_path = page.url -%}
+{%- if page.lang and page.lang != 'en' -%}
+  {%- assign lang_slash = page.lang | prepend: '/' -%}
+  {%- assign base_path = page.url | remove_first: lang_slash -%}
+{%- endif -%}
+{%- assign seo_title = page.title | default: 'BST Inspection' -%}
+{%- assign seo_desc = page.description | default: site.description -%}
+{%- assign og_locale = site.data.i18n[page.lang].misc.og_locale | default: 'en_US' -%}
+<title>{{ seo_title }} | BST Inspection</title>
+<meta name="description" content="{{ seo_desc }}">
+{%- if page.url contains '404' %}
+<meta name="robots" content="noindex, follow">
+{%- endif %}
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+{%- for l in site.available_langs %}
+<link rel="alternate" hreflang="{{ l }}" href="{{ site.url }}{% unless l == 'en' %}/{{ l }}{% endunless %}{{ base_path }}">
+{%- endfor %}
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ base_path }}">
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:site_name" content="BST Inspection">
+<meta property="og:title" content="{{ seo_title }}">
+<meta property="og:description" content="{{ seo_desc }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:image" content="{{ site.url }}/images/background.jpg">
+<meta property="og:locale" content="{{ og_locale }}">
+{%- for l in site.available_langs %}{% unless l == page.lang %}
+<meta property="og:locale:alternate" content="{{ site.data.i18n[l].misc.og_locale | default: 'en_US' }}">
+{%- endunless %}{% endfor %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ seo_title }}">
+<meta name="twitter:description" content="{{ seo_desc }}">
+<meta name="twitter:image" content="{{ site.url }}/images/background.jpg">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": "{{ site.url }}/#organization",
+  "name": "Guangzhou BST Technology Services Co., Ltd.",
+  "alternateName": "BST Inspection",
+  "url": "{{ site.url }}{{ lang_prefix }}/",
+  "logo": "{{ site.url }}/images/logo_%E9%80%8F%E6%98%8E.webp",
+  "image": "{{ site.url }}/images/background.jpg",
+  "description": {{ site.data.i18n[page.lang].footer.about | jsonify }},
+  "email": {{ site.data.i18n[page.lang].footer.email | jsonify }},
+  "telephone": {{ site.data.i18n[page.lang].footer.phone | jsonify }},
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District",
+    "addressLocality": "Guangzhou",
+    "addressRegion": "Guangdong",
+    "addressCountry": "CN"
+  },
+  "areaServed": ["CN", "VN", "IN", "BD", "TH", "MY", "KH", "LK"],
+  "knowsLanguage": ["en", "zh", "fr", "ru", "es", "pt", "ar"]
+}
+</script>
+{%- if page.layout == 'page' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": {{ site.data.i18n[page.lang].nav.home | jsonify }}, "item": "{{ site.url }}{{ lang_prefix }}/"},
+    {"@type": "ListItem", "position": 2, "name": {{ page.title | jsonify }}, "item": "{{ site.url }}{{ page.url }}"}
+  ]
+}
+</script>
+{%- endif %}
 <style>@font-face {
   font-family: 'Inter';
   font-style: normal;

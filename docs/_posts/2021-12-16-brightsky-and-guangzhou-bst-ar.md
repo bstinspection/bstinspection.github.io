@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Brightsky و Guangzhou BST — اندماج استراتيجي لتعزيز ضمان الجودة"
+heading: "Brightsky و Guangzhou BST — اندماج استراتيجي لتعزيز ضمان الجودة"
+title: "اكتمال اندماج BST وBrightsky"
+description: "أكملت Brightsky Technology Services في هونغ كونغ وGuangzhou BST اندماجهما لتشكيل منصة موحدة لضمان الجودة تخدم المستوردين في آسيا."
 date: 2021-12-16 00:00:00 +0800
 lang: ar
 permalink: /ar/news/brightsky-and-guangzhou-bst/

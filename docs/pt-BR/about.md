@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Sobre nós
+heading: "Sobre nós"
+title: "Sobre a BST: parceira de qualidade"
+description: "A BST é uma empresa de garantia de qualidade em Guangzhou. Atendemos importadores na China e em 8 países da Ásia, com inspeção na fábrica."
 lang: pt-BR
 ---
 

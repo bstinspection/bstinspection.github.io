@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Brightsky et Guangzhou BST — Une fusion stratégique pour une assurance qualité renforcée"
+heading: "Brightsky et Guangzhou BST — Une fusion stratégique pour une assurance qualité renforcée"
+title: "Fusion de BST et Brightsky"
+description: "Brightsky Technology Services (Hong Kong) et Guangzhou BST ont finalisé leur fusion, formant une plateforme unique d'assurance qualité en Asie."
 date: 2021-12-16 00:00:00 +0800
 lang: fr
 permalink: /fr/news/brightsky-and-guangzhou-bst/

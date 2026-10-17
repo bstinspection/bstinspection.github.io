@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Terms and Conditions
+heading: "Terms and Conditions"
+title: "Terms and Conditions"
+description: "Terms and conditions covering inspection bookings, report delivery, liability and payment for BST quality assurance services."
 lang: en
 permalink: /terms/
 nav_order: 7

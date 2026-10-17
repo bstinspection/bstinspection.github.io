@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Preços
+heading: "Preços"
+title: "Preços de inspeção na China"
+description: "O preço depende do serviço, dos dias de trabalho e da localização. Solicite orçamento para auditoria, controle em produção ou embarque."
 lang: pt-BR
 ---
 

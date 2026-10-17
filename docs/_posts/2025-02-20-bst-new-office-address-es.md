@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Nueva dirección de BST e información de contacto actualizada"
+heading: "Nueva dirección de BST e información de contacto actualizada"
+title: "Nueva oficina de BST en Guangzhou"
+description: "BST se ha trasladado a una oficina más amplia en Guangzhou para ampliar su equipo de inspectores. Nueva dirección y datos de contacto."
 date: 2025-02-20 00:00:00 +0800
 lang: es
 permalink: /es/news/bst-new-office-address/

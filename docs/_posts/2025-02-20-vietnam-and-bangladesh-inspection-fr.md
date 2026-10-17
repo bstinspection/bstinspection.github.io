@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST étend sa couverture de services au Vietnam et au Bangladesh"
+heading: "BST étend sa couverture de services au Vietnam et au Bangladesh"
+title: "Inspections au Vietnam et au Bangladesh"
+description: "BST étend sa couverture au Vietnam et au Bangladesh, deux pôles manufacturiers en croissance. Audits, contrôles et supervision sur place."
 date: 2025-02-20 00:00:00 +0800
 lang: fr
 permalink: /fr/news/vietnam-and-bangladesh-inspection/

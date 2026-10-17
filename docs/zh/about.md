@@ -1,6 +1,8 @@
 ---
 layout: page
-title: 关于我们
+heading: "关于我们"
+title: "关于 BST：亚洲质量保证伙伴"
+description: "BST 是一家位于广州的第三方质量保证公司，为从中国及亚洲八国采购的进口商与零售商提供驻厂检验服务，团队覆盖主要制造基地。"
 lang: zh
 ---
 

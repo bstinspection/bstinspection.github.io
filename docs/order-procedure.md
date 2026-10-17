@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Order Procedure
+heading: "Order Procedure"
+title: "How to Book an Inspection in 4 Steps"
+description: "Book an inspection in four steps: send the request, confirm the quote, schedule the visit and receive the report. Typical lead time is 48 hours."
 lang: en
 permalink: /order-procedure/
 nav_order: 6

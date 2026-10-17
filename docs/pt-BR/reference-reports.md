@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Relatórios de referência
+heading: "Relatórios de referência"
+title: "Exemplos de relatórios de inspeção"
+description: "Veja relatórios de exemplo da BST: constatações, fotos, classificação de defeitos e medições como aparecem no PDF final."
 lang: pt-BR
 ---
 

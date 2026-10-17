@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Entre em contato
+heading: "Entre em contato"
+title: "Fale com a BST em Guangzhou"
+description: "Fale com a BST em Guangzhou para orçamento ou agendamento de inspeção. E-mail, telefone, WeChat e endereço no distrito de Huangpu."
 lang: pt-BR
 sidebar: false
 ---

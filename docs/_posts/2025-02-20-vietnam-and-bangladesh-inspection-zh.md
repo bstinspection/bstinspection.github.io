@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST 服务覆盖扩展至越南和孟加拉"
+heading: "BST 服务覆盖扩展至越南和孟加拉"
+title: "越南与孟加拉检验服务上线"
+description: "BST 的服务范围扩展至越南与孟加拉两大新兴制造基地，可在当地执行工厂审核、过程检查与装柜监督。"
 date: 2025-02-20 00:00:00 +0800
 lang: zh
 permalink: /zh/news/vietnam-and-bangladesh-inspection/

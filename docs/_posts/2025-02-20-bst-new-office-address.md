@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST New Office Address and Updated Contact Information"
+heading: "BST New Office Address and Updated Contact Information"
+title: "BST New Office Address in Guangzhou"
+description: "BST has moved to a larger office in Guangzhou to support a growing inspection team. New address, phone and contact details for clients."
 date: 2025-02-20 00:00:00 +0800
 lang: en
 ---

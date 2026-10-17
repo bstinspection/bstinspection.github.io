@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST comienza a prestar servicios en Sri Lanka"
+heading: "BST comienza a prestar servicios en Sri Lanka"
+title: "Inspecciones en Sri Lanka"
+description: "BST ya realiza auditorías de fábrica, controles en producción y supervisión de carga en Sri Lanka, ampliando su red en el sur de Asia."
 date: 2026-08-06 00:00:00 +0800
 lang: es
 permalink: /es/news/sri-lanka/

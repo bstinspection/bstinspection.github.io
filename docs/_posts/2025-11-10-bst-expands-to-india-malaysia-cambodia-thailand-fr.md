@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST étend sa couverture de services à l'Inde, la Malaisie, le Cambodge et la Thaïlande"
+heading: "BST étend sa couverture de services à l'Inde, la Malaisie, le Cambodge et la Thaïlande"
+title: "Inspections en Inde, Malaisie, Cambodge et Thaïlande"
+description: "BST intervient désormais en Inde, Malaisie, Cambodge et Thaïlande, avec un seul partenaire qualité dans sept pays d'Asie."
 date: 2025-11-10 00:00:00 +0800
 lang: fr
 permalink: /fr/news/india-malaysia-cambodia-thailand/

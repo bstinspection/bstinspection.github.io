@@ -14,8 +14,8 @@ en:
     reports: "Reference Reports"
     links: "Quality Links"
   hero:
-    title: "Guangzhou BST Tech."
-    subtitle: "Independent Third-Party Quality Assurance — Justice, Integrity, Science"
+    title: "Third-Party Quality Inspection in China"
+    subtitle: "Factory audits, production checks and loading supervision across 8 Asian countries."
     cta: "Explore Our Services"
     cta2: "Contact Us"
   footer:
@@ -44,6 +44,8 @@ en:
     global: "Global Coverage"
     global_desc: "Services across China, Cambodia, Malaysia, Thailand, Vietnam, India, Bangladesh, and Sri Lanka covering all major manufacturing hubs in Asia."
   stats:
+    coverage: "Service coverage"
+    countries_list: "China, Vietnam, India, Bangladesh, Thailand, Malaysia, Cambodia, Sri Lanka"
     years: "Years of Experience"
     countries: "Countries Covered"
     projects: "Projects Completed"
@@ -77,6 +79,7 @@ en:
     title: "Our Services"
     subtitle: "BST provides comprehensive quality assurance services throughout your supply chain."
   misc:
+    og_locale: "en_US"
     logo_alt: "BST Logo"
     menu_toggle: "Toggle menu"
     page_not_found: "Page Not Found"
@@ -99,8 +102,8 @@ zh:
     reports: "参考报告"
     links: "质量链接"
   hero:
-    title: "广州睿翔技术服务有限公司"
-    subtitle: "独立第三方质量保证 — 公正、诚信、科学"
+    title: "中国第三方验货与质量保证"
+    subtitle: "覆盖亚洲八国的工厂审核、过程检查与装柜监督服务。"
     cta: "查看服务项目"
     cta2: "联系我们"
   footer:
@@ -129,6 +132,8 @@ zh:
     global: "全球覆盖"
     global_desc: "服务覆盖中国、柬埔寨、马来西亚、泰国、越南、印度、孟加拉、斯里兰卡等亚洲主要制造中心。"
   stats:
+    coverage: "服务覆盖"
+    countries_list: "中国、越南、印度、孟加拉、泰国、马来西亚、柬埔寨、斯里兰卡"
     years: "从业年限"
     countries: "覆盖国家"
     projects: "完成项目"
@@ -162,6 +167,7 @@ zh:
     title: "我们的服务"
     subtitle: "BST 为您的供应链提供全面的质量保证服务。"
   misc:
+    og_locale: "zh_CN"
     logo_alt: "BST 标志"
     menu_toggle: "切换菜单"
     page_not_found: "页面未找到"
@@ -184,8 +190,8 @@ fr:
     reports: "Rapports de référence"
     links: "Liens qualité"
   hero:
-    title: "Guangzhou BST Tech."
-    subtitle: "Assurance qualité indépendante — Justice, Intégrité, Science"
+    title: "Inspection qualité tierce partie en Chine"
+    subtitle: "Audits d'usine, contrôles en production et supervision du chargement dans 8 pays d'Asie."
     cta: "Découvrir nos services"
     cta2: "Contactez-nous"
   footer:
@@ -214,6 +220,8 @@ fr:
     global: "Couverture mondiale"
     global_desc: "Services en Chine, au Cambodge, en Malaisie, en Thaïlande, au Vietnam, en Inde, au Bangladesh et au Sri Lanka, couvrant tous les principaux centres de fabrication en Asie."
   stats:
+    coverage: "Périmètre d'intervention"
+    countries_list: "Chine, Vietnam, Inde, Bangladesh, Thaïlande, Malaisie, Cambodge, Sri Lanka"
     years: "Années d'expérience"
     countries: "Pays couverts"
     projects: "Projets réalisés"
@@ -247,6 +255,7 @@ fr:
     title: "Nos services"
     subtitle: "BST fournit des services complets d'assurance qualité tout au long de votre chaîne d'approvisionnement."
   misc:
+    og_locale: "fr_FR"
     logo_alt: "Logo BST"
     menu_toggle: "Basculer le menu"
     page_not_found: "Page non trouvée"
@@ -269,8 +278,8 @@ ru:
     reports: "Примеры отчетов"
     links: "Полезные ссылки"
   hero:
-    title: "Guangzhou BST Tech."
-    subtitle: "Независимая гарантия качества — Справедливость, Честность, Наука"
+    title: "Независимая инспекция качества в Китае"
+    subtitle: "Аудит фабрик, проверки в процессе производства и надзор при погрузке в 8 странах Азии."
     cta: "Наши услуги"
     cta2: "Связаться с нами"
   footer:
@@ -299,6 +308,8 @@ ru:
     global: "Глобальный охват"
     global_desc: "Услуги в Китае, Камбодже, Малайзии, Таиланде, Вьетнаме, Индии, Бангладеш и Шри-Ланке, охватывающие все основные производственные центры Азии."
   stats:
+    coverage: "География услуг"
+    countries_list: "Китай, Вьетнам, Индия, Бангладеш, Таиланд, Малайзия, Камбоджа, Шри-Ланка"
     years: "Лет опыта"
     countries: "Охвачено стран"
     projects: "Выполнено проектов"
@@ -332,6 +343,7 @@ ru:
     title: "Наши услуги"
     subtitle: "BST предоставляет комплексные услуги по обеспечению качества по всей вашей цепочке поставок."
   misc:
+    og_locale: "ru_RU"
     logo_alt: "Логотип BST"
     menu_toggle: "Переключить меню"
     page_not_found: "Страница не найдена"
@@ -354,8 +366,8 @@ es:
     reports: "Informes de referencia"
     links: "Enlaces de calidad"
   hero:
-    title: "Guangzhou BST Tech."
-    subtitle: "Aseguramiento de calidad independiente — Justicia, Integridad, Ciencia"
+    title: "Inspección de calidad independiente en China"
+    subtitle: "Auditorías de fábrica, controles en producción y supervisión de carga en 8 países de Asia."
     cta: "Explorar servicios"
     cta2: "Contáctenos"
   footer:
@@ -384,6 +396,8 @@ es:
     global: "Cobertura global"
     global_desc: "Servicios en China, Camboya, Malasia, Tailandia, Vietnam, India, Bangladés y Sri Lanka, cubriendo todos los principales centros de fabricación en Asia."
   stats:
+    coverage: "Cobertura de servicio"
+    countries_list: "China, Vietnam, India, Bangladés, Tailandia, Malasia, Camboya, Sri Lanka"
     years: "Años de experiencia"
     countries: "Países cubiertos"
     projects: "Proyectos completados"
@@ -417,6 +431,7 @@ es:
     title: "Nuestros servicios"
     subtitle: "BST brinda servicios integrales de aseguramiento de calidad en toda su cadena de suministro."
   misc:
+    og_locale: "es_ES"
     logo_alt: "Logotipo de BST"
     menu_toggle: "Alternar menú"
     page_not_found: "Página no encontrada"
@@ -439,8 +454,8 @@ pt-BR:
     reports: "Relatórios de referência"
     links: "Links de qualidade"
   hero:
-    title: "Guangzhou BST Tech."
-    subtitle: "Garantia de qualidade independente — Justiça, Integridade, Ciência"
+    title: "Inspeção de qualidade independente na China"
+    subtitle: "Auditorias de fábrica, controles em produção e supervisão de embarque em 8 países da Ásia."
     cta: "Conheça nossos serviços"
     cta2: "Entre em contato"
   footer:
@@ -469,6 +484,8 @@ pt-BR:
     global: "Cobertura global"
     global_desc: "Serviços na China, Camboja, Malásia, Tailândia, Vietnã, Índia, Bangladesh e Sri Lanka, abrangendo todos os principais polos industriais da Ásia."
   stats:
+    coverage: "Cobertura de atendimento"
+    countries_list: "China, Vietnã, Índia, Bangladesh, Tailândia, Malásia, Camboja, Sri Lanka"
     years: "Anos de experiência"
     countries: "Países atendidos"
     projects: "Projetos concluídos"
@@ -502,6 +519,7 @@ pt-BR:
     title: "Nossos serviços"
     subtitle: "A BST oferece serviços abrangentes de garantia de qualidade em toda a sua cadeia de suprimentos."
   misc:
+    og_locale: "pt_BR"
     logo_alt: "Logotipo da BST"
     menu_toggle: "Alternar menu"
     page_not_found: "Página não encontrada"
@@ -524,8 +542,8 @@ ar:
     reports: "تقارير مرجعية"
     links: "روابط الجودة"
   hero:
-    title: "Guangzhou BST Tech."
-    subtitle: "ضمان الجودة المستقل — العدالة، النزاهة، العلم"
+    title: "فحص الجودة المستقل في الصين"
+    subtitle: "تدقيق المصانع ومراقبة الإنتاج والإشراف على التحميل في 8 دول آسيوية."
     cta: "استكشف خدماتنا"
     cta2: "اتصل بنا"
   footer:
@@ -554,6 +572,8 @@ ar:
     global: "تغطية عالمية"
     global_desc: "خدمات في الصين وكمبوديا وماليزيا وتايلاند وفيتنام والهند وبنغلاديش وسريلانكا تغطي جميع مراكز التصنيع الرئيسية في آسيا."
   stats:
+    coverage: "نطاق الخدمة"
+    countries_list: "الصين، فيتنام، الهند، بنغلاديش، تايلاند، ماليزيا، كمبوديا، سريلانكا"
     years: "سنوات الخبرة"
     countries: "الدول المغطاة"
     projects: "المشاريع المنجزة"
@@ -587,6 +607,7 @@ ar:
     title: "خدماتنا"
     subtitle: "توفر BST خدمات شاملة لضمان الجودة عبر سلسلة التوريد الخاصة بك."
   misc:
+    og_locale: "ar_AR"
     logo_alt: "شعار BST"
     menu_toggle: "تبديل القائمة"
     page_not_found: "الصفحة غير موجودة"

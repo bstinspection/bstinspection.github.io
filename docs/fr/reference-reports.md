@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Rapports de référence
+heading: "Rapports de référence"
+title: "Exemples de rapports d'inspection"
+description: "Consultez des exemples de rapports BST : constats, photos, classement des défauts et mesures, tels qu'ils figurent dans le PDF final."
 lang: fr
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST 全新多语言网站正式上线"
+heading: "BST 全新多语言网站正式上线"
+title: "BST 官网升级为七种语言"
+description: "BST 官网现提供中文、英文、法语、俄语、西班牙语、葡萄牙语与阿拉伯语七个版本，各语言内容保持一致。"
 date: 2026-07-21 00:00:00 +0800
 lang: zh
 permalink: /zh/news/bst-launches-new-multi-language-website/

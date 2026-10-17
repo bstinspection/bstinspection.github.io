@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST 新办公地址及更新联系方式"
+heading: "BST 新办公地址及更新联系方式"
+title: "BST 广州办公室搬迁新址"
+description: "BST 广州办公室已迁至更大场地，以容纳持续扩充的验货团队。此页列出新的办公地址、联系电话与对接方式。"
 date: 2025-02-20 00:00:00 +0800
 lang: zh
 permalink: /zh/news/bst-new-office-address/

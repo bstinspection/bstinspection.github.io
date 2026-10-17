@@ -15,6 +15,9 @@ available_langs:
   - pt-BR
   - ar
 
+plugins:
+  - jekyll-sitemap
+
 markdown: kramdown
 kramdown:
   input: GFM

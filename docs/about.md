@@ -1,6 +1,8 @@
 ---
 layout: page
-title: About Us
+heading: "About Us"
+title: "About BST Inspection: QA Partner in Asia"
+description: "BST is a Guangzhou quality assurance firm serving importers and retailers sourcing from China and 8 Asian countries. Independent, factory-floor based."
 lang: en
 permalink: /about/
 nav_order: 1

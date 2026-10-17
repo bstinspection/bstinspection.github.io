@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST 服务覆盖扩展至印度、马来西亚、柬埔寨和泰国"
+heading: "BST 服务覆盖扩展至印度、马来西亚、柬埔寨和泰国"
+title: "印度、马来西亚、柬埔寨与泰国检验服务"
+description: "BST 的服务网络新增印度、马来西亚、柬埔寨与泰国，进口商可在七个亚洲国家使用同一套检验标准与报告格式。"
 date: 2025-11-10 00:00:00 +0800
 lang: zh
 permalink: /zh/news/india-malaysia-cambodia-thailand/

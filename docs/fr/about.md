@@ -1,6 +1,8 @@
 ---
 layout: page
-title: À propos
+heading: "À propos"
+title: "À propos de BST : assurance qualité"
+description: "BST est une société d'assurance qualité basée à Guangzhou. Nous accompagnons les importateurs en Chine et dans 8 pays d'Asie, sur le terrain."
 lang: fr
 ---
 

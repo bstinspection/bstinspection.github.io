@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Brightsky и Guangzhou BST — стратегическое слияние для усиления контроля качества"
+heading: "Brightsky и Guangzhou BST — стратегическое слияние для усиления контроля качества"
+title: "BST и Brightsky завершили слияние"
+description: "Brightsky Technology Services (Гонконг) и Guangzhou BST завершили слияние, создав единую платформу обеспечения качества для импортеров в Азии."
 date: 2021-12-16 00:00:00 +0800
 lang: ru
 permalink: /ru/news/brightsky-and-guangzhou-bst/

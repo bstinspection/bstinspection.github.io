@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Términos y condiciones
+heading: "Términos y condiciones"
+title: "Términos y condiciones"
+description: "Términos y condiciones de los servicios BST: reserva de inspecciones, entrega de informes, responsabilidad y condiciones de pago."
 lang: es
 ---
 

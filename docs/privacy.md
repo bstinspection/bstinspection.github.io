@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Privacy Policy
+heading: "Privacy Policy"
+title: "Privacy Policy"
+description: "Privacy policy for bstinspection.com: what data BST collects, how enquiry information is used and how long it is retained."
 lang: en
 permalink: /privacy/
 nav_order: 8

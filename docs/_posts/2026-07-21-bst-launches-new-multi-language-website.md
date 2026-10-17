@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST Launches Brand New Multi-Language Website"
+heading: "BST Launches Brand New Multi-Language Website"
+title: "BST Website Now Available in Seven Languages"
+description: "The BST website is now published in English, Chinese, French, Russian, Spanish, Portuguese and Arabic, with the same content in each language."
 date: 2026-07-21 00:00:00 +0800
 lang: en
 ---

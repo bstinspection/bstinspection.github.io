@@ -1,6 +1,8 @@
 ---
 layout: page
-title: 质量标准
+heading: "质量标准"
+title: "AQL 与 MIL-STD-105E 抽样标准"
+description: "BST 的检验按 AQL 与 MIL-STD-105E 抽样方案执行。本页说明抽样数量、允收上限与缺陷分级的具体判定方式。"
 lang: zh
 ---
 

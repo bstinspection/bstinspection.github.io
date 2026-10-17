@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Quality Links
+heading: "Quality Links"
+title: "Quality Standards & Testing Resources"
+description: "Standards, testing laboratories and reference material for importers sourcing from Asia. Curated links to AQL tables and product regulations."
 lang: en
 permalink: /quality-link/
 nav_order: 9

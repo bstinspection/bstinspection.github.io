@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST запускает новый многоязычный веб-сайт"
+heading: "BST запускает новый многоязычный веб-сайт"
+title: "Сайт BST теперь на семи языках"
+description: "Сайт BST доступен на английском, китайском, французском, русском, испанском, португальском и арабском языках."
 date: 2026-07-21 00:00:00 +0800
 lang: ru
 permalink: /ru/news/bst-launches-new-multi-language-website/

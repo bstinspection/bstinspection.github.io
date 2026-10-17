@@ -1,6 +1,8 @@
 ---
 layout: page
-title: معايير الجودة
+heading: "معايير الجودة"
+title: "معايير AQL و MIL-STD-105E"
+description: "تطبّق BST أسلوب أخذ العينات وفق AQL وMIL-STD-105E، وتوضح هذه الصفحة حجم العينة وحدود القبول وتصنيف العيوب."
 lang: ar
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Pricing
+heading: "Pricing"
+title: "Inspection Pricing & Quotes in China"
+description: "Inspection fees depend on service type, man-days and location. Request a quote for factory audits, production checks or loading supervision."
 lang: en
 permalink: /pricing/
 nav_order: 4

@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Portée de production
+heading: "Portée de production"
+title: "Produits contrôlés en Chine et Asie"
+description: "Catégories contrôlées par BST : textile, chaussures, électronique, mobilier, jouets, quincaillerie et biens de consommation. Voir le périmètre."
 lang: fr
 ---
 

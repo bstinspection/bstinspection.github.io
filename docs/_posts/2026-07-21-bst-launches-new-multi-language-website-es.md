@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST lanza su nuevo sitio web multilingüe"
+heading: "BST lanza su nuevo sitio web multilingüe"
+title: "El sitio de BST ya está en siete idiomas"
+description: "El sitio de BST se publica ahora en inglés, chino, francés, ruso, español, portugués y árabe, con el mismo contenido."
 date: 2026-07-21 00:00:00 +0800
 lang: es
 permalink: /es/news/bst-launches-new-multi-language-website/

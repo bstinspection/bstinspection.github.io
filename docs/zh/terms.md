@@ -1,6 +1,8 @@
 ---
 layout: page
-title: 服务条款
+heading: "服务条款"
+title: "服务条款"
+description: "BST 服务条款，涵盖验货预约、报告交付、责任范围与付款安排等事项，适用于全部检验与审核服务。"
 lang: zh
 ---
 

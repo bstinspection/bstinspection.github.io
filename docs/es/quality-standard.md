@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Estándares de calidad
+heading: "Estándares de calidad"
+title: "Normas AQL y MIL-STD-105E"
+description: "BST aplica muestreo AQL y MIL-STD-105E en cada inspección. Tamaño de muestra, límites de aceptación y clasificación de defectos."
 lang: es
 ---
 
@@ -58,6 +60,6 @@ Los defectos menores normalmente no afectan el uso normal, pero la calidad del p
 | 150001 to 500000 | D | E | G | J | M | P | Q |
 | 500001 and over | D | E | H | K | N | Q | R |
 
-![Single Sampling Plans for Normal Inspection (MIL-STD-105E)]({{ '/images/Table-mil-std_105_e-5.webp' | relative_url }})
+![Planes de muestreo simple para inspección normal (MIL-STD-105E)]({{ '/images/Table-mil-std_105_e-5.webp' | relative_url }})
 
 Los estándares de calidad de BST se basan en las tablas MIL-STD-105E que se muestran arriba.

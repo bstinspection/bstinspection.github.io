@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "BST 即日起正式为斯里兰卡提供服务"
+heading: "BST 即日起正式为斯里兰卡提供服务"
+title: "斯里兰卡检验服务上线"
+description: "BST 即日起在斯里兰卡提供工厂审核、过程检查与装柜监督服务，南亚服务网络进一步完善。"
 date: 2026-08-06 00:00:00 +0800
 lang: zh
 permalink: /zh/news/sri-lanka/

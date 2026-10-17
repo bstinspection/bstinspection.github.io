@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Brightsky and Guangzhou BST — A Strategic Merger for Enhanced Quality Assurance"
+heading: "Brightsky and Guangzhou BST — A Strategic Merger for Enhanced Quality Assurance"
+title: "BST and Brightsky Complete Strategic Merger"
+description: "Brightsky Technology Services in Hong Kong and Guangzhou BST have merged into one quality assurance platform serving importers across Asia."
 date: 2021-12-16 00:00:00 +0800
 lang: en
 ---

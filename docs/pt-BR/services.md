@@ -1,10 +1,27 @@
 ---
 layout: page
-title: Nossos serviços
+heading: "Nossos serviços"
+title: "Auditoria de fábrica e inspeções"
+description: "Oito serviços em todo o ciclo produtivo: auditoria de fábrica, conformidade social, IPC, IPQC, DUPRO, inspeção final e supervisão de embarque."
 lang: pt-BR
 ---
 
 A BST oferece uma gama completa de serviços de garantia da qualidade, cobrindo todas as etapas do processo de produção e embarque.
+
+<nav class="service-toc">
+  <p class="service-toc-title">{{ site.data.i18n[page.lang].nav.services }}</p>
+  <ul>
+    <li><a href="#fa">{{ site.data.i18n[page.lang].services.fa }}</a></li>
+    <li><a href="#sca">{{ site.data.i18n[page.lang].services.sca }}</a></li>
+    <li><a href="#ipc">{{ site.data.i18n[page.lang].services.ipc }}</a></li>
+    <li><a href="#ipqc">{{ site.data.i18n[page.lang].services.ipqc }}</a></li>
+    <li><a href="#dupro">{{ site.data.i18n[page.lang].services.dupro }}</a></li>
+    <li><a href="#fri">{{ site.data.i18n[page.lang].services.fri }}</a></li>
+    <li><a href="#ls">{{ site.data.i18n[page.lang].services.ls }}</a></li>
+    <li><a href="#ta">{{ site.data.i18n[page.lang].services.ta }}</a></li>
+    <li><a href="#ci">{{ site.data.i18n[page.lang].nav.contact }}</a></li>
+  </ul>
+</nav>
 
 ## 1. Auditoria de Fábrica (FA) {#fa}
 

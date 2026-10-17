@@ -1,12 +1,29 @@
 ---
 layout: page
-title: Our Services
+heading: "Our Services"
+title: "Factory Audit & Inspection Services"
+description: "Eight inspection services covering the full production cycle: factory audit, social compliance, IPC, IPQC, DUPRO, final random inspection and loading."
 lang: en
 permalink: /services/
 nav_order: 2
 ---
 
 BST offers a comprehensive range of quality assurance services covering every stage of the production and shipping process.
+
+<nav class="service-toc">
+  <p class="service-toc-title">{{ site.data.i18n[page.lang].nav.services }}</p>
+  <ul>
+    <li><a href="#fa">{{ site.data.i18n[page.lang].services.fa }}</a></li>
+    <li><a href="#sca">{{ site.data.i18n[page.lang].services.sca }}</a></li>
+    <li><a href="#ipc">{{ site.data.i18n[page.lang].services.ipc }}</a></li>
+    <li><a href="#ipqc">{{ site.data.i18n[page.lang].services.ipqc }}</a></li>
+    <li><a href="#dupro">{{ site.data.i18n[page.lang].services.dupro }}</a></li>
+    <li><a href="#fri">{{ site.data.i18n[page.lang].services.fri }}</a></li>
+    <li><a href="#ls">{{ site.data.i18n[page.lang].services.ls }}</a></li>
+    <li><a href="#ta">{{ site.data.i18n[page.lang].services.ta }}</a></li>
+    <li><a href="#ci">{{ site.data.i18n[page.lang].nav.contact }}</a></li>
+  </ul>
+</nav>
 
 ## 1. Factory Audit (FA) {#fa}
 

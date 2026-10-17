@@ -1,6 +1,8 @@
 ---
 layout: home
-title: 首页
+heading: "首页"
+title: "中国第三方验货与质量检验"
+description: "BST 为从中国及亚洲八国采购的进口商、零售商与分销商提供独立第三方验货、工厂审核与装柜监督服务，48 小时内出具英文报告。"
 lang: zh
 sidebar: false
 hero_image: /images/background.jpg
@@ -116,6 +118,7 @@ hero_image: /images/background.jpg
         <div class="stat-label">{{ site.data.i18n[page.lang].stats.satisfaction }}</div>
       </div>
     </div>
+    <p class="stats-note">{{ site.data.i18n[page.lang].stats.coverage }} &middot; {{ site.data.i18n[page.lang].stats.countries_list }}</p>
   </div>
 </section>
 
@@ -130,7 +133,7 @@ hero_image: /images/background.jpg
       {% for post in lang_posts limit:3 %}
       <li class="news-item">
         <span class="news-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-        <a href="{{ post.url | relative_url }}" class="news-title">{{ post.title }}</a>
+        <a href="{{ post.url | relative_url }}" class="news-title">{{ post.heading | default: post.title }}</a>
       </li>
       {% endfor %}
     </ul>

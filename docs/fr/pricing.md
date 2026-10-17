@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Tarifs
+heading: "Tarifs"
+title: "Tarifs des inspections en Chine"
+description: "Les tarifs dépendent du type de prestation, du nombre de jours et de la zone. Demandez un devis pour un audit, un contrôle ou un chargement."
 lang: fr
 ---
 

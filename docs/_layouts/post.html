@@ -5,15 +5,26 @@ layout: default
 {% if page.lang and page.lang != 'en' %}
   {% assign lang_prefix = '/' | append: page.lang %}
 {% endif %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": {{ site.data.i18n[page.lang].nav.home | jsonify }}, "item": "{{ site.url }}{{ lang_prefix }}/"},
+    {"@type": "ListItem", "position": 2, "name": {{ site.data.i18n[page.lang].news.title | jsonify }}, "item": "{{ site.url }}{{ lang_prefix }}/news/"},
+    {"@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ site.url }}{{ page.url }}"}
+  ]
+}
+</script>
 <main class="page-content">
   <div class="container">
     <article class="content-area post-full">
       <p class="breadcrumb">
         <a href="{{ lang_prefix }}/">{{ site.data.i18n[page.lang].page.home }}</a> /
         <a href="{{ lang_prefix }}/news/">{{ site.data.i18n[page.lang].news.title }}</a> /
-        {{ page.title }}
+        {{ page.heading | default: page.title }}
       </p>
-      <h1>{{ page.title }}</h1>
+      <h1>{{ page.heading | default: page.title }}</h1>
       <p class="post-meta">{{ page.date | date: "%Y-%m-%d" }}</p>
       {{ content }}
       <p class="post-back"><a href="{{ lang_prefix }}/news/">&larr; {{ site.data.i18n[page.lang].news.back }}</a></p>

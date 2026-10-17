@@ -1,6 +1,8 @@
 ---
 layout: page
-title: اتصل بنا
+heading: "اتصل بنا"
+title: "تواصل مع BST في قوانغتشو"
+description: "تواصل مع BST في قوانغتشو لطلب عرض سعر أو حجز فحص. بريد إلكتروني وهاتف وWeChat وعنوان المكتب في حي هوانغبو."
 lang: ar
 sidebar: false
 ---

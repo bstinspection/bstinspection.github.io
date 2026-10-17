@@ -1,6 +1,8 @@
 ---
 layout: page
-title: 隐私政策
+heading: "隐私政策"
+title: "隐私政策"
+description: "bstinspection.com 的隐私政策，说明 BST 收集哪些信息、询盘数据如何被使用与保存，以及用户的权利与联系方式。"
 lang: zh
 ---
 

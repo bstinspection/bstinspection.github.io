@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Production Scope
+heading: "Production Scope"
+title: "Products We Inspect in China & Asia"
+description: "Product categories BST inspects in China and Asia, from textiles and footwear to electronics, furniture, toys and hardware. See the full scope."
 lang: en
 permalink: /production-scope/
 nav_order: 3

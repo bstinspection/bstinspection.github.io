@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Informes de referencia
+heading: "Informes de referencia"
+title: "Ejemplos de informes de inspección"
+description: "Consulte informes de ejemplo de BST: hallazgos, fotografías, clasificación de defectos y mediciones tal como aparecen en el PDF final."
 lang: es
 ---
 

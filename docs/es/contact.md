@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Contáctenos
+heading: "Contáctenos"
+title: "Contacto con BST en Guangzhou"
+description: "Contacte con BST en Guangzhou para un presupuesto o reservar una inspección. Correo, teléfono, WeChat y dirección en el distrito de Huangpu."
 lang: es
 sidebar: false
 ---

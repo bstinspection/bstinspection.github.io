@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Conditions générales
+heading: "Conditions générales"
+title: "Conditions générales"
+description: "Conditions générales couvrant la réservation, la remise des rapports, la responsabilité et le paiement des prestations BST."
 lang: fr
 ---
 

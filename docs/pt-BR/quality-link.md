@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Links de qualidade
+heading: "Links de qualidade"
+title: "Normas e recursos de qualidade"
+description: "Normas, laboratórios e material de referência para importadores na Ásia: tabelas AQL, regulamentos de produto e laboratórios independentes."
 lang: pt-BR
 ---
 

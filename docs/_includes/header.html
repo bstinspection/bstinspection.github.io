@@ -3,6 +3,7 @@
   {% assign lang_prefix = '/' | append: page.lang %}
 {% endif %}
 {% assign base_path = page.url %}
+{% if page.url contains '404' %}{% assign base_path = '/' %}{% endif %}
 {% if page.lang and page.lang != 'en' %}
   {% assign lang_slash = page.lang | prepend: '/' %}
   {% assign base_path = page.url | remove_first: lang_slash %}

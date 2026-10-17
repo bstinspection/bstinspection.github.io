@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Alcance de producción
+heading: "Alcance de producción"
+title: "Productos que inspeccionamos"
+description: "Categorías que inspecciona BST: textil, calzado, electrónica, muebles, juguetes, ferretería y bienes de consumo. Consulte el alcance completo."
 lang: es
 ---
 

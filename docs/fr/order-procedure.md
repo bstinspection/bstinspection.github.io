@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Procédure de commande
+heading: "Procédure de commande"
+title: "Commander une inspection en 4 étapes"
+description: "Quatre étapes : demande, confirmation du devis, planification et remise du rapport. Le délai habituel est de 48 heures après confirmation."
 lang: fr
 ---
 

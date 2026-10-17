@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Nosotros
+heading: "Nosotros"
+title: "Sobre BST: socio de calidad en Asia"
+description: "BST es una firma de aseguramiento de calidad en Guangzhou. Trabajamos para importadores en China y 8 países de Asia, con inspección en fábrica."
 lang: es
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Notícias
+heading: "Notícias"
+title: "Notícias e atualizações do setor"
+description: "Notícias da BST, ampliação de cobertura e notas práticas para importadores na Ásia. Atualizações por país e setor."
 lang: pt-BR
 sidebar: false
 ---
@@ -11,7 +13,8 @@ sidebar: false
   {% for post in lang_posts %}
   <li class="news-item">
     <span class="news-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-    <a href="{{ post.url | relative_url }}" class="news-title">{{ post.title }}</a>
+    <a href="{{ post.url | relative_url }}" class="news-title">{{ post.heading | default: post.title }}</a>
+    <p class="news-excerpt">{{ post.excerpt | strip_html | normalize_whitespace | truncate: 140 }}</p>
   </li>
   {% endfor %}
 </ul>

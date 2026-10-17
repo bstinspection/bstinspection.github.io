@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Стандарты качества
+heading: "Стандарты качества"
+title: "Стандарты AQL и MIL-STD-105E"
+description: "BST применяет выборку по AQL и MIL-STD-105E. Объем выборки, приемочные пределы и классификация дефектов описаны на этой странице."
 lang: ru
 ---
 
@@ -58,6 +60,6 @@ lang: ru
 | 150001 to 500000 | D | E | G | J | M | P | Q |
 | 500001 and over | D | E | H | K | N | Q | R |
 
-![Single Sampling Plans for Normal Inspection (MIL-STD-105E)]({{ '/images/Table-mil-std_105_e-5.webp' | relative_url }})
+![Планы одноступенчатого выборочного контроля при нормальной инспекции (MIL-STD-105E)]({{ '/images/Table-mil-std_105_e-5.webp' | relative_url }})
 
 Стандарты качества BST основаны на таблицах MIL-STD-105E, приведённых выше.

@@ -1,6 +1,8 @@
 ---
 layout: page
-title: 联系我们
+heading: "联系我们"
+title: "联系广州 BST 验货团队"
+description: "邮件、电话或微信联系广州 BST，获取验货报价与排期。办公室位于广州市黄浦区茅岗路环村大街 21 号 3 栋 2803 室。"
 lang: zh
 sidebar: false
 ---

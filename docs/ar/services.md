@@ -1,10 +1,27 @@
 ---
 layout: page
-title: خدماتنا
+heading: "خدماتنا"
+title: "تدقيق المصانع وخدمات الفحص"
+description: "ثماني خدمات تغطي دورة الإنتاج كاملة: تدقيق المصنع، والامتثال الاجتماعي، وفحص الإنتاج، والفحص النهائي، والإشراف على التحميل."
 lang: ar
 ---
 
 تقدم BST مجموعة شاملة من خدمات ضمان الجودة تغطي كل مرحلة من مراحل الإنتاج وعملية الشحن.
+
+<nav class="service-toc">
+  <p class="service-toc-title">{{ site.data.i18n[page.lang].nav.services }}</p>
+  <ul>
+    <li><a href="#fa">{{ site.data.i18n[page.lang].services.fa }}</a></li>
+    <li><a href="#sca">{{ site.data.i18n[page.lang].services.sca }}</a></li>
+    <li><a href="#ipc">{{ site.data.i18n[page.lang].services.ipc }}</a></li>
+    <li><a href="#ipqc">{{ site.data.i18n[page.lang].services.ipqc }}</a></li>
+    <li><a href="#dupro">{{ site.data.i18n[page.lang].services.dupro }}</a></li>
+    <li><a href="#fri">{{ site.data.i18n[page.lang].services.fri }}</a></li>
+    <li><a href="#ls">{{ site.data.i18n[page.lang].services.ls }}</a></li>
+    <li><a href="#ta">{{ site.data.i18n[page.lang].services.ta }}</a></li>
+    <li><a href="#ci">{{ site.data.i18n[page.lang].nav.contact }}</a></li>
+  </ul>
+</nav>
 
 ## 1. تدقيق المصنع (FA) {#fa}
 

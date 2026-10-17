@@ -1,10 +1,27 @@
 ---
 layout: page
-title: Nos services
+heading: "Nos services"
+title: "Audit d'usine et inspections"
+description: "Huit prestations sur tout le cycle de production : audit d'usine, conformité sociale, IPC, IPQC, DUPRO, inspection finale et supervision du chargement."
 lang: fr
 ---
 
 BST propose une gamme complète de services d'assurance qualité couvrant chaque étape du processus de production et d'expédition.
+
+<nav class="service-toc">
+  <p class="service-toc-title">{{ site.data.i18n[page.lang].nav.services }}</p>
+  <ul>
+    <li><a href="#fa">{{ site.data.i18n[page.lang].services.fa }}</a></li>
+    <li><a href="#sca">{{ site.data.i18n[page.lang].services.sca }}</a></li>
+    <li><a href="#ipc">{{ site.data.i18n[page.lang].services.ipc }}</a></li>
+    <li><a href="#ipqc">{{ site.data.i18n[page.lang].services.ipqc }}</a></li>
+    <li><a href="#dupro">{{ site.data.i18n[page.lang].services.dupro }}</a></li>
+    <li><a href="#fri">{{ site.data.i18n[page.lang].services.fri }}</a></li>
+    <li><a href="#ls">{{ site.data.i18n[page.lang].services.ls }}</a></li>
+    <li><a href="#ta">{{ site.data.i18n[page.lang].services.ta }}</a></li>
+    <li><a href="#ci">{{ site.data.i18n[page.lang].nav.contact }}</a></li>
+  </ul>
+</nav>
 
 ## 1. Audit d'usine (FA) {#fa}
 
