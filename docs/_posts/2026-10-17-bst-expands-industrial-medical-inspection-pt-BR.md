@@ -10,7 +10,7 @@ permalink: /pt-BR/news/industrial-medical-inspection-expansion/
 
 A BST atualizou seu escopo de produção. A atualização abrange dois aspectos: os produtos médicos passam a ser uma categoria permanente de inspeção e os produtos industriais são definidos como a linha prioritária que vamos desenvolver nos próximos cinco anos.
 
-## Três linhas de trabalho
+## Três categorias
 
 Os produtos de consumo continuam sendo a maior parte do nosso negócio: aparelhos elétricos e mercadorias, móveis, artigos de cozinha, eletrônicos de consumo, luminárias, brinquedos, presentes e artesanato, ferragens, vestuário e calçados.
 
