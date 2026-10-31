@@ -1,9 +1,9 @@
 ---
 layout: page
 heading: "Relatórios de referência"
-title: "Exemplos de relatórios de inspeção"
-description: "Veja relatórios de exemplo da BST: constatações, fotos, classificação de defeitos e medições como aparecem no PDF final."
+title: "Exemplos de relatórios de inspeção (PDF)"
+description: "Relatórios de exemplo da BST disponíveis mediante solicitação, em PDF. Veja como constatações, fotos, classificação de defeitos e medições são apresentadas."
 lang: pt-BR
 ---
 
-Relatórios de referência estão disponíveis mediante solicitação. Envie um e-mail para [info@bstinspection.com](mailto:info@bstinspection.com) ou [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).
+Relatórios de referência estão disponíveis mediante solicitação. Envie um e-mail para [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) e enviaremos uma amostra em PDF da sua categoria de produto.

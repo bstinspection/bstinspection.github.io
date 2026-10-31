@@ -6,7 +6,7 @@ description: "BST aplica muestreo AQL y MIL-STD-105E en cada inspección. Tamañ
 lang: es
 ---
 
-## ¿Por qué usted y sus clientes necesitan servicios de aseguramiento de calidad?
+## ¿Por qué usted y sus clientes necesitan aseguramiento de calidad?
 
 El control de calidad determina si una empresa y sus proveedores pueden trabajar juntos con éxito.
 
@@ -14,51 +14,51 @@ Nuestro equipo directivo y nuestros técnicos conocen los estándares técnicos 
 
 1. Las inspecciones de calidad in situ y las auditorías de fábrica de BST en toda China ayudan a las empresas a reducir los riesgos asociados con la mala calidad, la carga, el almacenamiento, el transporte y el incumplimiento de las regulaciones, de modo que las especificaciones, el embalaje, el marcado y la entrega cumplan el contrato.
 
-2. Los inspectores de BST son cuidadosos, responsables, honestos y profesionales, lo que reduce el riesgo de recibir productos defectuosos.
+2. Nuestros inspectores son cuidadosos, responsables e independientes, lo que reduce el riesgo de recibir productos defectuosos.
 
-3. Organizamos nuestro trabajo con flexibilidad según sus necesidades, ayudándole a ahorrar tiempo y costos.
+3. Organizamos el trabajo en torno a su plan de producción, de modo que usted ahorra tiempo y costos.
 
-4. Reducimos los gastos de viaje y otros costos incidentales que usted tendría si hiciera las inspecciones por su cuenta.
+4. Usted evita los gastos de viaje y otros costos incidentales que tendría si hiciera las inspecciones por su cuenta.
 
-## ¿Qué son los defectos críticos, defectos mayores y defectos menores?
+## ¿Qué son los defectos críticos, mayores y menores?
 
-Los defectos encontrados en la inspección se clasifican en tres categorías: defectos críticos, defectos mayores y defectos menores:
+Los defectos encontrados en la inspección se clasifican en tres categorías: críticos, mayores y menores.
 
 ### 1) Defectos críticos
 
-Los defectos críticos podrían resultar en condiciones peligrosas o inseguras para las personas que usan o mantienen el producto, así como defectos que contravengan las regulaciones legales.
+Los defectos críticos pueden generar condiciones peligrosas o inseguras para las personas que usan o mantienen el producto, o contravenir los requisitos legales.
 
 ### 2) Defectos mayores
 
-Los defectos mayores pueden acortar la vida del producto o reducir la capacidad de uso del artículo (funcionamiento deficiente, artículo incompleto o roto, etc.), o darle una apariencia defectuosa que daña su valor.
+Los defectos mayores pueden acortar la vida del producto o reducir la capacidad de uso del artículo (funcionamiento deficiente, artículo incompleto o roto, etc.), o dejar una imperfección visible que reduce su valor.
 
 ### 3) Defectos menores
 
-Los defectos menores normalmente no afectan el uso normal, pero la calidad del producto puede verse ligeramente afectada.
+Los defectos menores normalmente no afectan al uso normal, pero reducen ligeramente la calidad del producto.
 
-## ¿Qué se puede encontrar en las tablas AQL?
+## ¿Cómo leer las tablas AQL?
 
 ### Comprensión de las tablas AQL
 
-#### Letras de código de tamaño de muestra
+#### Letras de código del tamaño de muestra
 
-| Lot batch size | S-1 | S-2 | S-3 | S-4 | I | II | III |
-|---|---|---|---|---|---|---|---|---|
-| 2 to 8 | A | A | A | A | A | A | B |
-| 9 to 15 | A | A | A | A | A | B | C |
-| 16 to 25 | A | A | B | B | B | C | D |
-| 26 to 50 | A | B | B | C | C | D | E |
-| 51 to 90 | B | B | C | C | C | E | F |
-| 91 to 150 | B | B | C | D | D | F | G |
-| 151 to 280 | B | C | D | E | E | G | H |
-| 281 to 500 | B | C | D | E | F | H | J |
-| 501 to 1200 | C | C | E | F | G | J | K |
-| 1201 to 3200 | C | D | E | G | H | K | L |
-| 3201 to 10000 | C | D | F | G | J | L | M |
-| 10001 to 35000 | C | D | F | H | K | M | N |
-| 35001 to 150000 | D | E | G | J | L | N | P |
-| 150001 to 500000 | D | E | G | J | M | P | Q |
-| 500001 and over | D | E | H | K | N | Q | R |
+| Tamaño del lote | S-1 | S-2 | S-3 | S-4 | I | II | III |
+|---|---|---|---|---|---|---|---|
+| 2 a 8 | A | A | A | A | A | A | B |
+| 9 a 15 | A | A | A | A | A | B | C |
+| 16 a 25 | A | A | B | B | B | C | D |
+| 26 a 50 | A | B | B | C | C | D | E |
+| 51 a 90 | B | B | C | C | C | E | F |
+| 91 a 150 | B | B | C | D | D | F | G |
+| 151 a 280 | B | C | D | E | E | G | H |
+| 281 a 500 | B | C | D | E | F | H | J |
+| 501 a 1200 | C | C | E | F | G | J | K |
+| 1201 a 3200 | C | D | E | G | H | K | L |
+| 3201 a 10000 | C | D | F | G | J | L | M |
+| 10001 a 35000 | C | D | F | H | K | M | N |
+| 35001 a 150000 | D | E | G | J | L | N | P |
+| 150001 a 500000 | D | E | G | J | M | P | Q |
+| 500001 o más | D | E | H | K | N | Q | R |
 
 ![Planes de muestreo simple para inspección normal (MIL-STD-105E)]({{ '/images/Table-mil-std_105_e-5.webp' | relative_url }})
 

@@ -8,28 +8,29 @@ lang: es
 permalink: /es/news/sri-lanka/
 ---
 
-BST ya presta servicios en Sri Lanka, con efecto inmediato. Sri Lanka es un eslabón importante en la cadena de suministro mundial de prendas de vestir y textiles, y una base de fabricación y exportación en el sur de Asia. Su incorporación hace más completa nuestra red de servicios en la región.
+BST ya presta servicios en Sri Lanka. El país es un eslabón importante en la cadena de suministro mundial de prendas de vestir y textiles, y una base de fabricación y exportación en el sur de Asia. Su incorporación completa nuestra cobertura de los principales países de abastecimiento de la región.
 
 ## Servicios ahora disponibles en Sri Lanka
 
 En Sri Lanka se pueden reservar los siguientes servicios:
 
-- Factory Audit (FA): evalúa las capacidades del fabricante, los sistemas de calidad y la capacidad de producción.
-- Social Compliance Audit (SCA): evalúa las condiciones laborales, las prácticas de trabajo y el cumplimiento del código de conducta.
-- Initial Production Check (IPC): verifica las materias primas y los componentes antes de que comience la producción en masa.
-- During Production Check (DUPRO): supervisa la calidad al 20–30 % del avance de la producción.
-- Final Random Inspection (FRI): inspección previa al embarque de productos terminados.
-- Loading Supervision (L/S): supervisa el llenado y sellado de contenedores.
+- Auditoría de fábrica (FA): evalúa las capacidades del fabricante, los sistemas de calidad y la capacidad de producción.
+- Auditoría de cumplimiento social (SCA): evalúa las condiciones laborales, las prácticas de trabajo y el cumplimiento del código de conducta.
+- Control de producción inicial (IPC): verifica las materias primas y los componentes antes de que comience la producción en masa.
+- Control durante la producción (DUPRO): supervisa la calidad cuando la producción lleva completada entre el 20 % y el 30 %.
+- Inspección final aleatoria (FRI): inspección previa al embarque de productos terminados.
+- Supervisión de carga (L/S): supervisa el llenado y sellado de contenedores.
 
 ## Cobertura ampliada a ocho países
 
-BST ahora cubre China, Camboya, Malasia, Tailandia, Vietnam, India, Bangladés y Sri Lanka.
+BST ahora cubre China, Vietnam, India, Bangladés, Tailandia, Malasia, Camboya y Sri Lanka.
 
 ## Qué significa esto para nuestros clientes
 
 Los clientes que se abastecen en Sri Lanka se benefician de:
-- Un único socio de aseguramiento de calidad para ocho países de abastecimiento importantes.
+
+- Un único socio de aseguramiento de calidad que cubre ocho países de abastecimiento importantes.
 - Los mismos estándares de inspección y el mismo formato de informe en todas partes.
-- Experiencia local: nuestros inspectores en Sri Lanka son hablantes nativos familiarizados con las prácticas y regulaciones de fabricación locales.
+- Conocimiento local: nuestros inspectores están radicados en Sri Lanka y conocen las prácticas y la normativa locales de fabricación.
 
 Para reservar una inspección en Sri Lanka o en cualquiera de nuestros países de servicio, comuníquese con [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) o llame al 0086-13798166270.

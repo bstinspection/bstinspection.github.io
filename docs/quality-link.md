@@ -12,6 +12,6 @@ nav_order: 9
 
 [**State Administration for Market Regulation of the People's Republic of China**](https://www.samr.gov.cn)
 
-[**British Standards Institution**](http://www.bsigroup.com/)
+[**British Standards Institution (BSI)**](http://www.bsigroup.com/)
 
-[**(CENELEC) European Committee for Electrotechnical Standardization**](http://www.cenelec.eu/Cenelec/Homepage.htm)
+[**European Committee for Electrotechnical Standardization (CENELEC)**](http://www.cenelec.eu/Cenelec/Homepage.htm)

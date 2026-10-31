@@ -10,6 +10,6 @@ lang: es
 
 [**Administración Estatal para la Regulación del Mercado de la República Popular China**](https://www.samr.gov.cn)
 
-[**British Standards Institution**](http://www.bsigroup.com/)
+[**British Standards Institution (BSI)**](http://www.bsigroup.com/)
 
-[**(CENELEC) European Committee for Electrotechnical Standardization**](http://www.cenelec.eu/Cenelec/Homepage.htm)
+[**European Committee for Electrotechnical Standardization (CENELEC)**](http://www.cenelec.eu/Cenelec/Homepage.htm)

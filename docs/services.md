@@ -29,53 +29,51 @@ BST offers a comprehensive range of quality assurance services covering every st
 
 A factory audit is an on-site assessment of a manufacturer against quality standards, carried out before you commit to an order. A BST inspector reviews the factory profile, capacity, quality system, working conditions and environmental practices, and issues a report with findings and photographs. Use it to confirm that a new supplier can meet your quality, quantity and delivery requirements.
 
-Clients expect the right quality, quantity, and delivery time. That means manufacturers need to meet certain quality standards in their operations. To confirm that a factory actually does, you can appoint a local professional organization like BST to audit it on site.
-
-### In general, we will check the following aspects for a factory audit:
+### What the audit covers
 
 #### a. Factory profile
 
-This section provides you with general information about the factory.
+General information about the factory.
 
-#### b. Work-Flow and Organization Charts
+#### b. Workflow and organization charts
 
-This section includes a Report on the Information & Work flows within the Factory as well as a Chart on the Organization.
+A report on information and work flows within the factory, plus an organization chart.
 
-#### c. Production Lines-Capacity
+#### c. Production line capacity
 
-This section includes an calculation chart of the overall capacity calculation as well as an output check of the production running during the audit.
+A capacity calculation table, plus an output check of the production running during the audit.
 
-#### d. Factory Facilities-Machinery Conditions
+#### d. Factory facilities and machinery
 
-This section includes a review of the machineries and equipment tools.
+A review of machinery and equipment.
 
-#### e. Quality Assurance System
+#### e. Quality assurance system
 
-This section includes an assessment of the internal Quality Processes, QC facilities, Quality Team, Records and Quality Certificates.
+An assessment of internal quality processes, QC facilities, quality team, records and quality certificates.
 
-#### f. Social Accountability
+#### f. Social accountability
 
-This section includes Workers Interviews and a short assessment of the general working conditions found in the factory.
+Worker interviews and a short assessment of general working conditions in the factory.
 
-#### g. Procurement Conditions
+#### g. Procurement conditions
 
-This section includes an assessment of the Raw Materials and Components Supply as well as information on Subcontractors Practice.
+An assessment of raw material and component supply, plus information on subcontractor practice.
 
-#### h. R & D-Sampling Capability
+#### h. R&D and sampling capability
 
-This section includes an assessment of the capability of the factory to design and develop new products.
+An assessment of the factory's ability to design and develop new products.
 
-#### i. Hygiene & Security
+#### i. Hygiene and security
 
-This section includes an assessment of the sanitary conditions and the security level of the facilities.
+An assessment of sanitary conditions and the security level of the facilities.
 
 #### j. Environment
 
-This section includes a short assessment of the factory policy with environmental issues.
+A short assessment of the factory's environmental policy and practice.
 
-#### k. RoHS Standards
+#### k. RoHS standards
 
-This section includes level of awareness and/or compliance of the factory according to the RoHS Standards (Restriction of use of certain Hazardous Substances in Electrical and Electronic Equipment).
+The factory's awareness of, and compliance with, the RoHS standards (Restriction of the use of certain Hazardous Substances in Electrical and Electronic Equipment).
 
 ### When to book: 30-45 days before the first order
 
@@ -85,17 +83,15 @@ Most clients book the audit before the first order is placed, so there is still 
 
 A social compliance audit, also called a code of conduct audit, checks a factory against SA8000 or your own social standards. Auditors interview workers, review records and inspect working hours, safety and welfare facilities on site. The report lists the non-compliances so the factory can correct them before your order ships.
 
-Social compliance audit (also called code of conduct) is conducted mainly based on SA8000 standards or standards drawn by clients. Our native language auditors will interview staff, check records and factory operation, inform you those non- compliances and give the factory chance to correct them.
+### What the audit covers
 
-In general, we will check the following aspects for social compliance audit:
-
-- General Information
-- Working Hours
-- Child / Forced Labour
-- Safety Conditions
-- Social Facilities
-- Working Conditions
-- Others
+- General information
+- Working hours
+- Child and forced labor
+- Safety conditions
+- Social facilities
+- Working conditions
+- Other
 
 ### When to book: before the first order or before peak season
 
@@ -105,15 +101,13 @@ Buyers increasingly ask for a valid social audit before peak season, so book ear
 
 An initial production check verifies components, materials and accessories at the start of production, before mass production begins. The inspector compares them with your specifications and reference sample, so deviations are corrected while they are still cheap to fix. Any non-conformity is reported immediately to protect your delivery schedule.
 
-A visual check on the quality of components, materials, and accessories at the beginning of production against clients' specifications and/or reference sample. The IPC thus permits timely corrections and improvements before the mass production is launched. Any non-conformity is immediately reported so as to avoid delay in shipment.
+### What the check covers
 
-In general, we will check the following aspects for IPC:
-
-- Evaluate the production capability and equipments in the factory.
-- Check factories' quality control ability and executive status.
-- Check the accuracy of production facilities and equipments.
-- Audit production techniques and confirm that factory QC staff are properly positioned.
-- Check the quantity and quality of raw materials and main components to be used in your products, spot possible problems early and confirm that your specifications are met from the start.
+- The factory's production capability and equipment.
+- Its quality control capability and how it is applied.
+- The accuracy of production facilities and equipment.
+- Production techniques, and whether QC staff are properly deployed.
+- The quantity and quality of raw materials and main components, so problems surface before your specifications are locked in.
 
 ### When to book: in the first days of production
 
@@ -121,13 +115,7 @@ Book the check as soon as the line is set up and materials are on site; the earl
 
 ## 4. In-Process Quality Check (IPQC) {#ipqc}
 
-An in-process quality check runs during production to identify quality problems early, while there is still time to correct them. The inspector reviews raw material stocks, production rates, workmanship and the estimated completion date, giving you a clear picture of the factory floor before the order is finished.
-
-The in-process quality check is designed to provide early warning of quality or other problems arising during production and which may delay shipment.
-
-It provides a snapshot of the current production status at the factory. During production, semi-finished parts must be inspected based on AQL or percentage according to the company policy and inspection plan.
-
-Checks carried out include stocks of raw materials, production rates, estimated production completion date, production bottlenecks, etc.
+An in-process quality check runs during production to identify quality problems early, while there is still time to correct them. The inspector reviews raw material stocks, production rates, workmanship and the estimated completion date, giving you a clear picture of the factory floor before the order is finished. Semi-finished parts are inspected to AQL or to a set percentage, following the agreed inspection plan. Production bottlenecks are noted as well.
 
 ### When to book: at 10-20% of production
 
@@ -135,19 +123,15 @@ Book the visit once the line runs steadily, so the inspector observes steady pro
 
 ## 5. During Production Check (DUPRO) {#dupro}
 
-A during production check, or DUPRO, inspects components, materials and semi-finished goods once 20-30% of the order is complete. The inspector samples the batch on the line, identifies deviations and advises on corrective measures, so the remaining production runs to the same standard.
+A during production check, or DUPRO, inspects components, materials and semi-finished goods once 20-30% of the order is complete. The inspector samples the batch on the line, identifies deviations and advises on corrective measures, and checks that the corrections recommended at IPC have been implemented. The aim is to keep the remaining production to the same standard.
 
-A visual check on the quality of components, materials, semi-finished products when at least 20%-30% of the order has been completed. Unique randomly inspects the production batch and those products in the line for possible defects, if any should occur, we identifies the deviation and provides advice on the corrective measures that are necessary to ensure a uniform batch quality product.
+### What the check covers
 
-The DUPRO provides the on-line inspection, DQC qualified inspectors will check that the corrections and improvements suggested during the IPC were implemented, examine the existing productions, advised the manufacturers of any further corrections or improvements to be made.
-
-We usually check the following:
-
-- Evaluate the production status during the manufacturing process.
-- Randomly inspect the finished samples on-site and compare them with your product spec.
-- According to the evaluated status of finished and semi- finished samples, rearrange the QC layout at the factory.
-- Evaluate the packing details and packing material.
-- Check the accuracy of production equipments and disposal methods for defective goods.
+- Production status on the line.
+- Finished samples drawn on site, compared with your product specification.
+- The factory's QC arrangements, reviewed against the finished and semi-finished samples.
+- Packing details and packing materials.
+- The accuracy of production equipment and how defective goods are handled.
 
 ### When to book: at 20-30% of production
 
@@ -155,21 +139,17 @@ At this stage there are enough units to judge the batch, and enough time left to
 
 ## 6. Final Random Inspection (FRI) {#fri}
 
-A final random inspection, also called a pre-shipment inspection, verifies finished goods before they leave the factory. Samples are drawn according to ANSI/ASQC Z1.4, MIL-STD-105E or ISO 2859 and checked for quantity, workmanship, function, safety, size and packaging against your specifications.
+A final random inspection, also called a pre-shipment inspection, verifies finished goods before they leave the factory. It takes place when the goods are 100% produced and at least 80% packed, marked and ready for shipment. Samples are drawn to ANSI/ASQC Z1.4, MIL-STD-105E, ISO 2859 or an equivalent standard (BS 6001, DIN 40080, NF X06-022) and checked for quantity, workmanship, function, safety, size and packaging against your specifications.
 
-The BST team performs a final random inspection comprising of a detailed visual inspection of goods before shipment. It is generally conducted on the premises of the manufacturer, on samples selected according to defined sampling procedures.
+### Key check points
 
-FRI takes place when the merchandise is 100% completed and at least 80% are well packed, marked and ready for shipment. Our inspectors randomly draw some samples from finished goods, based on statistical random sampling technique, commonly known as ANSI/ASQC Z1.4, MIL-STD-105E, BS6001, DIN40080, ISO2859 OR NFX06-022, to verify that the finished shipping lots conform to your specifications.
-
-Key check points:
-
-- Qty check
-- Style, color & material
-- Visual check(workmanship)
-- Function/safety check
-- Size measurement if needed
-- Package details
-- Shipping mark
+- Quantity
+- Style, color and material
+- Workmanship
+- Function and safety
+- Size measurements, if required
+- Packaging details
+- Shipping marks
 
 ### When to book: at least 3 days before loading
 
@@ -177,19 +157,17 @@ Book the inspection when the goods are fully packed and marked. If the BST inspe
 
 ## 7. Loading Supervision (L/S) {#ls}
 
-Loading supervision places a BST inspector at the container while your goods are loaded. The inspector checks product information, quantity and packaging, watches the stuffing, verifies carton condition and seals the container with the customs seal, recording the seal number and departure time.
+Loading supervision places a BST inspector at the container while your goods are loaded. The inspector checks product information, quantity and packaging, watches the stuffing, verifies carton condition, and seals the container with the client's seal and BST's own inspection seal, recording the seal number and departure time. The whole operation follows a defined loading procedure.
 
-Before stuffing, our inspectors will check products' information, quantity and package; during stuffing, they supervise the entire loading process and ensure that the export cartons are well arranged in the container with no risks of deformation or collapse, assisting the manufacturer in completing the loading in accordance with clearly defined operating procedures.
+### Key check points
 
-Key check points:
-
-- Record the weather/arrival time of container/No./truck No.
-- Check the inner/outer condition to see if there is any damage/wet/hole/peculiar smell.
-- Check the qty of goods loaded and record the condition of outer packaging(master cartons/pallets).
-- Randomly draw and open some cartons to verify that the goods meet with clients' specification.
-- Supervise the whole loading process.
-- Seal the container with the custom's seal and unique quality inspection's seal.
-- Record the seal No. and departure time of container.
+- Weather, container arrival time, container number and truck number.
+- The condition of the container inside and out: damage, damp, holes, unusual smells.
+- The quantity loaded and the condition of the outer packaging (master cartons and pallets).
+- Cartons opened at random to verify the goods against your specification.
+- The loading process itself.
+- Sealing with the client's seal and BST's own inspection seal.
+- Seal number and container departure time recorded.
 
 ### When to book: on the loading day
 
@@ -197,9 +175,7 @@ Supervision only works on the day of loading, so confirm the container booking f
 
 ## 8. Testing Arrangement (TA) {#ta}
 
-Testing arrangement books independent laboratory tests and certifications for your products, including CE marking for the European market. BST coordinates with partner labs in China, so test reports and certificates are delivered through the same contact as your inspections.
-
-BST has cooperative test lab in China. BST can issue CE certificate for European product.
+Testing arrangement books independent laboratory tests and certifications for your products, including CE certification for the European market. BST coordinates with partner labs in China; test reports and certificates come through the same contact as your inspections.
 
 ### When to book: together with the pre-shipment inspection
 
@@ -207,4 +183,4 @@ Lab testing takes longer than an inspection, so book early if a certificate gate
 
 ## 9. Contact Information {#ci}
 
-For inquiries, please contact [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) or call 0086-13798166270.
+For inquiries, contact [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) or call 0086-13798166270.

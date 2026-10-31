@@ -20,7 +20,7 @@ Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Gu
 
 Контактные данные не изменились:
 
-- **Контактное лицо:** Jeffrey Tsang
+- **Контактное лицо:** Jeffrey Zeng
 - **Email:** [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com)
 - **Телефон:** 0086-13798166270
 

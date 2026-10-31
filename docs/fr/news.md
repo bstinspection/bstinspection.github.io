@@ -2,7 +2,7 @@
 layout: page
 heading: "Actualités"
 title: "Actualités et veille qualité"
-description: "Nouvelles de BST, extensions de couverture et notes pratiques pour les importateurs en Asie. Mises à jour par pays et par secteur."
+description: "Nouvelles de BST, extensions de couverture et notes pratiques pour les importateurs en Asie."
 lang: fr
 sidebar: false
 ---

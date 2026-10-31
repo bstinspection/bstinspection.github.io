@@ -1,6 +1,6 @@
 ---
 layout: page
-heading: "Portée de production"
+heading: "Périmètre de production"
 title: "Produits contrôlés en Chine et en Asie"
 description: "BST contrôle les biens de consommation, les produits industriels et les produits médicaux : électroménager, mobilier, jouets, câbles, vannes, masques."
 lang: fr
@@ -26,7 +26,7 @@ f. Vêtements et chaussures.
 
 a. Enquête sur les fournisseurs.
 
-b. Témoignage d'équipements industriels.
+b. Surveillance des essais d'équipements industriels.
 
 c. Contrôle de produits : fils et câbles, tubes et pylônes en acier, matériaux de structure, pompes, chaudières, vannes, tuyaux pétroliers.
 
@@ -54,6 +54,6 @@ Catégories en cours de développement :
 - Pompes, chaudières, vannes
 - Tuyaux pétroliers
 
-Ces catégories suivent les mêmes étapes que nos lignes existantes : enquête fournisseur avant confirmation de commande, témoignage des équipements en production, contrôle selon les normes internationales avant expédition. Nos inspecteurs en Chine et dans les sept autres pays d'Asie où nous intervenons sont désormais en mesure de prendre en charge ces missions.
+Ces catégories suivent les mêmes étapes que nos lignes existantes : enquête fournisseur avant confirmation de la commande, surveillance des essais des équipements en production et contrôle selon les normes internationales avant expédition. Nos inspecteurs en Chine et dans les sept autres pays d'Asie où nous intervenons sont désormais en mesure de prendre en charge ces missions.
 
 Si vous achetez des produits industriels et souhaitez un contrôle par un tiers indépendant, écrivez à [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) ou appelez le 0086-13798166270.

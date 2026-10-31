@@ -2,15 +2,17 @@
 layout: page
 heading: "Procédure de commande"
 title: "Commander une inspection en 4 étapes"
-description: "Quatre étapes : demande, confirmation du devis, planification et remise du rapport. Le délai habituel est de 48 heures après confirmation."
+description: "Quatre étapes : demande, confirmation du devis, planification et remise du rapport. Nous répondons sous 24 heures."
 lang: fr
 ---
 
-## 1. Première étape : Soumettre le formulaire de demande d'inspection.
+Nous répondons sous 24 heures pour cadrer la mission et visons une confirmation de la commande sous trois jours. Les dates d'inspection sont normalement réservées au moins trois jours ouvrables à l'avance ; les demandes urgentes sont traitées selon les disponibilités.
 
-Veuillez télécharger le [formulaire de réservation](/BST%20booking%20form.doc) et remplir les informations pertinentes, puis nous le renvoyer par courriel ([info@bstinspection.com](mailto:info@bstinspection.com))
+## 1. Envoyer le formulaire de réservation
 
-## 2. Deuxième étape : Fournir les informations d'inspection :
+Téléchargez le [formulaire de réservation](/BST%20booking%20form.doc), remplissez-le et renvoyez-le par courriel à [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).
+
+## 2. Fournir les documents d'inspection
 
 - Copie du bon de commande
 - Échantillon d'approbation d'emballage complet
@@ -20,10 +22,10 @@ Veuillez télécharger le [formulaire de réservation](/BST%20booking%20form.doc
 - Coordonnées des fournisseurs
 - Coordonnées et plan d'accès de l'usine
 
-## 3. Troisième étape : Les inspecteurs effectuent l'inspection dans votre usine.
+## 3. Les inspecteurs réalisent l'inspection
 
-L'inspection sera réalisée par les inspecteurs de BST conformément aux spécifications d'inspection approuvées par le client ou aux directives générales d'inspection de BST. Des projets de rapports d'inspection seront émis à la fin de l'inspection.
+Les inspecteurs de BST travaillent selon les spécifications d'inspection approuvées par le client ou selon le périmètre d'inspection général de BST. Un projet de rapport est remis à la fin de l'inspection.
 
-## 4. Quatrième étape : Émission du rapport d'inspection le jour ouvrable suivant la date d'inspection.
+## 4. Recevoir le rapport le jour ouvrable suivant
 
-BST est en mesure d'effectuer des inspections qualité et des audits d'usine avec un préavis minimum de 24 heures.
+Le rapport définitif est émis le jour ouvrable suivant la date d'inspection.

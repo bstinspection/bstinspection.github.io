@@ -13,13 +13,13 @@ El nuevo sitio web de BST ya está en línea. Está dirigido a clientes de todo 
 ## Qué hay de nuevo
 
 - Siete idiomas: inglés, chino, francés, ruso, español, portugués (Brasil) y árabe. Los clientes pueden leer el sitio en el idioma que mejor dominen.
-- Una interfaz limpia y profesional con navegación mejorada, que funciona en computadoras de escritorio, tabletas y móviles.
-- Todos los servicios de aseguramiento de calidad están descritos en detalle, desde la Auditoría de Fábrica (FA) hasta el Arreglo de Pruebas (TA), con navegación por enlaces de anclaje.
+- Una interfaz limpia y profesional con navegación mejorada que funciona en computadora de escritorio, tableta y móvil.
+- Todos los servicios de aseguramiento de calidad descritos en detalle, desde la auditoría de fábrica (FA) hasta la organización de pruebas (TA), con navegación por enlaces de anclaje.
 - Al cambiar de idioma, se mantiene en la misma página.
-- El árabe cuenta con soporte completo de diseño de derecha a izquierda.
+- Compatibilidad completa con el diseño de derecha a izquierda para el árabe.
 
 ## Información más clara del servicio
 
-El nuevo sitio presenta nuestra información de servicio de forma más clara y transparente. Le invitamos a explorar el sitio y a compartirnos sus comentarios.
+El nuevo sitio presenta nuestra información de servicio de forma más clara. Le invitamos a explorar el sitio y a compartirnos sus comentarios.
 
 Si tiene preguntas o comentarios, comuníquese con [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).

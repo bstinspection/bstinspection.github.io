@@ -2,7 +2,7 @@
 layout: page
 heading: "Контакты"
 title: "Связаться с BST в Гуанчжоу"
-description: "Свяжитесь с BST в Гуанчжоу, чтобы получить расчет стоимости или заказать инспекцию. Почта, телефон, WeChat и адрес офиса в Хуанпу."
+description: "Свяжитесь с BST в Гуанчжоу, чтобы получить расчёт стоимости или заказать инспекцию. Почта, телефон, WeChat и адрес офиса в Хуанпу."
 lang: ru
 sidebar: false
 ---
@@ -13,7 +13,7 @@ sidebar: false
 
 **Адрес офиса:** Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China
 
-**Контактное лицо:** Jeffrey Tsang
+**Контактное лицо:** Jeffrey Zeng
 
 **Email:** [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com)
 

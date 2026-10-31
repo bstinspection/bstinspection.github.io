@@ -24,7 +24,7 @@ f. Prendas de vestir y calzado.
 
 ### 2. Productos industriales
 
-a. Encuesta de proveedores.
+a. Evaluación de proveedores.
 
 b. Supervisión de equipos industriales.
 
@@ -54,6 +54,6 @@ Categorías que estamos ampliando:
 - Bombas, calderas, válvulas
 - Tuberías de petróleo
 
-Estas categorías siguen los mismos pasos que nuestras líneas existentes: encuesta al proveedor antes de la confirmación del pedido, supervisión de equipos durante la producción e inspección según estándares internacionales antes del embarque. Nuestros inspectores en China y en los otros siete países de Asia donde operamos están en condiciones de asumir estos encargos.
+Estas categorías siguen los mismos pasos que nuestras líneas existentes: evaluación del proveedor antes de la confirmación del pedido, supervisión de equipos durante la producción e inspección según estándares internacionales antes del embarque. Nuestros inspectores en China y en los otros siete países de Asia donde operamos pueden hacerse cargo de estos encargos.
 
 Si compra productos industriales y necesita una inspección independiente, escriba a [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) o llame al 0086-13798166270.

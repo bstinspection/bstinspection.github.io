@@ -11,9 +11,9 @@ sidebar: false
 
 ### Guangzhou BST Technology Services Co., Ltd.
 
-**Adresse de bureau :** Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, Chine
+**Adresse de bureau :** Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China
 
-**Personne à contacter :** Jeffrey Tsang
+**Personne à contacter :** Jeffrey Zeng
 
 **Courriel :** [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com)
 

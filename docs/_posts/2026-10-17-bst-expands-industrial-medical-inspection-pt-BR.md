@@ -14,15 +14,15 @@ A BST atualizou seu escopo de produção. A atualização abrange dois aspectos:
 
 Os produtos de consumo continuam sendo a maior parte do nosso negócio: aparelhos elétricos e mercadorias, móveis, artigos de cozinha, eletrônicos de consumo, luminárias, brinquedos, presentes e artesanato, ferragens, vestuário e calçados.
 
-Os produtos médicos agora aparecem separados: swabs, ataduras, medidores de pressão arterial, máscaras, fita médica, protetores oculares, oxímetros de pulso e termômetros.
+Os produtos médicos agora aparecem separados: cotonetes, ataduras, medidores de pressão arterial, máscaras, fita médica, protetores oculares, oxímetros de pulso e termômetros.
 
 Os produtos industriais abrangem fios e cabos, tubos e torres de aço, material estrutural, bombas, caldeiras, válvulas e tubos de petróleo. Também inspecionamos estruturas de aço, guindastes, navios e equipamentos de petróleo e gás conforme padrões internacionais.
 
-## O industrial como foco de cinco anos
+## O industrial como foco dos próximos cinco anos
 
 Hoje a inspeção industrial representa uma parcela reduzida da nossa receita. Nos próximos cinco anos vamos direcionar recursos para esta linha com o objetivo de consolidá-la como uma de nossas principais atividades.
 
-Os serviços seguem o processo já adotado: pesquisa do fornecedor antes da confirmação do pedido, testemunha de equipamentos durante a produção e inspeção antes do embarque conforme padrões internacionais. Nossos inspetores na China, no Vietnã, na Índia, em Bangladesh, na Tailândia, na Malásia, no Camboja e no Sri Lanka estão aptos a assumir esses encargos.
+Os serviços seguem o processo já adotado: pesquisa do fornecedor antes da confirmação do pedido, acompanhamento de equipamentos durante a produção e inspeção antes do embarque conforme padrões internacionais. Nossos inspetores na China, no Vietnã, na Índia, no Bangladesh, na Tailândia, na Malásia, no Camboja e no Sri Lanka estão aptos a assumir essas demandas.
 
 ## Como agendar
 

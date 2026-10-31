@@ -2,13 +2,13 @@
 layout: post
 heading: "BST dessert désormais le Sri Lanka"
 title: "Inspections au Sri Lanka"
-description: "BST propose désormais audits d'usine, contrôles en production et supervision du chargement au Sri Lanka, complétant son réseau en Asie du Sud."
+description: "BST propose désormais des audits d'usine, des contrôles en production et la supervision du chargement au Sri Lanka, complétant son réseau en Asie du Sud."
 date: 2026-08-06 00:00:00 +0800
 lang: fr
 permalink: /fr/news/sri-lanka/
 ---
 
-BST dessert désormais le Sri Lanka, avec effet immédiat. Le pays est un maillon important de la chaîne d'approvisionnement mondiale de l'habillement et du textile, ainsi qu'une base manufacturière et d'exportation en Asie du Sud. Son ajout complète notre réseau de services dans la région.
+BST dessert désormais le Sri Lanka, avec effet immédiat. Le pays est un maillon important de la chaîne d'approvisionnement mondiale de l'habillement et du textile, ainsi qu'une base manufacturière et d'exportation en Asie du Sud. Cette ouverture complète notre réseau de services dans la région.
 
 ## Services désormais disponibles au Sri Lanka
 
@@ -16,19 +16,20 @@ Les services suivants peuvent être réservés au Sri Lanka :
 
 - Audit d'usine (FA) : évaluer les capacités des fabricants, les systèmes qualité et la capacité de production.
 - Audit de conformité sociale (SCA) : évaluer les conditions de travail, les pratiques en matière de main-d'œuvre et la conformité au code de conduite.
-- Contrôle initial de production (IPC) : vérifier les matières premières et les composants avant le début de la production en série.
-- Contrôle en cours de production (DUPRO) : surveiller la qualité à 20–30 % d'avancement de la production.
+- Contrôle de production initiale (IPC) : vérifier les matières premières et les composants avant le début de la production en série.
+- Contrôle en cours de production (DUPRO) : surveiller la qualité à 20 à 30 % d'avancement de la production.
 - Inspection finale aléatoire (FRI) : inspection des produits finis avant expédition.
 - Supervision du chargement (L/S) : superviser le chargement et le scellement des conteneurs.
 
 ## Couverture étendue à huit pays
 
-BST couvre désormais la Chine, le Cambodge, la Malaisie, la Thaïlande, le Vietnam, l'Inde, le Bangladesh et le Sri Lanka.
+BST couvre désormais la Chine, le Vietnam, l'Inde, le Bangladesh, la Thaïlande, la Malaisie, le Cambodge et le Sri Lanka.
 
 ## Ce que cela signifie pour nos clients
 
 Les clients qui s'approvisionnent au Sri Lanka bénéficient de :
-- Un partenaire QA unique couvrant huit grands pays d'approvisionnement.
+
+- Un partenaire unique en assurance qualité couvrant huit grands pays d'approvisionnement.
 - Les mêmes normes d'inspection et le même format de rapport partout.
 - Une connaissance locale : nos inspecteurs au Sri Lanka sont de langue maternelle locale et connaissent les pratiques et réglementations de fabrication du pays.
 

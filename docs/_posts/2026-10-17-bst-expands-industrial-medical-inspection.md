@@ -10,19 +10,19 @@ permalink: /news/industrial-medical-inspection-expansion/
 
 BST has updated its production scope. The update covers two areas: medical products are now inspected as a standing category, and industrial products are designated a priority area for investment over the next five years.
 
-## Three Lines of Work
+## Three Product Categories
 
 Consumer products remain the largest part of our business: electric appliances and commodities, furniture, kitchen items, consumer electronics, lighting products, toys, gifts and crafts, hardware, garments and shoes.
 
 Medical products are now listed separately: swabs, bandages, blood pressure monitors, face masks, medical tape, eye pads, finger pulse oximeters and thermometers.
 
-Industrial products cover wire and cable, steel pipe and tower, structural material, pump, boiler, valve and oil pipe. We also inspect steel structure, cranes, ships, and oil and gas equipment against international standards.
+Industrial products cover wire and cable, steel pipe and tower, structural materials, pumps, boilers, valves and oil pipes. We also inspect steel structures, cranes, ships and oil and gas equipment against international standards.
 
 ## Industrial Products as the Five-Year Focus
 
 Industrial inspection currently accounts for a small share of our revenue. Over the next five years, resources will be directed to this business line, with the goal of establishing it as one of our core businesses.
 
-Assignments follow the process already in use: supplier survey before order confirmation, witness of equipment during production, and inspection against international standards before shipment. Inspectors in China, Vietnam, India, Bangladesh, Thailand, Malaysia, Cambodia and Sri Lanka are all able to accept these assignments.
+Assignments follow the process already in use: supplier survey before order confirmation, witnessing of equipment during production, and inspection against international standards before shipment. Inspectors in China, Vietnam, India, Bangladesh, Thailand, Malaysia, Cambodia and Sri Lanka are all able to take on these assignments.
 
 ## Booking
 

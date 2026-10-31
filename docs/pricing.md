@@ -8,12 +8,12 @@ permalink: /pricing/
 nav_order: 4
 ---
 
-Our prices are competitive thanks to strict internal cost control, and we pass the benefits of improved efficiency on to our clients. We do not secure new business with unsustainable discounts, nor do we lower our service standards.
+Our prices are competitive because we keep internal costs under tight control, and we pass the resulting savings on to clients. We do not win business with unsustainable discounts, nor do we lower our service standards.
 
-Inspection Services: USD 198 per Man-Day; Factory Audit Services: USD 258 per Man-Day.
+Inspection services: USD 198 per man-day. Factory audit services: USD 258 per man-day.
 
-Inspection charges are quoted on a man-day basis. One man-day is one inspector working a day (8 hours). The number of man-days depends on product complexity, shipment quantity, inspection location, and specification requirements. Additional expenses such as travel and accommodation are charged at actual cost.
+Inspection charges are quoted on a man-day basis. One man-day is one inspector working, or traveling, for one normal working day (8 hours). The number of man-days depends on product complexity, shipment quantity, inspection location and specification requirements. Travel, accommodation and other expenses are charged at cost.
 
-For an exact quotation, please provide details of your product, the quantity, and the factory location.
+For an exact quotation, send us your product details, quantity and factory location.
 
-For inquiries, please contact [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) or call 0086-13798166270.
+For inquiries, contact [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) or call 0086-13798166270.

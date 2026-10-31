@@ -2,15 +2,15 @@
 layout: page
 heading: "Preços"
 title: "Preços de inspeção na China"
-description: "O preço depende do serviço, dos dias de trabalho e da localização. Solicite orçamento para auditoria, controle em produção ou embarque."
+description: "O preço depende do serviço, dos dias-homem e da localização. Solicite orçamento para auditoria de fábrica, controle em produção ou supervisão de carregamento."
 lang: pt-BR
 ---
 
 Nossos preços são competitivos graças a um rigoroso controle interno de custos, e repassamos aos clientes os benefícios do aumento de eficiência. Não conquistamos novos negócios por meio de descontos insustentáveis, nem reduzimos o padrão dos nossos serviços.
 
-Serviços de Inspeção: USD 198 por Homem-Dia; Serviços de Auditoria de Fábrica: USD 258 por Homem-Dia.
+Serviços de inspeção: USD 198 por dia-homem; serviços de auditoria de fábrica: USD 258 por dia-homem.
 
-Os custos de inspeção são cotados por homem-dia. Um homem-dia corresponde a um inspetor trabalhando um dia (8 horas). O número de homens-dia depende da complexidade do produto, da quantidade do embarque, do local da inspeção e dos requisitos de especificação. Despesas adicionais, como viagens e hospedagem, são cobradas pelo custo real.
+Os custos de inspeção são cotados por dia-homem. Um dia-homem corresponde a um inspetor trabalhando, ou viajando, por um dia útil normal (8 horas). O número de dias-homem depende da complexidade do produto, da quantidade do embarque, do local da inspeção e dos requisitos de especificação. Despesas adicionais, como viagens e hospedagem, são cobradas pelo custo real.
 
 Para um orçamento exato, forneça detalhes do seu produto, a quantidade e a localização da fábrica.
 

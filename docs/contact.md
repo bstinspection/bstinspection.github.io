@@ -14,7 +14,7 @@ sidebar: false
 
 **Office Address:** Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China
 
-**Contact Person:** Jeffrey Tsang
+**Contact Person:** Jeffrey Zeng
 
 **Email:** [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com)
 

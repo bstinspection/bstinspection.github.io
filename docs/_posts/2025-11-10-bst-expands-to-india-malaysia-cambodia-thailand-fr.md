@@ -1,14 +1,14 @@
 ---
 layout: post
-heading: "BST étend sa couverture de services à l'Inde, la Malaisie, le Cambodge et la Thaïlande"
+heading: "BST étend sa couverture de services à l'Inde, à la Malaisie, au Cambodge et à la Thaïlande"
 title: "Inspections en Inde, Malaisie, Cambodge et Thaïlande"
-description: "BST intervient désormais en Inde, Malaisie, Cambodge et Thaïlande, avec un seul partenaire qualité dans sept pays d'Asie."
+description: "BST intervient désormais en Inde, en Malaisie, au Cambodge et en Thaïlande, avec un partenaire unique en assurance qualité dans sept pays d'Asie."
 date: 2025-11-10 00:00:00 +0800
 lang: fr
 permalink: /fr/news/india-malaysia-cambodia-thailand/
 ---
 
-BST a étendu sa couverture de services à l'Inde, la Malaisie, le Cambodge et la Thaïlande, quatre pays manufacturiers d'Asie en croissance rapide. Pour les clients qui diversifient leurs chaînes d'approvisionnement entre plusieurs pays, BST offre désormais davantage d'options.
+BST a étendu sa couverture de services à l'Inde, à la Malaisie, au Cambodge et à la Thaïlande, quatre pays manufacturiers en forte croissance en Asie. Pour les clients qui diversifient leurs chaînes d'approvisionnement entre plusieurs pays, BST offre désormais davantage d'options.
 
 ## Services désormais disponibles dans les sept pays
 
@@ -16,19 +16,20 @@ La gamme complète de services peut désormais être réservée dans les sept pa
 
 - Audit d'usine (FA) : évaluer les capacités des fabricants, les systèmes qualité et la capacité de production.
 - Audit de conformité sociale (SCA) : évaluer les conditions de travail, les pratiques en matière de main-d'œuvre et la conformité au code de conduite.
-- Contrôle initial de production (IPC) : vérifier les matières premières et les composants avant le début de la production en série.
-- Contrôle en cours de production (DUPRO) : surveiller la qualité à 20–30 % d'avancement de la production.
+- Contrôle de production initiale (IPC) : vérifier les matières premières et les composants avant le début de la production en série.
+- Contrôle en cours de production (DUPRO) : surveiller la qualité à 20 à 30 % d'avancement de la production.
 - Inspection finale aléatoire (FRI) : inspection des produits finis avant expédition.
 - Supervision du chargement (L/S) : superviser le chargement et le scellement des conteneurs.
 
 ## La couverture la plus étendue en Asie
 
-BST couvre désormais la Chine, le Cambodge, la Malaisie, la Thaïlande, le Vietnam, l'Inde et le Bangladesh.
+BST couvre désormais la Chine, le Vietnam, l'Inde, le Bangladesh, la Thaïlande, la Malaisie et le Cambodge.
 
 ## Ce que cela signifie pour nos clients
 
 Les clients bénéficient de :
-- Un partenaire QA unique couvrant sept grands pays d'approvisionnement.
+
+- Un partenaire unique en assurance qualité couvrant sept grands pays d'approvisionnement.
 - Les mêmes normes d'inspection et le même format de rapport partout.
 - Une connaissance locale : nos inspecteurs dans chaque pays, de langue maternelle locale, connaissent les pratiques de fabrication et les réglementations locales.
 

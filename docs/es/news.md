@@ -2,7 +2,7 @@
 layout: page
 heading: "Noticias"
 title: "Noticias y novedades del sector"
-description: "Noticias de BST, ampliación de cobertura y notas prácticas para importadores en Asia. Actualizaciones por país y sector."
+description: "Noticias de BST, ampliación de cobertura y notas prácticas para importadores en Asia."
 lang: es
 sidebar: false
 ---

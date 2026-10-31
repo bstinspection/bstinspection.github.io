@@ -20,7 +20,7 @@ O novo escritório oferece melhores instalações para a equipe de operações, 
 
 Os dados de contato não mudaram:
 
-- **Pessoa de contato:** Jeffrey Tsang
+- **Pessoa de contato:** Jeffrey Zeng
 - **E-mail:** [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com)
 - **Telefone:** 0086-13798166270
 

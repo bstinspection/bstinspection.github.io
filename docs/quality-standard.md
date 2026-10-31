@@ -8,44 +8,44 @@ permalink: /quality-standard/
 nav_order: 5
 ---
 
-## Why do you and your clients need quality insurance services?
+## Why do you and your clients need quality assurance services?
 
-Quality control determines whether a company and its suppliers can work together successfully.
+Quality control decides whether a company and its suppliers can work together successfully.
 
-Our management team and technicians know the technical standards in international markets and what those markets actually require. When problems arise, they give concrete advice and help you select the most cost-effective quality assurance approach.
+Our management team and technicians know the technical standards of international markets and what those markets actually require. When problems arise, they give concrete advice and help you choose the most cost-effective quality assurance approach.
 
-1. BST on-site quality inspections and factory audit services throughout China help businesses reduce the risks that come with poor quality, loading, storage, transportation, and non-compliance with regulations, so that specifications, packaging, marking, and delivery all meet the contract.
+1. BST on-site inspections and factory audits across China help businesses reduce the risks of poor quality, loading, storage, transport and non-compliance, so that specifications, packaging, marking and delivery all meet the contract.
 
-2. BST inspectors are careful, responsible, honest and professional, lowering your risk of receiving defective goods.
+2. Our inspectors are careful, responsible and independent, which lowers your risk of receiving defective goods.
 
-3. We arrange our work flexibly according to your needs, helping you save time and costs.
+3. We schedule work around your production plan, saving you time and cost.
 
-4. We cut the travel and other incidental costs you would otherwise spend on doing the inspections yourself.
+4. You avoid the travel and incidental costs of running inspections yourself.
 
-## What is critical defects, major defects and minor defects?
+## What are critical, major and minor defects?
 
-Defects found in inspection are classified into three categories: critical defects, major defects and minor defects:
+Defects found during inspection fall into three categories: critical, major and minor.
 
 ### 1) Critical defects
 
-Critical defects could result in hazardous or unsafe conditions for individuals using or maintaining the product, as well as defects contravening legal regulations.
+Critical defects could create hazardous or unsafe conditions for people using or maintaining the product, or breach legal requirements.
 
 ### 2) Major defects
 
-Major defects may shorten the product's life or reduce the ability to use the item (poor functioning, item incomplete or broken, etc.), or give it a flawed appearance that affects its value.
+Major defects may shorten the product's life or limit its use (poor function, missing or broken parts), or leave a visible flaw that lowers its value.
 
 ### 3) Minor defects
 
-Minor defects usually do not affect normal use, but the product quality may be slightly degraded.
+Minor defects usually do not affect normal use, but they slightly reduce product quality.
 
-## What can you find out from the AQL tables?
+## How to read the AQL tables
 
-### Understanding the AQL Tables
+### Understanding the AQL tables
 
-#### Sample Size Code Letters
+#### Sample size code letters
 
 | Lot batch size | S-1 | S-2 | S-3 | S-4 | I | II | III |
-|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|
 | 2 to 8 | A | A | A | A | A | A | B |
 | 9 to 15 | A | A | A | A | A | B | C |
 | 16 to 25 | A | A | B | B | B | C | D |

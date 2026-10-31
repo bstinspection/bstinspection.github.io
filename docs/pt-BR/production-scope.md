@@ -26,7 +26,7 @@ f. Vestuário e calçados.
 
 a. Pesquisa de fornecedores.
 
-b. Testemunha de equipamentos industriais.
+b. Acompanhamento de equipamentos industriais.
 
 c. Inspeção de produtos: fios e cabos, tubos e torres de aço, material estrutural, bombas, caldeiras, válvulas, tubos de petróleo.
 
@@ -34,7 +34,7 @@ d. Inspeção de estruturas de aço, guindastes, navios, petróleo e gás confor
 
 ### 3. Produtos médicos
 
-a. Swabs, ataduras, fita médica, protetores oculares.
+a. Cotonetes, ataduras, fita médica, protetores oculares.
 
 b. Medidores de pressão arterial, oxímetros de pulso, termômetros.
 
@@ -54,6 +54,6 @@ Categorias em expansão:
 - Bombas, caldeiras, válvulas
 - Tubos de petróleo
 
-Estas categorias seguem os mesmos passos das nossas linhas atuais: pesquisa do fornecedor antes da confirmação do pedido, testemunha de equipamentos durante a produção e inspeção conforme padrões internacionais antes do embarque. Nossos inspetores na China e nos outros sete países da Ásia onde atuamos estão aptos a assumir esses encargos.
+Estas categorias seguem os mesmos passos das nossas linhas atuais: pesquisa do fornecedor antes da confirmação do pedido, acompanhamento de equipamentos durante a produção e inspeção conforme padrões internacionais antes do embarque. Nossos inspetores na China e nos outros sete países da Ásia onde atuamos estão aptos a assumir essas demandas.
 
 Se você compra produtos industriais e precisa de uma inspeção independente, escreva para [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) ou ligue para 0086-13798166270.

@@ -14,7 +14,7 @@ O novo site da BST está no ar. Ele foi feito para clientes em todo o mundo, com
 
 - Sete idiomas: inglês, chinês, francês, russo, espanhol, português (Brasil) e árabe. Os clientes podem ler o site no idioma que conhecem melhor.
 - Interface limpa e profissional, com navegação melhorada, que funciona em desktop, tablet e celular.
-- Todos os serviços de garantia da qualidade são descritos em detalhes, da Auditoria de Fábrica ao Arranjo de Testes, com navegação por âncoras.
+- Todos os serviços de garantia da qualidade são descritos em detalhes, da auditoria de fábrica à organização de testes, com navegação por âncoras.
 - Ao trocar de idioma, você permanece na mesma página.
 - O árabe tem suporte completo de layout da direita para a esquerda.
 

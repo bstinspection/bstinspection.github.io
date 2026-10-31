@@ -2,8 +2,8 @@
 layout: page
 heading: "Rapports de référence"
 title: "Exemples de rapports d'inspection"
-description: "Consultez des exemples de rapports BST : constats, photos, classement des défauts et mesures, tels qu'ils figurent dans le PDF final."
+description: "Des exemples de rapports d'inspection BST sont disponibles sur demande au format PDF : constats, photos, classement des défauts et mesures."
 lang: fr
 ---
 
-Les rapports de référence sont disponibles sur demande. Veuillez envoyer un courriel à [info@bstinspection.com](mailto:info@bstinspection.com) ou à [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).
+Les rapports de référence sont disponibles sur demande. Écrivez à [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) et nous vous enverrons un exemple au format PDF correspondant à votre catégorie de produits.

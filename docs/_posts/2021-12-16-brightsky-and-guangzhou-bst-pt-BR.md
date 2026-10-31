@@ -1,8 +1,8 @@
 ---
 layout: post
-heading: "Brightsky e Guangzhou BST — Uma fusão estratégica para uma garantia de qualidade mais robusta"
+heading: "Brightsky e Guangzhou BST: uma fusão estratégica para uma garantia da qualidade mais robusta"
 title: "BST e Brightsky concluem a fusão"
-description: "A Brightsky Technology Services (Hong Kong) e a Guangzhou BST concluíram a fusão, formando uma plataforma única de garantia de qualidade na Ásia."
+description: "A Brightsky Technology Services (Hong Kong) e a Guangzhou BST concluíram a fusão, formando uma plataforma única de garantia da qualidade na Ásia."
 date: 2021-12-16 00:00:00 +0800
 lang: pt-BR
 permalink: /pt-BR/news/brightsky-and-guangzhou-bst/
@@ -12,11 +12,11 @@ A Brightsky Technology Services Co., Ltd. (Hong Kong) e a Guangzhou BST Technolo
 
 ## O que isso significa para nossos clientes
 
-A fusão combina a rede internacional de clientes da Brightsky e a experiência operacional de Hong Kong com a equipe de inspeção local da Guangzhou BST e o conhecimento das práticas de fabricação na China. Agora podemos:
+A fusão combina a rede internacional de clientes da Brightsky e a experiência operacional de Hong Kong com a equipe de inspeção local da Guangzhou BST e o conhecimento das práticas de fabricação na China. A empresa combinada agora oferece:
 
 - Mais ampla cobertura geográfica: de auditorias de fábrica no sul da China a supervisão de carregamento em portos do norte.
-- Operações simplificadas: todas as necessidades de garantia da qualidade são tratadas por meio de um único ponto de contato, desde as verificações iniciais de produção até a inspeção final aleatória.
-- Padrões de serviço consistentes: procedimentos de inspeção, formatos de relatório e benchmarks de qualidade uniformes em todas as linhas de serviço.
+- Operações simplificadas: todas as necessidades de garantia da qualidade são tratadas por meio de um único ponto de contato, desde a verificação de produção inicial até a inspeção final aleatória.
+- Padrões de serviço consistentes: procedimentos de inspeção, formatos de relatório e parâmetros de qualidade uniformes em todas as linhas de serviço.
 
 ## O que vem pela frente
 

@@ -28,11 +28,11 @@ f. Garments and shoes.
 
 a. Supplier survey.
 
-b. Witness of industrial equipment.
+b. Witnessing of industrial equipment.
 
-c. Product inspection: wire and cable, steel pipe and tower, structural material, pump, boiler, valve, oil pipe.
+c. Product inspection: wire and cable, steel pipe and tower, structural materials, pumps, boilers, valves, oil pipes.
 
-d. Steel structure, crane, ship, oil and gas inspection as per international standards.
+d. Steel structure, crane, ship, oil and gas inspection against international standards.
 
 ### 3. Medical Products
 
@@ -48,14 +48,14 @@ c. Face masks and other personal protective supplies.
 
 Industrial products account for a limited share of our business today. Over the next five years, resources will be directed to this business line, with the goal of establishing it as one of our core businesses.
 
-The categories we are expanding:
+Categories we are expanding:
 
 - Wire and cable
 - Steel pipe and tower
-- Structural material
-- Pump, boiler, valve
-- Oil pipe
+- Structural materials
+- Pumps, boilers, valves
+- Oil pipes
 
-These categories go through the same steps as our existing lines: supplier survey before order confirmation, witness of equipment during production, and inspection against international standards before shipment. Our inspectors in China and the other seven Asian countries we cover are all able to accept these assignments.
+These categories follow the same steps as our existing work: supplier survey before the order is confirmed, witnessing of equipment during production, and inspection against international standards before shipment. Our inspectors in China and the other seven Asian countries we cover are all able to take on these assignments.
 
-If you are sourcing industrial goods and require third-party inspection services, write to [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) or call 0086-13798166270.
+If you are sourcing industrial goods and need third-party inspection, write to [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) or call 0086-13798166270.

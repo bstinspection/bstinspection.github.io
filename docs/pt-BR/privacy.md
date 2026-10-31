@@ -10,7 +10,7 @@ lang: pt-BR
 
 ## 1. Visão geral e controlador de dados
 
-Este site é um site promocional estático operado pela Guangzhou BST Technology Services Co., Ltd. («BST», «nós») para apresentar nossos serviços de controle de qualidade. Esta política explica como as informações são tratadas quando você visita nosso site.
+Este site é um site promocional estático operado pela Guangzhou BST Technology Services Co., Ltd. (“BST”, “nós”) para apresentar nossos serviços de controle de qualidade. Esta política explica como as informações são tratadas quando você visita nosso site.
 
 Para os fins da legislação aplicável de proteção de dados, o controlador de dados é:
 
@@ -24,9 +24,9 @@ Este é um site estático. Ele não possui formulários de contato, não exige r
 
 ## 3. Informações que você fornece voluntariamente
 
-Quando você entra em contato conosco por e-mail, telefone ou WeChat, pode optar por compartilhar informações pessoais conosco, como nome, empresa e dados de contato. Usamos essas informações apenas para responder à sua consulta, fornecer informações sobre nossos serviços e comunicar-nos com você sobre uma possível ou existente relação comercial.
+Quando você entra em contato conosco por e-mail, telefone ou WeChat, pode optar por compartilhar informações pessoais conosco, como nome, empresa e dados de contato. Usamos essas informações apenas para responder à sua consulta, fornecer informações sobre nossos serviços e nos comunicar com você sobre uma possível ou existente relação comercial.
 
-Base legal para esse processamento (artigo 6.º do RGPD): seu consentimento (artigo 6.º, n.º 1, alínea a)) ao fornecer as informações, e nosso interesse legítimo em responder às consultas e atender nossos clientes (artigo 6.º, n.º 1, alínea f)). Quando aplicável, o processamento também é necessário para medidas pré-contratuais (artigo 6.º, n.º 1, alínea b)).
+Base legal para esse processamento (artigo 6º do RGPD): seu consentimento (artigo 6º, nº 1, alínea a)) ao fornecer as informações, e nosso interesse legítimo em responder às consultas e atender nossos clientes (artigo 6º, nº 1, alínea f)). Quando aplicável, o processamento também é necessário para medidas pré-contratuais (artigo 6º, nº 1, alínea b)).
 
 ## 4. Informações processadas pelas plataformas de hospedagem (GitHub Pages, Fastly)
 
@@ -46,7 +46,7 @@ Este site não define nem utiliza cookies.
 
 ## 6. Divulgação de informações
 
-Não vendemos, alugamos, trocamos ou compartilhamos informações pessoais com terceiros para fins de marketing. Em particular, não «vendemos» informações pessoais conforme definido na California Consumer Privacy Act (CCPA/CPRA). Só podemos divulgar informações pessoais:
+Não vendemos, alugamos, trocamos ou compartilhamos informações pessoais com terceiros para fins de marketing. Em particular, não “vendemos” informações pessoais conforme definido na California Consumer Privacy Act (CCPA/CPRA). Só podemos divulgar informações pessoais:
 
 - quando necessário para fornecer os serviços solicitados por você;
 - quando exigido pela legislação aplicável, por processo legal ou por solicitação governamental;
@@ -57,9 +57,9 @@ Não vendemos, alugamos, trocamos ou compartilhamos informações pessoais com t
 
 Dependendo de onde você mora, você pode ter os seguintes direitos de acordo com o RGPD e/ou a CCPA/CPRA:
 
-- direito de acesso — obter uma cópia das informações pessoais que temos sobre você;
-- direito de retificação — corrigir informações pessoais imprecisas;
-- direito ao apagamento («direito de ser esquecido») — solicitar a exclusão;
+- direito de acesso: obter uma cópia das informações pessoais que temos sobre você;
+- direito de retificação: corrigir informações pessoais imprecisas;
+- direito ao apagamento (“direito de ser esquecido”): solicitar a exclusão;
 - direito à limitação do processamento;
 - direito à portabilidade dos dados;
 - direito de se opor ao processamento baseado em interesse legítimo;

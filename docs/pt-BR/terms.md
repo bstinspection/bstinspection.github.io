@@ -8,50 +8,50 @@ lang: pt-BR
 
 ## 1. Geral
 
-1.1 Salvo disposição expressa em contrário por escrito da Guangzhou BST Technology Services (doravante denominada "BST"), todos os serviços prestados pela BST são regidos pelas seguintes condições gerais de serviço, que prevalecem sobre quaisquer termos e condições de compra.
+1.1 Salvo disposição expressa em contrário por escrito da Guangzhou BST Technology Services (doravante denominada “BST”), todos os serviços prestados pela BST são regidos pelas seguintes condições gerais de serviço, que prevalecem sobre quaisquer termos e condições de compra.
 
-1.2 Os serviços realizados pela BST, em nome de uma entidade ou indivíduo de quem as instruções para agir se originaram, serão realizados usando técnicas e processos que permitem uma abordagem independente, imparcial e objetiva. O resultado final do serviço consistirá em um certificado ou documento (doravante denominado "relatório") que comunica a coleta de informações que a BST foi solicitada a fornecer e será entregue por fax, documento escrito ou relatório online.
+1.2 Os serviços realizados pela BST, em nome de uma entidade ou indivíduo de quem as instruções para agir se originaram, serão realizados usando técnicas e processos que permitem uma abordagem independente, imparcial e objetiva. O resultado final do serviço será um certificado ou documento (doravante denominado “relatório”) que apresenta as informações que a BST foi solicitada a fornecer e é entregue por fax, como documento escrito ou como relatório online.
 
 1.3 Nenhuma outra parte que não o cliente terá o direito de dar instruções à BST, particularmente sobre o escopo da inspeção ou entrega do relatório, a menos que autorizado pelo cliente.
 
 ## 2. Prestação de serviços
 
-A BST, na qualidade de terceiro independente, fornece informações na forma de constatações ou recomendações com o propósito especial de contribuir para a prevenção dos riscos aos quais os beneficiários de seus serviços estão expostos e de ajudá-los a garantir a qualidade de seus produtos. Os serviços da BST (doravante denominados "serviços") consistem em trabalho realizado pela BST, incluindo, mas não se limitando a:
+A BST, na qualidade de terceiro independente, fornece informações na forma de constatações ou recomendações com o propósito especial de contribuir para a prevenção dos riscos aos quais os beneficiários de seus serviços estão expostos e de ajudá-los a garantir a qualidade de seus produtos. Os serviços da BST (doravante denominados “serviços”) consistem em trabalho realizado pela BST, incluindo, mas não se limitando a:
 
-- Auditoria de Fábrica (FA)
-- Auditoria de Conformidade Social (SCA)
-- Verificação Inicial da Produção (IPC)
-- Controle de Qualidade em Processo (IPQC)
-- Verificação Durante a Produção (DUPRO)
-- Inspeção Final Aleatória (FRI)
-- Supervisão de Carregamento (L/S)
-- Arranjo de Testes (TA)
+- Auditoria de fábrica (FA)
+- Auditoria de conformidade social (SCA)
+- Verificação de produção inicial (IPC)
+- Controle de qualidade em processo (IPQC)
+- Verificação durante a produção (DUPRO)
+- Inspeção final aleatória (FRI)
+- Supervisão de carregamento (L/S)
+- Organização de testes (TA)
 
-## 3. Termos e Condições de Inspeção
+## 3. Termos e condições de inspeção
 
 | | |
 |---|---|
-| **Prazo de Reserva** | A solicitação de serviço deve ser feita com no mínimo 3 dias úteis antes do dia desejado para a inspeção. Reservas recebidas com menos de 2 dias úteis de antecedência podem não ser concluídas dentro do prazo. |
-| **Reserva Tardia** | Reservas tardias até o dia (dia útil normal) anterior à data do serviço solicitado serão realizadas se a carga de trabalho permitir. |
-| **Quantidade de Inspeção Final** | A Inspeção Final é normalmente realizada quando um embarque está 100% produzido e pelo menos 80% embalado. A realização da Inspeção Final abaixo de qualquer um desses limites é possível, mas deve ser confirmada por escrito pelo cliente. |
-| **Homem-dia** | Uma pessoa trabalhando e/ou viajando um dia útil normal. Carga mínima de 1 homem-dia — Conforme acordado com o cliente. |
-| **Horário Normal de Trabalho** | Combinação do tempo gasto trabalhando e viajando de e para o local do serviço. O Horário Normal de Trabalho é de 8 horas por dia. Horas extras serão aplicadas quando o tempo de trabalho sozinho exceder 8 horas. |
-| **Hora Extra** | Horas trabalhadas fora do horário normal de trabalho — USD 25/Homem-hora. |
-| **Cobrança de Tempo de Viagem** | 1. O tempo de viagem é gratuito se a viagem for feita no mesmo dia do serviço, mesmo que exceda o horário normal de trabalho (mas respeitando a legislação trabalhista local). 2. A cobrança de viagem é necessária se a viagem for necessária no dia anterior ou posterior à data do serviço. — Até 4 horas: adicional de 0,5 Homem-dia. 3. Tempo de espera no dia anterior ou posterior à data do serviço devido à falta de recursos de transporte. — Mais de 4 horas: adicional de 1,0 Homem-dia. |
-| **Dias Úteis Normais** | Segunda a Sexta-feira. |
-| **Cobrança por Trabalho em Feriados** | Sábado ou equivalente = sobretaxa de US$ 100 x número de Homem-dia(s); Domingo, Feriado ou equivalente = sobretaxa de US$ 150 x número de Homem-dia(s). |
-| **Taxa de Revisão da Data do Serviço** | Solicitação de reagendamento da data do serviço inicial com menos de 1 dia útil de antecedência antes da data do serviço. — Sobretaxa de US$ 50. |
-| **Taxa de Revisão Tardia da Data do Serviço** | Solicitação de reagendamento da data do serviço inicial no mesmo dia do serviço inicial — Taxa de homem-dia + quaisquer despesas incorridas. |
-| **Taxa de Início Tardio** | Solicitação para iniciar o serviço à tarde ou à noite. — Sobretaxa de US$ 50 x número de Homem-dia(s). |
-| **Taxa de Cancelamento Tardio** | Cancelamento do serviço com menos de 1 dia útil de antecedência antes da data do serviço. — Taxa de homem-dia + quaisquer despesas incorridas. |
-| **Taxa de Serviço Ausente** | Mercadorias não estão prontas ou a quantidade necessária não está disponível para inspeção quando o inspetor chega. — Taxa de homem-dia + quaisquer despesas incorridas. |
-| **Taxa de Reinsp eção** | De acordo com a exigência do cliente — Taxa de homem-dia + quaisquer despesas incorridas. |
-| **Despesas de Viagem** | Custo de transporte — Cobrado ao custo. |
-| **Hospedagem** | Despesas de hospedagem serão cobradas quando a viagem for necessária no dia anterior/posterior à data do serviço ou quando o pedido exigir 2+ dias. — Cobrado ao custo. |
-| **Despesas de Correio** | Documentos, amostras, materiais, etc. — Cobrado ao custo. |
-| **Responsabilidade** | Consulte o acordo da BST — 3 vezes a taxa de serviço e até 10 vezes em condições especiais. |
+| **Prazo de reserva** | A solicitação de serviço deve ser feita com no mínimo 3 dias úteis antes do dia desejado para a inspeção. Reservas recebidas com menos de 2 dias úteis de antecedência podem não ser concluídas dentro do prazo. |
+| **Reserva tardia** | Reservas tardias até o dia (dia útil normal) anterior à data do serviço solicitado serão realizadas se a carga de trabalho permitir. |
+| **Quantidade de inspeção final** | A inspeção final é normalmente realizada quando um embarque está 100% produzido e pelo menos 80% embalado. A realização da inspeção final abaixo de qualquer um desses limites é possível, mas deve ser confirmada por escrito pelo cliente. |
+| **Dia-homem** | Uma pessoa trabalhando e/ou viajando um dia útil normal. Carga mínima de 1 dia-homem, conforme acordado com o cliente. |
+| **Horário normal de trabalho** | Combinação do tempo gasto trabalhando e viajando de e para o local do serviço. O horário normal de trabalho é de 8 horas por dia. Horas extras serão aplicadas quando o tempo de trabalho sozinho exceder 8 horas. |
+| **Hora extra** | Horas trabalhadas fora do horário normal de trabalho: USD 25 por hora-homem. |
+| **Cobrança de tempo de viagem** | 1. O tempo de viagem é gratuito se a viagem for feita no mesmo dia do serviço, mesmo que exceda o horário normal de trabalho (mas respeitando a legislação trabalhista local). 2. A cobrança de viagem é necessária se a viagem for necessária no dia anterior ou posterior à data do serviço. Até 4 horas: adicional de 0,5 dia-homem. 3. Tempo de espera no dia anterior ou posterior à data do serviço devido à falta de recursos de transporte. Mais de 4 horas: adicional de 1,0 dia-homem. |
+| **Dias úteis normais** | Segunda a sexta-feira. |
+| **Cobrança por trabalho em feriados** | Sábado ou equivalente: sobretaxa de USD 100 por dia-homem; domingo, feriado ou equivalente: sobretaxa de USD 150 por dia-homem. |
+| **Taxa de revisão da data do serviço** | Solicitação de reagendamento da data do serviço inicial com menos de 1 dia útil de antecedência antes da data do serviço: sobretaxa de USD 50. |
+| **Taxa de revisão tardia da data do serviço** | Solicitação de reagendamento da data do serviço inicial no mesmo dia do serviço inicial: taxa de dia-homem mais quaisquer despesas incorridas. |
+| **Taxa de início tardio** | Solicitação para iniciar o serviço à tarde ou à noite: sobretaxa de USD 50 por dia-homem. |
+| **Taxa de cancelamento tardio** | Cancelamento do serviço com menos de 1 dia útil de antecedência antes da data do serviço: taxa de dia-homem mais quaisquer despesas incorridas. |
+| **Taxa de serviço ausente** | Mercadorias não estão prontas ou a quantidade necessária não está disponível para inspeção quando o inspetor chega: taxa de dia-homem mais quaisquer despesas incorridas. |
+| **Taxa de reinspeção** | De acordo com a exigência do cliente: taxa de dia-homem mais quaisquer despesas incorridas. |
+| **Despesas de viagem** | Custo de transporte: cobrado ao custo. |
+| **Hospedagem** | Despesas de hospedagem serão cobradas quando a viagem for necessária no dia anterior/posterior à data do serviço ou quando o pedido exigir 2+ dias: cobradas ao custo. |
+| **Despesas de correio** | Documentos, amostras, materiais etc.: cobrados ao custo. |
+| **Responsabilidade** | Consulte o acordo da BST: 3 vezes a taxa de serviço e até 10 vezes em condições especiais. |
 
-## 4. Obrigações e Compromissos da BST
+## 4. Obrigações e compromissos da BST
 
 A BST reserva-se expressamente o direito de agir a seu próprio critério ao aceitar ou recusar uma solicitação de serviço, e não pode ser compelida a aceitar ou ser responsabilizada por recusar uma solicitação de serviços ou produtos:
 
@@ -61,13 +61,13 @@ A BST reserva-se expressamente o direito de agir a seu próprio critério ao ace
 
 A BST compromete-se a fornecer os serviços que aceitou realizar de forma profissional e pontual, de acordo com a prática profissional adequada e em conformidade com:
 
-- As instruções especiais do cliente ao solicitar o serviço e conforme confirmado pela BST – os termos de referência devem ser devidamente assinados pelo cliente e pela BST e, na ausência de tais instruções:
+- As instruções especiais do cliente ao solicitar o serviço e conforme confirmado pela BST. Os termos de referência devem ser devidamente assinados pelo cliente e pela BST e, na ausência de tais instruções:
 - Qualquer norma profissional relevante, costume comercial, uso ou prática.
 - Os métodos que a BST considerar apropriados por razões técnicas, operacionais e/ou financeiras.
 
 A BST exercerá o devido cuidado e habilidade na seleção e atribuição de seu pessoal.
 
-## 5. Obrigações e Compromissos do Cliente
+## 5. Obrigações e compromissos do cliente
 
 O cliente concorda:
 
@@ -81,13 +81,13 @@ O cliente concorda:
 
 5.5 De modo geral, prestar toda a assistência razoável à BST no fornecimento de instruções, informações, documentos, informações de segurança e proteção necessárias em relação às condições de trabalho, equipamentos necessários e acesso (conforme o caso).
 
-5.6 Documentos que reflitam acordos entre o cliente e terceiros ou documentos de terceiros — se recebidos pela BST — são considerados apenas para informação e não estendem ou restringem o escopo dos serviços ou obrigações aceitos pela BST.
+5.6 Documentos que reflitam acordos entre o cliente e terceiros, ou documentos de terceiros recebidos pela BST, são considerados apenas para informação e não estendem ou restringem o escopo dos serviços ou obrigações aceitos pela BST.
 
-## 6. Responsabilidade e Indenização
+## 6. Responsabilidade e indenização
 
 ### 6.1 Limitação de responsabilidade
 
-Nenhuma ação ou inspeção da BST exime o fabricante da obrigação de entregar mercadorias de qualidade ou de compensar o cliente pela entrega de produtos defeituosos. As inspeções realizadas pela BST são simplesmente uma paleta de ferramentas de qualidade à disposição do comprador para exercer mais controle sobre o processo de compra e reduzir a possibilidade de erros, mal-entendidos, negligência ou mesmo fraude. Se for comprovado que a equipe da BST não notou defeitos documentados ou problemas de segurança durante o curso das inspeções, a BST reembolsará o valor da inspeção; em casos de comprovada má conduta intencional extrema, até dez vezes. Quaisquer preocupações que o cliente possa ter em relação ao desempenho da equipe da BST devem ser levadas ao conhecimento da BST imediatamente, para que a BST possa iniciar investigações de sinistro que envolvam a verificação de amostras de referência, amostras de embarque e toda a documentação relacionada à inspeção para verificar onde as coisas deram errado.
+Nenhuma ação ou inspeção da BST exime o fabricante da obrigação de entregar mercadorias de qualidade ou de compensar o cliente pela entrega de produtos defeituosos. As inspeções realizadas pela BST são simplesmente um conjunto de ferramentas de qualidade à disposição do comprador para exercer mais controle sobre o processo de compra e reduzir a possibilidade de erros, mal-entendidos, negligência ou mesmo fraude. Se for comprovado que a equipe da BST não notou defeitos documentados ou problemas de segurança durante o curso das inspeções, a BST reembolsará o valor da inspeção; em casos de comprovada má conduta intencional extrema, até dez vezes. Quaisquer preocupações que o cliente possa ter em relação ao desempenho da equipe da BST devem ser levadas ao conhecimento da BST imediatamente, para que a BST possa iniciar uma investigação de reclamação que envolva a verificação de amostras de referência, amostras de embarque e toda a documentação relacionada à inspeção, para apurar o que ocorreu.
 
 O aconselhamento da BST é dado apenas em relação a documentos e informações fornecidos pelo cliente, e a BST não pode ser responsabilizada se receber informações incompletas ou falsas.
 
@@ -95,7 +95,7 @@ O aconselhamento da BST é dado apenas em relação a documentos e informações
 
 6.2.1 No caso de a BST ser responsabilizada em relação a qualquer reclamação por perda, dano ou despesa de qualquer natureza e como quer que surja, sua responsabilidade para com o cliente não excederá em nenhuma circunstância dez vezes o valor total agregado das taxas pagas pelos serviços específicos para os quais uma reclamação é feita.
 
-6.2.2 Além disso, no caso do serviço de Inspeções Finais Aleatórias, quando menos de 100% da produção estiver concluída, nossa responsabilidade se estenderá apenas aos itens concluídos no momento da inspeção. O relatório FRI não comprova o embarque.
+6.2.2 Além disso, no caso do serviço de inspeção final aleatória, quando menos de 100% da produção estiver concluída, nossa responsabilidade se estenderá apenas aos itens concluídos no momento da inspeção. O relatório da FRI não comprova o embarque.
 
 ## 7. Diversos
 
@@ -105,7 +105,7 @@ A BST deve fazer o possível para manter as amostras em bom estado. No entanto, 
 
 ## 8. Direitos autorais e propriedade intelectual
 
-8.1 Este site e todo o seu conteúdo — incluindo, entre outros, textos, artigos, imagens, logotipos, além do design e o layout das páginas — pertencem à Guangzhou BST Technology Services Co., Ltd. e são protegidos pelas leis de direitos autorais e marcas comerciais aplicáveis.
+8.1 Este site e todo o seu conteúdo (incluindo, entre outros, textos, artigos, imagens, logotipos, além do design e o layout das páginas) pertencem à Guangzhou BST Technology Services Co., Ltd. e são protegidos pelas leis de direitos autorais e marcas comerciais aplicáveis.
 
 8.2 Sem o consentimento prévio por escrito da BST, nenhuma parte deste site poderá ser copiada, reproduzida, republicada, transmitida, distribuída ou utilizada para fins comerciais. A citação para fins de comentário ou informativos é permitida apenas com a indicação clara da fonte (BST) e um link para a página original.
 

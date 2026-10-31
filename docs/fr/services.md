@@ -2,7 +2,7 @@
 layout: page
 heading: "Nos services"
 title: "Audit d'usine et inspections"
-description: "Huit prestations sur tout le cycle de production : audit d'usine, conformité sociale, IPC, IPQC, DUPRO, inspection finale et supervision du chargement."
+description: "Huit prestations sur tout le cycle de production : audit d'usine, conformité sociale, contrôle de production initiale, contrôle qualité en cours de fabrication, contrôle en cours de production, inspection finale aléatoire, supervision du chargement et organisation des tests."
 lang: fr
 ---
 
@@ -27,53 +27,51 @@ BST propose une gamme complète de services d'assurance qualité couvrant chaque
 
 L'audit d'usine est une évaluation sur site d'un fabricant au regard des normes de qualité, réalisée avant que vous ne vous engagiez sur une commande. L'inspecteur BST examine le profil de l'usine, la capacité, le système qualité, les conditions de travail et les pratiques environnementales, puis remet un rapport accompagné de photos. Il permet de confirmer qu'un nouveau fournisseur peut répondre à vos exigences de qualité, de quantité et de délai.
 
-Les clients attendent la bonne qualité, la bonne quantité et le respect des délais de livraison. Cela signifie que les fabricants doivent satisfaire à certaines normes de qualité dans leurs opérations. Pour confirmer qu'une usine y parvient effectivement, vous pouvez mandater une organisation locale professionnelle comme BST pour l'auditer sur site.
-
-### En général, nous vérifions les aspects suivants lors d'un audit d'usine :
+### Ce que couvre l'audit
 
 #### a. Profil de l'usine
 
-Cette section vous fournit des informations générales sur l'usine.
+Informations générales sur l'usine.
 
 #### b. Organigrammes et flux de travail
 
-Cette section comprend un rapport sur les flux d'informations et de travail au sein de l'usine ainsi qu'un organigramme.
+Rapport sur les flux d'information et de travail au sein de l'usine, accompagné de l'organigramme.
 
-#### c. Lignes de production — Capacité
+#### c. Lignes de production et capacité
 
-Cette section comprend un tableau de calcul de la capacité globale ainsi qu'une vérification de la production en cours pendant l'audit.
+Tableau de calcul de la capacité globale et vérification de la production en cours pendant l'audit.
 
-#### d. Installations de l'usine — État des machines
+#### d. Installations et état des machines
 
-Cette section comprend un examen des machines et des outils.
+Examen des machines et de l'outillage.
 
 #### e. Système d'assurance qualité
 
-Cette section comprend une évaluation des processus qualité internes, des installations de contrôle qualité, de l'équipe qualité, des enregistrements et des certificats qualité.
+Évaluation des processus qualité internes, des installations de contrôle qualité, de l'équipe qualité, des enregistrements et des certificats qualité.
 
 #### f. Responsabilité sociale
 
-Cette section comprend des entretiens avec les travailleurs et une brève évaluation des conditions de travail générales dans l'usine.
+Entretiens avec les travailleurs et brève évaluation des conditions de travail générales dans l'usine.
 
 #### g. Conditions d'approvisionnement
 
-Cette section comprend une évaluation de l'approvisionnement en matières premières et composants ainsi que des informations sur les pratiques des sous-traitants.
+Évaluation de l'approvisionnement en matières premières et composants, avec des informations sur les pratiques des sous-traitants.
 
 #### h. Capacité de R&D et d'échantillonnage
 
-Cette section comprend une évaluation de la capacité de l'usine à concevoir et développer de nouveaux produits.
+Évaluation de la capacité de l'usine à concevoir et développer de nouveaux produits.
 
 #### i. Hygiène et sécurité
 
-Cette section comprend une évaluation des conditions sanitaires et du niveau de sécurité des installations.
+Évaluation des conditions sanitaires et du niveau de sécurité des installations.
 
 #### j. Environnement
 
-Cette section comprend une brève évaluation de la politique environnementale de l'usine.
+Brève évaluation de la politique environnementale de l'usine.
 
 #### k. Normes RoHS
 
-Cette section comprend le niveau de sensibilisation et/ou de conformité de l'usine aux normes RoHS (Restriction de l'utilisation de certaines substances dangereuses dans les équipements électriques et électroniques).
+Niveau de sensibilisation de l'usine aux normes RoHS (limitation de l'utilisation de certaines substances dangereuses dans les équipements électriques et électroniques) et degré de conformité à ces normes.
 
 ### Quand réserver : 30 à 45 jours avant la première commande
 
@@ -81,19 +79,17 @@ La plupart des clients réservent l'audit avant de passer la première commande,
 
 ## 2. Audit de conformité sociale (SCA) {#sca}
 
-L'audit de conformité sociale, également appelé audit de code de conduite, vérifie une usine au regard des normes SA8000 ou de vos propres exigences sociales. Les auditeurs interviewent les travailleurs, examinent les registres et inspectent sur place les horaires de travail, la sécurité et les installations sociales. Le rapport recense les non-conformités afin que l'usine puisse les corriger avant l'expédition de votre commande.
+L'audit de conformité sociale, également appelé audit de code de conduite, vérifie une usine au regard des normes SA8000 ou de vos propres exigences sociales. Les auditeurs, de langue maternelle locale, interviewent les travailleurs, examinent les registres et inspectent sur place les horaires de travail, la sécurité et les installations sociales. Le rapport recense les non-conformités afin que l'usine puisse les corriger avant l'expédition de votre commande.
 
-L'audit de conformité sociale (également appelé audit de code de conduite) est réalisé principalement sur la base des normes SA8000 ou des normes établies par les clients. Nos auditeurs, de langue maternelle locale, interviewent le personnel, vérifient les registres et le fonctionnement de l'usine, vous informent des non-conformités et laissent à l'usine la possibilité de les corriger.
-
-En général, nous vérifions les aspects suivants lors d'un audit de conformité sociale :
+### Ce que couvre l'audit
 
 - Informations générales
 - Heures de travail
-- Travail des enfants / Travail forcé
+- Travail des enfants et travail forcé
 - Conditions de sécurité
 - Installations sociales
 - Conditions de travail
-- Autres
+- Autres points
 
 ### Quand réserver : avant la première commande ou avant la haute saison
 
@@ -101,31 +97,23 @@ Les acheteurs demandent de plus en plus un audit social valide avant la haute sa
 
 ## 3. Contrôle de production initiale (IPC) {#ipc}
 
-Le contrôle de production initiale vérifie les composants, les matériaux et les accessoires au début de la production, avant le lancement de la série. L'inspecteur les compare à vos spécifications et à l'échantillon de référence : les écarts sont corrigés alors qu'ils coûtent encore peu cher. Toute non-conformité est signalée immédiatement pour préserver votre calendrier de livraison.
+Le contrôle de production initiale vérifie les composants, les matériaux et les accessoires au début de la production, avant le lancement de la série. Le contrôle est visuel : l'inspecteur les compare à vos spécifications et à l'échantillon de référence, de sorte que les écarts sont corrigés tant qu'ils coûtent encore peu cher. Toute non-conformité est signalée immédiatement pour préserver votre calendrier de livraison.
 
-Un contrôle visuel de la qualité des composants, des matériaux et des accessoires au début de la production, comparés aux spécifications du client et/ou à l'échantillon de référence. L'IPC permet ainsi des corrections et des améliorations en temps utile avant le lancement de la production en série. Toute non-conformité est immédiatement signalée afin d'éviter les retards d'expédition.
+### Ce que couvre le contrôle
 
-En général, nous vérifions les aspects suivants pour l'IPC :
-
-- Évaluer la capacité de production et les équipements de l'usine.
-- Vérifier la capacité de contrôle qualité de l'usine et l'état d'exécution des procédures.
-- Vérifier la précision des installations et des équipements de production.
-- Auditer les techniques de production et vérifier que le personnel QC de l'usine est bien réparti.
-- Vérifier la quantité et la qualité des matières premières et des composants principaux qui seront utilisés dans vos produits, repérer les problèmes possibles à l'avance et confirmer tôt que les spécifications de vos produits sont respectées.
+- Capacité de production et équipements de l'usine.
+- Capacité de contrôle qualité de l'usine et application des procédures.
+- Précision des installations et des équipements de production.
+- Techniques de production, et bonne répartition du personnel QC de l'usine.
+- Quantité et qualité des matières premières et des composants principaux, afin de repérer les problèmes possibles dès le départ et de confirmer le respect de vos spécifications.
 
 ### Quand réserver : dans les premiers jours de production
 
 Réservez le contrôle dès que la ligne est réglée et que les matières premières sont sur place ; plus il intervient tôt, moins les corrections coûtent cher.
 
-## 4. Contrôle qualité en cours de processus (IPQC) {#ipqc}
+## 4. Contrôle qualité en cours de fabrication (IPQC) {#ipqc}
 
-Le contrôle qualité en cours de processus intervient pendant la production pour détecter tôt les problèmes de qualité, tant qu'il est encore temps de les corriger. L'inspecteur examine les stocks de matières premières, les cadences de production, la qualité d'exécution et la date d'achèvement estimée, et vous donne une image fidèle de l'atelier avant la fin de la commande.
-
-Le contrôle qualité en cours de processus a pour but de fournir une alerte précoce en cas de problème de qualité ou d'autre problème survenant pendant la production et susceptible de retarder l'expédition.
-
-Il fournit un aperçu de l'état actuel de la production à l'usine. Pendant la production, les pièces semi-finies doivent être inspectées selon l'AQL ou un pourcentage, conformément à la politique et au plan d'inspection de l'entreprise.
-
-Les contrôles effectués comprennent les stocks de matières premières, les taux de production, la date d'achèvement estimée de la production, les goulots d'étranglement, etc.
+Le contrôle qualité en cours de fabrication intervient pendant la production pour détecter tôt les problèmes de qualité, tant qu'il est encore temps de les corriger. L'inspecteur examine les stocks de matières premières, les cadences de production, la qualité d'exécution et la date d'achèvement estimée, et repère les goulots d'étranglement susceptibles de retarder l'expédition. Les pièces semi-finies sont contrôlées selon l'AQL ou un pourcentage, conformément au plan d'inspection convenu. Vous disposez ainsi d'une image fidèle de l'atelier avant la fin de la commande.
 
 ### Quand réserver : entre 10 et 20 % d'avancement
 
@@ -133,19 +121,15 @@ Réservez la visite lorsque la production est lancée de façon stable, afin que
 
 ## 5. Contrôle en cours de production (DUPRO) {#dupro}
 
-Le contrôle en cours de production, ou DUPRO, inspecte les composants, les matériaux et les produits semi-finis lorsque 20 à 30 % de la commande est terminée. L'inspecteur échantillonne le lot sur la ligne, identifie les écarts et conseille les mesures correctives, afin que la suite de la production respecte la même qualité.
+Le contrôle en cours de production, ou DUPRO, inspecte les composants, les matériaux et les produits semi-finis lorsque 20 à 30 % de la commande est terminée. L'inspecteur prélève des échantillons sur la ligne, identifie les écarts et conseille les mesures correctives, puis vérifie que les corrections recommandées lors de l'IPC ont été appliquées. La suite de la production est ainsi maintenue au même niveau de qualité.
 
-Un contrôle visuel de la qualité des composants, des matériaux et des produits semi-finis lorsque au moins 20 à 30 % de la commande est terminée. Nous inspectons le lot de production et les produits en ligne de manière aléatoire pour détecter d'éventuels défauts ; le cas échéant, nous identifions l'écart et donnons des conseils sur les mesures correctives nécessaires pour garantir une qualité de lot uniforme.
+### Ce que couvre le contrôle
 
-Le DUPRO fournit une inspection en ligne. Les inspecteurs qualifiés vérifient que les corrections et améliorations suggérées lors de l'IPC ont été mises en œuvre, examinent la production en cours et conseillent les fabricants sur les corrections ou améliorations supplémentaires à apporter.
-
-Nous vérifions généralement les points suivants :
-
-- Évaluer l'état de la production pendant le processus de fabrication.
-- Inspecter aléatoirement les échantillons finis sur site et les comparer à vos spécifications produit.
-- Selon l'état évalué des échantillons finis et semi-finis, réorganiser la disposition du QC à l'usine.
-- Évaluer les détails d'emballage et le matériel d'emballage.
-- Vérifier la précision des équipements de production et les méthodes d'élimination des produits défectueux.
+- État de la production pendant le processus de fabrication.
+- Échantillons de produits finis prélevés sur site et comparés à vos spécifications.
+- Réorganisation de la disposition du contrôle qualité à l'usine, selon l'état évalué des échantillons finis et semi-finis.
+- Détails de l'emballage et matériel d'emballage.
+- Précision des équipements de production et méthodes d'élimination des produits défectueux.
 
 ### Quand réserver : entre 20 et 30 % d'avancement
 
@@ -153,19 +137,15 @@ Nous vérifions généralement les points suivants :
 
 ## 6. Inspection finale aléatoire (FRI) {#fri}
 
-L'inspection finale aléatoire, également appelée inspection pré-expédition, vérifie les marchandises finies avant leur départ de l'usine. Les échantillons sont prélevés selon ANSI/ASQC Z1.4, MIL-STD-105E ou ISO 2859 et contrôlés en quantité, fabrication, fonctionnement, sécurité, dimensions et emballage, conformément à vos spécifications.
+L'inspection finale aléatoire, également appelée inspection pré-expédition, vérifie les marchandises finies avant leur départ de l'usine. Elle intervient lorsque la production est terminée à 100 % et qu'au moins 80 % des marchandises sont emballées, marquées et prêtes à être expédiées. Dans les locaux du fabricant, les échantillons sont prélevés selon ANSI/ASQC Z1.4, MIL-STD-105E, ISO 2859 ou une norme équivalente (BS 6001, DIN 40080, NF X06-022). Ils sont ensuite contrôlés en quantité, fabrication, fonctionnement, sécurité, dimensions et emballage, conformément à vos spécifications.
 
-L'équipe BST effectue une inspection finale aléatoire qui comprend une inspection visuelle détaillée des marchandises avant expédition. Elle est généralement réalisée dans les locaux du fabricant, sur des échantillons sélectionnés selon des procédures d'échantillonnage définies.
+### Points de contrôle clés
 
-La FRI a lieu lorsque les marchandises sont terminées à 100 % et qu'au moins 80 % sont bien emballées, marquées et prêtes à être expédiées. Nos inspecteurs prélèvent aléatoirement des échantillons parmi les produits finis, sur la base d'une technique d'échantillonnage aléatoire statistique, communément connue sous les normes ANSI/ASQC Z1.4, MIL-STD-105E, BS6001, DIN40080, ISO2859 ou NFX06-022, pour vérifier que les lots d'expédition finis sont conformes à vos spécifications.
-
-Points de contrôle clés :
-
-- Vérification de la quantité
+- Quantité
 - Style, couleur et matériau
-- Contrôle visuel (fabrication)
-- Contrôle fonctionnel/sécurité
-- Mesure des dimensions si nécessaire
+- Fabrication (contrôle visuel)
+- Fonctionnement et sécurité
+- Mesures dimensionnelles si nécessaire
 - Détails de l'emballage
 - Marquage d'expédition
 
@@ -173,31 +153,27 @@ Points de contrôle clés :
 
 Réservez l'inspection lorsque les marchandises sont entièrement emballées et marquées. Si l'inspecteur BST détecte des problèmes de qualité, il vous reste le temps de demander à l'usine de refaire les produits.
 
-## 7. Supervision de chargement (L/S) {#ls}
+## 7. Supervision du chargement (L/S) {#ls}
 
-La supervision de chargement place un inspecteur BST auprès du conteneur pendant le chargement de vos marchandises. L'inspecteur vérifie les informations produit, la quantité et l'emballage, surveille le chargement, contrôle l'état des cartons et scelle le conteneur avec le sceau douanier, en consignant le numéro de sceau et l'heure de départ.
+La supervision du chargement place un inspecteur BST auprès du conteneur pendant le chargement de vos marchandises. Avant le chargement, il vérifie les informations produit, la quantité et l'emballage. Pendant l'opération, il surveille l'ensemble du processus, s'assure que les cartons d'exportation sont disposés sans risque de déformation ou d'effondrement et assiste le fabricant selon une procédure de chargement définie. Le conteneur est ensuite scellé avec le sceau douanier et le sceau d'inspection qualité, et le numéro de sceau ainsi que l'heure de départ sont consignés.
 
-Avant le chargement, nos inspecteurs vérifient les informations, la quantité et l'emballage des produits. Pendant le chargement, ils supervisent l'ensemble du processus, s'assurent que les cartons d'exportation sont bien disposés dans le conteneur, sans risque de déformation ni d'effondrement, et aident le fabricant à terminer le chargement conformément à des procédures d'exploitation clairement définies.
+### Points de contrôle clés
 
-Points de contrôle clés :
-
-- Enregistrer la météo / l'heure d'arrivée du conteneur / le numéro du conteneur / le numéro du camion.
-- Vérifier l'état intérieur et extérieur pour détecter tout dommage / humidité / trou / odeur étrange.
-- Vérifier la quantité de marchandises chargées et enregistrer l'état de l'emballage extérieur (cartons maîtres / palettes).
-- Ouvrir aléatoirement certains cartons pour vérifier que les marchandises sont conformes aux spécifications du client.
-- Superviser l'ensemble du processus de chargement.
-- Sceller le conteneur avec le sceau douanier et le sceau unique d'inspection qualité.
-- Enregistrer le numéro du sceau et l'heure de départ du conteneur.
+- Météo, heure d'arrivée du conteneur, numéro du conteneur et du camion.
+- État intérieur et extérieur : dommages, humidité, trous, odeurs inhabituelles.
+- Quantité de marchandises chargées et état de l'emballage extérieur (cartons maîtres et palettes).
+- Ouverture aléatoire de certains cartons pour vérifier la conformité aux spécifications du client.
+- Supervision de l'ensemble du processus de chargement.
+- Scellement du conteneur avec le sceau douanier et le sceau unique d'inspection qualité.
+- Relevé du numéro de sceau et de l'heure de départ du conteneur.
 
 ### Quand réserver : le jour du chargement
 
 La supervision n'est possible que le jour du chargement : confirmez d'abord la réservation du conteneur.
 
-## 8. Dispositions de test (TA) {#ta}
+## 8. Organisation des tests (TA) {#ta}
 
-L'organisation de tests réserve des essais en laboratoire indépendant et la certification de vos produits, y compris le marquage CE pour le marché européen. BST coordonne les laboratoires partenaires en Chine : rapports d'essai et certificats sont remis par le même interlocuteur que vos inspections.
-
-BST dispose d'un laboratoire d'essais partenaire en Chine. BST peut délivrer un certificat CE pour les produits européens.
+L'organisation des tests réserve des essais en laboratoire indépendant pour vos produits, ainsi que la certification nécessaire au marché européen. BST coordonne les laboratoires partenaires en Chine et peut délivrer le certificat CE ; les rapports d'essai et les certificats sont remis par le même interlocuteur que vos inspections.
 
 ### Quand réserver : en même temps que l'inspection pré-expédition
 

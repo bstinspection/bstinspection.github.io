@@ -2,7 +2,7 @@
 layout: page
 heading: "新闻动态"
 title: "公司动态与检验行业资讯"
-description: "BST 的服务覆盖扩展、办事机构变动与检验行业观察。按国家与品类整理，供从亚洲采购的进口商参考。"
+description: "BST 的服务覆盖扩展、办事机构变动与检验行业观察，供从亚洲采购的进口商参考。"
 lang: zh
 sidebar: false
 ---

@@ -13,13 +13,13 @@ Le nouveau site de BST est en ligne. Il s'adresse aux clients du monde entier, a
 ## Ce qui change
 
 - Sept langues : anglais, chinois, français, russe, espagnol, portugais (Brésil) et arabe. Les clients peuvent lire le site dans la langue qu'ils maîtrisent le mieux.
-- Une interface propre et professionnelle avec une navigation améliorée, qui fonctionne sur ordinateur, tablette et mobile.
-- Chaque service d'assurance qualité est décrit en détail, de l'audit d'usine aux dispositions de test, avec une navigation par ancres.
+- Une interface claire et professionnelle, avec une navigation améliorée qui fonctionne sur ordinateur, tablette et mobile.
+- Chaque service d'assurance qualité est décrit en détail, de l'audit d'usine à l'organisation des tests, avec une navigation par ancres.
 - Le changement de langue vous permet de rester sur la même page.
 - L'arabe bénéficie d'une prise en charge complète de la mise en page de droite à gauche.
 
 ## Des informations de service plus claires
 
-Le nouveau site présente nos informations de service de manière plus claire et plus transparente. Nous vous invitons à le parcourir et à nous faire part de vos observations.
+Le nouveau site présente nos services de manière plus claire et plus transparente. Nous vous invitons à le parcourir et à nous faire part de vos observations.
 
 Pour toute question ou remarque, contactez [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).

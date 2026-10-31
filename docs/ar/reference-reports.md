@@ -6,4 +6,4 @@ description: "اطلع على نماذج من تقارير BST: الملاحظا
 lang: ar
 ---
 
-التقارير المرجعية متاحة عند الطلب. يرجى إرسال بريد إلكتروني إلى [info@bstinspection.com](mailto:info@bstinspection.com) أو [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).
+التقارير المرجعية متاحة عند الطلب. أرسل بريدًا إلكترونيًا إلى [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com) وسنرسل لك نموذجًا بصيغة PDF يناسب فئة منتجك.

@@ -2,28 +2,30 @@
 layout: page
 heading: "Procedimiento de pedido"
 title: "Cómo contratar una inspección"
-description: "Cuatro pasos: solicitud, confirmación del presupuesto, programación de la visita y entrega del informe. El plazo habitual es de 48 horas."
+description: "Reserve una inspección en cuatro pasos: solicitud, confirmación del presupuesto, programación de la visita y entrega del informe. Respondemos en 24 horas."
 lang: es
 ---
 
-## 1. Primero: Envíe el formulario de solicitud de inspección.
+Respondemos en un plazo de 24 horas para definir el alcance del trabajo y procuramos confirmar el pedido en un plazo de tres días. Las fechas de inspección se reservan normalmente con al menos tres días hábiles de antelación; las solicitudes urgentes se atienden según disponibilidad.
 
-Descargue el [Formulario de reserva](/BST%20booking%20form.doc) y complete la información relevante, luego envíenoslo por correo electrónico ([info@bstinspection.com](mailto:info@bstinspection.com))
+## 1. Envíe el formulario de reserva
 
-## 2. Segundo: Proporcione la información de inspección:
+Descargue el [formulario de reserva](/BST%20booking%20form.doc), rellénelo y envíelo por correo electrónico a [jeffrey@bstinspection.com](mailto:jeffrey@bstinspection.com).
+
+## 2. Envíe la documentación de inspección
 
 - Copia de la orden de compra
 - Muestra de aprobación de embalaje completo
-- Requisito o especificación del cliente (si corresponde)
+- Requisitos o especificaciones del cliente (si corresponde)
 - Factura proforma (si corresponde)
 - Lista de embalaje (si corresponde)
-- Información de contacto del proveedor
-- Información de contacto y mapa de la fábrica
+- Datos de contacto del proveedor
+- Datos de contacto de la fábrica y mapa
 
-## 3. Tercero: Los inspectores realizan la inspección en su fábrica.
+## 3. Los inspectores realizan la inspección
 
-La inspección será realizada por los inspectores de BST de acuerdo con la especificación de inspección aprobada por el cliente o los alcances generales de inspección de BST. Se emitirán borradores de informes de inspección al finalizar la inspección.
+Los inspectores de BST trabajan conforme a la especificación de inspección aprobada por el cliente o al alcance general de inspección de BST. Al finalizar la inspección se emite un borrador del informe.
 
-## 4. Cuarto: Emisión del informe de inspección el día hábil siguiente a la fecha de inspección.
+## 4. Reciba el informe el día hábil siguiente
 
-BST puede realizar inspecciones de calidad y auditorías de fábrica con un aviso mínimo de 24 horas.
+El informe final se emite el día hábil siguiente a la inspección.

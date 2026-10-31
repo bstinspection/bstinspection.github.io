@@ -8,7 +8,7 @@ lang: fr
 permalink: /fr/news/vietnam-and-bangladesh-inspection/
 ---
 
-BST a étendu sa couverture de services au Vietnam et au Bangladesh, deux pôles manufacturiers d'Asie en croissance rapide. Les clients qui veulent déplacer leur approvisionnement au-delà de la Chine ont désormais davantage d'options.
+BST a étendu sa couverture de services au Vietnam et au Bangladesh, deux pôles manufacturiers d'Asie en croissance rapide. Les clients qui souhaitent diversifier leur approvisionnement au-delà de la Chine disposent désormais de davantage d'options.
 
 ## Services désormais disponibles au Vietnam et au Bangladesh
 
@@ -16,8 +16,8 @@ La gamme complète de services peut désormais être réservée dans les deux pa
 
 - Audit d'usine (FA) : évaluer les capacités des fabricants, les systèmes qualité et la capacité de production.
 - Audit de conformité sociale (SCA) : évaluer les conditions de travail, les pratiques en matière de main-d'œuvre et la conformité au code de conduite.
-- Contrôle initial de production (IPC) : vérifier les matières premières et les composants avant le début de la production en série.
-- Contrôle en cours de production (DUPRO) : surveiller la qualité à 20–30 % d'avancement de la production.
+- Contrôle de production initiale (IPC) : vérifier les matières premières et les composants avant le début de la production en série.
+- Contrôle en cours de production (DUPRO) : surveiller la qualité à 20 à 30 % d'avancement de la production.
 - Inspection finale aléatoire (FRI) : inspection des produits finis avant expédition.
 - Supervision du chargement (L/S) : superviser le chargement et le scellement des conteneurs.
 
@@ -28,7 +28,8 @@ Au Vietnam, nous servons les clients à Hô-Chi-Minh-Ville, Hanoï, Binh Duong e
 ## Ce que cela signifie pour nos clients
 
 Les clients bénéficient de :
-- Un partenaire QA sur plusieurs pays, ce qui réduit les coûts de coordination.
+
+- Un partenaire unique en assurance qualité couvrant plusieurs pays, ce qui réduit les coûts de coordination.
 - Les mêmes normes d'inspection et le même format de rapport partout.
 - Une connaissance locale : nos inspecteurs, de langue maternelle locale, connaissent les pratiques de fabrication et les réglementations locales.
 

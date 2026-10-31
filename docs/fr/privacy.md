@@ -15,7 +15,7 @@ Ce site est un site promotionnel statique exploité par Guangzhou BST Technology
 Au sens de la législation applicable en matière de protection des données, le responsable du traitement est :
 
 - Guangzhou BST Technology Services Co., Ltd.
-- Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, Chine
+- Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China
 - Courriel : jeffrey@bstinspection.com
 
 ## 2. Nous ne collectons pas activement d'informations personnelles
@@ -46,7 +46,7 @@ Ce site ne définit ni n'utilise de cookies.
 
 ## 6. Divulgation d'informations
 
-Nous ne vendons, louons, échangeons ou partageons pas d'informations personnelles avec des tiers à des fins de marketing. En particulier, nous ne « vendons » pas d'informations personnelles au sens de la California Consumer Privacy Act (CCPA/CPRA). Nous ne pouvons divulguer des informations personnelles que :
+Nous ne vendons, ne louons, n'échangeons ni ne partageons d'informations personnelles avec des tiers à des fins de marketing. En particulier, nous ne « vendons » pas d'informations personnelles au sens de la California Consumer Privacy Act (CCPA/CPRA). Nous ne pouvons divulguer des informations personnelles que :
 
 - lorsque cela est nécessaire pour fournir les services que vous demandez ;
 - lorsque la loi applicable, une procédure judiciaire ou une demande gouvernementale l'exige ;
@@ -57,9 +57,9 @@ Nous ne vendons, louons, échangeons ou partageons pas d'informations personnell
 
 Selon votre lieu de résidence, vous pouvez bénéficier des droits suivants au titre du RGPD et/ou de la CCPA/CPRA :
 
-- droit d'accès — obtenir une copie des informations personnelles que nous détenons sur vous ;
-- droit de rectification — corriger les informations personnelles inexactes ;
-- droit à l'effacement (« droit à l'oubli ») — demander la suppression ;
+- droit d'accès : obtenir une copie des informations personnelles que nous détenons sur vous ;
+- droit de rectification : corriger les informations personnelles inexactes ;
+- droit à l'effacement (« droit à l'oubli ») : demander la suppression ;
 - droit à la limitation du traitement ;
 - droit à la portabilité des données ;
 - droit de s'opposer au traitement fondé sur l'intérêt légitime ;
@@ -94,4 +94,4 @@ Nous pouvons mettre à jour cette politique de confidentialité de temps à autr
 
 Si vous avez des questions concernant cette politique de confidentialité ou vos données personnelles, contactez-nous à jeffrey@bstinspection.com, ou par courrier à :
 
-Guangzhou BST Technology Services Co., Ltd., Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, Chine
+Guangzhou BST Technology Services Co., Ltd., Room 2803, Building 3, No. 21 Huancun Avenue, Maogang Road, Huangpu District, Guangzhou, Guangdong, China

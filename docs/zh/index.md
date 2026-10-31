@@ -2,7 +2,7 @@
 layout: home
 heading: "首页"
 title: "中国第三方验货与质量检验"
-description: "BST 为从中国及亚洲八国采购的进口商、零售商与分销商提供独立第三方验货、工厂审核与装柜监督服务，48 小时内出具英文报告。"
+description: "BST 在中国及亚洲 8 个国家提供独立第三方验货服务，为进口商安排工厂审核、过程检查与装柜监督。"
 lang: zh
 sidebar: false
 hero_image: /images/background.jpg
